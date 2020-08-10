@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "Flying with Tools",
+  "short_name": "FlyingDeuk Blog",
+  "description": "flying + Coding + living",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",

@@ -1,9 +1,9 @@
 # Site settings
 title: Flying with Tools
 SEOTitle: FlyingDeuk Blog
-header-img: img/home-bg.jpg
+header-img: img/home-bg.png
 email: deukhcho@gmail.com
-description: "flying + coding"
+description: "flying + coding + living"
 keyword: "flight, simulate, deuk, FlyingDeuk Blog, python, html, css, Web, JavaScript"
 url: "https://flyingdeuk.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -79,8 +79,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Flying + Coding + Living <br> 우리는 매일 오늘은 산다."
+sidebar-avatar: /img/deuk.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -97,7 +97,7 @@ service-worker: true
 
 
 # MathJax rendering for layout:page (e.g. post preview)
-page-mathjax: false
+page-mathjax: true
 
 
 
@@ -108,31 +108,31 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "Sherry Wu",
-        href: "https://xuechundesign.github.io"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "JiyinYiyong",
-        href: "http://tiye.me/"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
+        title: "네이버 카페 : Flying with Tools",
+        href: "https://cafe.naver.com/orange6fz9x"
+    #},{
+    #    title: "Sherry Wu",
+    #    href: "https://xuechundesign.github.io"
+    #},{
+    #    title: "Luke 的自留地",
+    #    href: "http://hmqk1995.github.io"
+    #},{
+    #    title: "Ebn's Blog",
+    #    href: "http://ebnbin.com/"
+    #},{
+    #    title: "SmdCn's Blog",
+    #    href: "http://blog.smdcn.net"
+    #},{
+    #    title: "JiyinYiyong",
+    #    href: "http://tiye.me/"
+    #},{
+    #    title: "David's Game",
+    #    href: "https://www.ruoyaowu.com/"
+    #},{
+    #    title: "DHong Say",
+    #    href: "http://dhong.co"
+    #},{
+    #    title: "尹峰以为",
+    #    href: "http://ingf.github.io/"
     }
 ]
