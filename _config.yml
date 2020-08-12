@@ -13,9 +13,7 @@ title: Flying with Tools                          # the main title
 tagline: Flying + Coding + Living  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  pilot, flying, coding, living, IT knowledge blog.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://flyingdeuk.github.io'
@@ -40,7 +38,7 @@ social:
     # Uncomment below to add more social links
     - https://www.facebook.com/deukhyeon.cho.545
     # - https://www.linkedin.com/in/username
-    - https://www.instagram.com/flyingdeuk
+    # - https://www.instagram.com/flyingdeuk
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 

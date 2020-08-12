@@ -8,4 +8,11 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+## The Things What I did, do, will do.
+
+
+- ### Flying is `Professional`.
+
+- ### Coding is `Amateur`.
+
+- ### Living is `Hero`.

@@ -6,7 +6,7 @@
 
 -
   type: github
-  icon: 'fab fa-github-alt'
+  icon: 'fab fa-github'
 -
   type: twitter
   icon: 'fab fa-twitter'
@@ -15,9 +15,15 @@
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
-  type: instagram
+#  type: rss
+#  icon: 'fas fa-rss'
+#  noblank: true
+-
+  icon: 'fab fa-facebook'
+  url: 'https://facebook.com/deukhyeon.cho.545'
+-
   icon: 'fab fa-instagram'
-  noblank: true
+  url: 'https://instagram.com/flyingdeuk'
 
 # Uncomment and complete the url below to enable more contact options
 # -
