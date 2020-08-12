@@ -12,7 +12,10 @@ title: About
 
 
 - ### Flying is `Professional`.
+> Working with Koreanair.
 
 - ### Coding is `Amateur`.
+> Studying Web and Python.
 
 - ### Living is `Hero`.
+> In Analog by Digital.
