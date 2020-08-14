@@ -24,4 +24,4 @@ Github Page에 web의 모든 기술들을 적용하여 개인 블로그를 완�
 p.s - 원작자인 Cotes Chung에게 감사한 마음을 전한다.
       Thanks to Cotes Chung!!
 
-      
+> 2020.8.14 : 일단 완성되어 commit 및 push 이후는 `_post`의 md 파일의 수정 및 삽입만으로 html의 자동 생성이 됨. 즉 반드시 pc에서만 작업하는 게 아니라. github 사이트에서의 파일 추가도 잘 됨.. run.sh등의 명령어가 html을 생성하다고 잘 못 생각함. 추가로 img파일의 위치 역시 assets안에 있지 않아도 폴더 주소만 잘 적어주면됨.
