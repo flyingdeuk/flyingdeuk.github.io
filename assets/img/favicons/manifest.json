@@ -53,6 +53,6 @@ layout: compress
     }],
     "start_url": "{{ '/index.html' | relative_url }}",
     "display": "fullscreen",
-    "theme_color": "#2a1e6b",
-    "background_color": "grey"
+    "theme_color": "grey",
+    "background_color": "white"
 }
