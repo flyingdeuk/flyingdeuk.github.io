@@ -188,6 +188,9 @@ exclude:
   - README.md
   - LICENSE
 
+plugins:
+    - jekyll-sitemap
+    
 sitemap_exclude:  # Sitemap will exclude the following items.
   fuzzy:
     - /assets/
