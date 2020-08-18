@@ -20,7 +20,7 @@ pin: true
 
 ![addhome]({{"/img/addhome.png" | relative_url}})
 
-특히 태블랫, 핸드폰에서는 "`홈화면에 추가`"기능으로 웹앱(WEB APP)으로 사용이 가능합니다.
+특히 태블랫, 핸드폰에서는 "`홈화면에 추가`"기능으로 웹앱(WEB APP)으로 사용이 가능
 > IOS - Safari, 안드로이드 - Chrome 메뉴 참조
 
 ![app]({{"/img/app.png" | relative_url}})
@@ -28,6 +28,8 @@ pin: true
 > 앱으로 바로 접속가능
 
 ![main]({{"/img/main.png" | relative_url}})
+
+> ```Social Network Follow 하시면 최근 게시물 소식을 받아 보실 수 있습니다.``` 
 
 ```
 - Category : classic 방식 검색
