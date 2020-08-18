@@ -24,7 +24,8 @@ pin: true
 > IOS - Safari, 안드로이드 - Chrome 메뉴 참조
 
 ![app]({{"/img/app.png" | relative_url}})
-> 앱으로 바로 접속가능 
+
+> 앱으로 바로 접속가능
 
 ![main]({{"/img/main.png" | relative_url}})
 
