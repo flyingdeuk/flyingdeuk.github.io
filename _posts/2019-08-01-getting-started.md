@@ -21,15 +21,16 @@ pin: true
 ![addhome]({{"/img/addhome.png" | relative_url}})
 
 특히 태블랫, 핸드폰에서는 "`홈화면에 추가`"기능으로 웹앱(WEB APP)으로 사용이 가능합니다.
+> IOS - Safari, 안드로이드 - Chrome 메뉴 참조
 
 ![app]({{"/img/app.png" | relative_url}})
+> 앱으로 바로 접속가능 
 
-IOS - Safari, 안드로이드 - Chrome 메뉴 참조
-
-** Category : classic 방식 검색
-** Tag : # tag 검색
-** Search : text 검색
-
+```
+- Category : classic 방식 검색
+- Tag : # tag 검색
+- Search : text 검색
+```
 ### Flying
 * 평소 비행에서 일기처럼 작성하던 내용
 * 궁금했던 내용 찾아본 결과
