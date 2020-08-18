@@ -26,10 +26,13 @@ pin: true
 ![app]({{"/img/app.png" | relative_url}})
 > 앱으로 바로 접속가능 
 
+![main]({{"/img/main.png" | relative_url}})
+
 ```
 - Category : classic 방식 검색
 - Tag : # tag 검색
 - Search : text 검색
+- Theme : light/dark theme 변경
 ```
 ### Flying
 * 평소 비행에서 일기처럼 작성하던 내용
