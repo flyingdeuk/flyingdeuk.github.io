@@ -29,7 +29,7 @@ pin: true
 
 ![main]({{"/img/main.png" | relative_url}})
 
-> ```Social Network Follow 하시면 최근 게시물 소식을 받아 보실 수 있습니다.``` 
+`Social Network Follow 하시면 최근 게시물 소식을 받아 보실 수 있습니다.` 
 
 ```
 - Category : classic 방식 검색
