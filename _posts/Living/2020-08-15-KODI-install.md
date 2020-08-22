@@ -26,7 +26,7 @@ FIRE TV는 Downloader라는 어플로 주소치고 Down가능함.
 
 ![kodi_2]({{"/img/living/kodi/kodi_2.jpg" | relative_url}})
 > 무기를 고르시오.<br>
-모든 버전의 OS에서 설치 가능함.
+모든 버전의 OS에서 설치 가능함.<br>
 윈도우, 맥북, 라즈베리파이까지도 설치 가능하나 IOS는 탈옥을 해야함.
 
 
