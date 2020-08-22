@@ -2,7 +2,7 @@
 title: Python
 date: 2020-08-12
 categories: [Coding, Python]
-tags: language
+tags: Language
 pin:
 ---
 
@@ -12,9 +12,9 @@ pin:
 about Python
 
 ```terminal
-$ pip installed
+$ pip install
 ```
 
-### ATOM
+## ATOM
 
 about ATOM
