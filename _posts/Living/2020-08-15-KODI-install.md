@@ -76,4 +76,4 @@ FIRE TV의 경우 32비트가 맞음.
 
 다음 과정은 KODI Addon 설정하는 방법입니다.
 
-바로가기 : [KODI Addon](https://flyingdeuk.github.io/posts/KODI/Addon/)
+바로가기 : [KODI Addon](https://flyingdeuk.github.io/posts/KODI-addon/)
