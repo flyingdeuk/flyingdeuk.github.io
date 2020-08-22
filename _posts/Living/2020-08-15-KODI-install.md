@@ -1,5 +1,5 @@
 ---
-title: KODI
+title: KODI Install
 author: FlyingDeuk
 date: 2020-08-15 20:55:00 +0800
 categories: [Living, APP]
@@ -13,6 +13,7 @@ pin:
 전 세계 프로그래머 포럼등에서 만들어 배포하는 Addon(어플과 유사한 개념)의 형태 프로그램으로 무한 확장이 가능함.<br>
 TV, 라디오, 영화, 음악, 게임등 무궁무진함.
 필자는 window10, 안드로이드 패드, 핸드폰에 설치하여 사용중임.
+
 
 ## KODI install
 ![kodi_1]({{"/img/living/kodi/kodi_1.jpg" | relative_url}})
@@ -41,14 +42,38 @@ FIRE TV의 경우 32비트가 맞음.
 
 ![kodi_set1]({{"/img/living/kodi/kodi_set1.jpg" | relative_url}})
 > 첫번째 화면 좌측 sidebar에 메뉴가 배치됨.<br>
-상단 설정 버튼으로 진입.
+해당 메뉴는 인터페이스 설정에서 설정이 가능함.
+상단 설정 버튼으로 진입.<br>
 
 ![kodi_set2](/img/living/kodi/kodi_set2.jpg)
 > 시스템 설정 기본화면. <br>
 파일관리자, 에드온, 인터페이스가 주로 많이 사용됨.<br>
+인터페이스로 이동<br>
+
 
 
 
 ### 언어 설정
 
-![kodi_set3]({{"/img/living/kodi/kodi_set3.jpg" | relative_url}})
+![kodi_set3](/img/living/kodi/kodi_set3.jpg)
+> Skin에서 Font를 Arial based로 변경 (한글은 Arial based만 가능함)
+
+![kodi_set4](/img/living/kodi/kodi_set4.jpg)
+> 지역에서 언어 Korean으로 변경하고 키보드에 Korean 키보드 추가.
+
+### 메인 메뉴 설정
+
+![kodi_skin](/img/living/kodi/kodi_skin.jpg)
+> 설정 -> 인터페이스 -> 스킨 -> 스킨설정 -> 메인 메뉴 항목 <br>
+메인 화면에서 원하는 항목만 켜고 끌수 있음.
+
+### Unknown Source 추가
+![kodi_unknown](/img/living/kodi/kodi_unknown.jpg)
+> 설정 -> 시스템 -> 에드온 <br>
+알수없는 소스를 활성화해서 Addon을 설치할 수 있게 해줌.
+
+이로써 모든 기본 설정은 완료하였습니다.
+
+다음 과정은 KODI Addon 설정하는 방법입니다.
+
+바로가기 : [KODI Addon](https://flyingdeuk.github.io/posts/KODI/Addon/)
