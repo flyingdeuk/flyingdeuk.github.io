@@ -117,7 +117,9 @@ Tving : JTBC, TVN 등등 CJ Entertainment 대부분 무료
 
 EXODUS 아이콘 길게 눌러 설정 진입
 ![kodi_addon](/img/living/kodi/kodi_exodus_st1.jpg)
+
 ![kodi_addon](/img/living/kodi/kodi_exodus_st.jpg)
+
 1. Info Language : Korean 으로 바꾸면 정보를 한글로 보여줌.
 2. Subtitle : 켜주고 Primary Language Korean으로 바꾸면 한글 자막 우선 검색 (자동임.)
 
