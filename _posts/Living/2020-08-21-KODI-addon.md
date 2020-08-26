@@ -96,7 +96,7 @@ Tving : JTBC, TVN 등등 CJ Entertainment 대부분 무료
 #### ICDRAMA Addon
 ![kodi_addon](/img/living/kodi/icdrama_set.jpg)
 > 설정 불필요 <br>
-한국 드라마, 에능 이름별 정주행 가능!!
+한국 드라마, 에능 이름별 역주행 가능!!
 
 #### Netflix Addon
 ![kodi_addon](/img/living/kodi/netflix_set.jpg)
