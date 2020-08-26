@@ -116,6 +116,7 @@ Tving : JTBC, TVN 등등 CJ Entertainment 대부분 무료
 > 자막 -> `OpenSubtitlies.org (Unofficial)` 설치
 
 EXODUS 아이콘 길게 눌러 설정 진입
+
 ![kodi_addon](/img/living/kodi/kodi_exodus_st1.jpg)
 
 ![kodi_addon](/img/living/kodi/kodi_exodus_st.jpg)
