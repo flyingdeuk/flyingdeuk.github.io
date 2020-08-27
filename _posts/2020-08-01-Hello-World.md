@@ -6,6 +6,7 @@ tags:
 pin: true
 ---
 
+## 블로그 사용 설명서
 
 ## No Log-In, No Membership, No Ads. Just Watching and Sharing
 로그인 불필요, 가입절차 불필요, 광고 없이 그냥 보고 공유하는 블로그
