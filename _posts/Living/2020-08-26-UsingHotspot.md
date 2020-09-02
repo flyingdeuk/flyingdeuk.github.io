@@ -3,7 +3,7 @@ title: 안드로이드 핸드폰 wifi 저장소로 사용하기-UsefulThing
 author: FlyingDeuk
 date: 2020-08-26 20:55:00 +0800
 categories: [Living, Device]
-tags: [UsefulThing, Android]
+tags: [UsefulThing, Android, IOS]
 pin:
 ---
 
