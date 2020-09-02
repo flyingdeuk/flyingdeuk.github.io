@@ -1,16 +1,17 @@
 ---
-title: 안드로이드 핸드폰 wifi 저장소로 사용하기-UsefulThing
+title: UTorrent 사용법(어플 소개)-UsefulAPP
 author: FlyingDeuk
 date: 2020-08-26 20:55:00 +0800
 categories: [Living, Device]
-tags: UsefulThing
+tags: UsefulAPP
 pin:
 ---
 
 `FlyingDeuk's`
-> 안드로이드 핸드폰 저장소를 wifi를 이용하여 저장소로 사용하기. <br>
-`Hotspot` 기능을 활용함. __wifi 수신기는 송신기의 역할도 한다.__  <br>
-더이상 UBS는 가지고 다니지 말자.
+> 과거 P2P(Person to Person)의 개념을 서비스하는 어플이다. <br>
+저작권과 방어벽 예외등의 이유를 들어 사용하는 사람이 많이 줄어든 편이기는 하나 간단하게 본인이 원하는 컨탠츠 및 프로그램등등을 다운받는 데는 유용하다. <br>
+__최근 Streaming을 지원해서 원하는 자료를 바로 보면서 다운로드가 가능해졌다.__ <br>
+
 
 | 준비물 (추천 어플)           |                |
 |:-------------------------|:-----------------|
@@ -92,4 +93,4 @@ __폴더 형태로 핸드폰의 저장소에 접근해서 다운로드나 실행
 ### PostScript
 아이패드나 아이폰은 음악과 영화와 같은 컨텐츠이 저작권이 강해 파일을 저장하거나 꺼내기가 불편하게 되어있음. 이와 같은 방식을 활용하면 안드로이드로 편하게 다운받은 파일들을 큰화면으로 즐길수 있고 저장도 편하게 할 수 있음.
 
-바로가기 : [Utorrent 사용법](https://flyingdeuk.github.io/posts/UsingUTorrent/) (posting 에정)
+바로가기 : Utorrent 사용법 (posting 에정)
