@@ -3,7 +3,7 @@ title: Raspberry Pi-UsefulThing
 author: FlyingDeuk
 date: 2020-08-16 20:55:00 +0800
 categories: [Living, Device]
-tags: UsefulThing
+tags: [UsefulThing, Linux]
 pin:
 ---
 

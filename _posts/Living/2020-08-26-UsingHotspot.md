@@ -3,7 +3,7 @@ title: 안드로이드 핸드폰 wifi 저장소로 사용하기-UsefulThing
 author: FlyingDeuk
 date: 2020-08-26 20:55:00 +0800
 categories: [Living, Device]
-tags: UsefulThing
+tags: [UsefulThing, Android]
 pin:
 ---
 
@@ -92,4 +92,4 @@ __폴더 형태로 핸드폰의 저장소에 접근해서 다운로드나 실행
 ### PostScript
 아이패드나 아이폰은 음악과 영화와 같은 컨텐츠이 저작권이 강해 파일을 저장하거나 꺼내기가 불편하게 되어있음. 이와 같은 방식을 활용하면 안드로이드로 편하게 다운받은 파일들을 큰화면으로 즐길수 있고 저장도 편하게 할 수 있음.
 
-바로가기 : [Utorrent 사용법](https://flyingdeuk.github.io/posts/UsingUTorrent/) (posting 에정)
+@ 바로가기 : [uTorrent 사용법(어플 소개)](/posts/UsingUTorrent/)

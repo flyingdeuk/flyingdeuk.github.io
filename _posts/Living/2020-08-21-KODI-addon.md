@@ -3,8 +3,7 @@ title: KODI Addon-UsefulAPP
 author: FlyingDeuk
 date: 2020-08-21 20:55:00 +0800
 categories: [Living, APP]
-tags: UsefulAPP
-image: /img/living/kodi/kodi_addsrc0.jpg
+tags: [UsefulAPP, MAC, Android, Windows, Linux]
 pin:
 ---
 
