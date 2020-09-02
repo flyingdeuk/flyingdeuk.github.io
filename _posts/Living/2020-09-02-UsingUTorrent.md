@@ -2,7 +2,7 @@
 title: uTorrent 사용법(어플 소개)-UsefulAPP
 author: FlyingDeuk
 date: 2020-08-26 20:55:00 +0800
-categories: [Living, Device]
+categories: [Living, APP]
 tags: [UsefulAPP, MAC, Android, Windows, Linux]
 pin:
 ---
