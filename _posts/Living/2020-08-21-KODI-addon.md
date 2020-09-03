@@ -37,6 +37,8 @@ __여러개로 분산되어 있는 Repository나 zip화일들을 하나의 정�
 
 이름 KODI로 자동 들어가며 확인으로 완료!!!
 
+----
+
 ## Addon 소개
 
 ![kodi_addon](/img/living/kodi/kodi_addon0.jpg)
@@ -64,6 +66,8 @@ P2P형식의 Torrent를 Streaming해주는 서비스로 무료로 Netflix와 유
 #### YOUTUBE
 > 설정법이 복잡한 편... 비추
 
+-----
+
 ## Addon 설치법
 ![kodi_addon](/img/living/kodi/kodi_setup_main_addon.jpg)
 > 설정 -> 에드온 <br>
@@ -79,6 +83,8 @@ flyingdeuk addon 저장소 설정을 하셨으므로 에드온 설치를 위해�
 
 ![kodi_addon](/img/living/kodi/kodi_flyingdeuk.jpg)
 > list에 있는 모든 것을 하나씩 눌러 설치한다.
+
+----
 
 ## Addon별 설정법
 > 기본 설정은 확인 버튼을 길게 또는 엔터를 길게 또는 마우스 오른쪽 버튼 누르고 `설정`누름.

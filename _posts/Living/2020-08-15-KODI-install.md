@@ -34,7 +34,7 @@ FIRE TV는 Downloader라는 어플로 주소치고 Down가능함.
 > 본인의 사양에 맞는 버전을 선택<br>
 FIRE TV의 경우 32비트가 맞음.
 
-
+----
 
 ## KODI setup
 ![kodi_main]({{"/img/living/kodi/kodi_main.jpg" | relative_url}})
