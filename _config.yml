@@ -40,7 +40,8 @@ social:
     # - https://www.linkedin.com/in/username
     # - https://www.instagram.com/flyingdeuk
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification: kccfnSHFfD2sbpFsB-_Kxh5UiT19LmDMcHXAyOf5tPU
+ # change to your verification string
 
 #--------------------------
 
@@ -53,7 +54,7 @@ baseurl: ''
 timezone: Asia/Seoul
 
 google_analytics:
-  id: ''          # Fill with your Google Analytics ID
+  id: 'UA-175435697-1'          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
