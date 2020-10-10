@@ -11,6 +11,8 @@ pin:
 조종사마다 의견이 분분하나 기술부서의 문의 결과이다. <br>
 어디에서도 찾을 수 없었음. AIM, Jeppesen등등...
 
+![ident](/img/flying/sense/ident.jpg)
+
 ## AIRAC 당일 FMS NDB 변경 기준
 - 대부분의 국가는 AIRAC 당일 00 UTC 기준으로 항로 및 절차 변경을 적용 중이나,
 - 일부 국가(한국, 중국, 일본) 중에는 AIRAC 변경 시간을 자국의 Local Time 기준으로

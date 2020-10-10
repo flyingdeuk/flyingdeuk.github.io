@@ -11,6 +11,8 @@ pin:
 특히 장거리 비행의 경우 Step Climb하는 이유이다. <br>
 이를 위해 항공기 제작사에서는 다음과 같은 개념을 적용하여 운영하게 제작된다. <br>
 
+![crz](/img/flying/sense/crz.jpg)
+
 ## CRZ ALT(Step Climb)
 
 ### OPT ALT - calculation of OPT altitude is based on
