@@ -7,6 +7,8 @@ tags: [UsefulAPP, MAC, Android, Windows, Linux]
 pin:
 ---
 
+Revision : PRESS PLAY 추가 (2020.10.26)
+
 `FlyingDeuk's`
 > KODI 안에서 사용할 어플과 같은 프로그램을 addon이라 부름. <br>
 App Store, Play Store같은 Market대신 OpenSource 공유하는 Repository나 zip화일로 설치됨. <br>
@@ -66,6 +68,12 @@ P2P형식의 Torrent를 Streaming해주는 서비스로 무료로 Netflix와 유
 #### YOUTUBE
 > 설정법이 복잡한 편... 비추
 
+![kodi](/img/living/kodi/press.jpg)
+
+#### PRESS PLAY
+> Exodus와 거의 같은 형식에 Provider가 다른 Renewal된 Addon으로 기존 Exodus 설치자는 자동으로 업데이트되며 생성됨. <br>
+개별 설치는 Exodus 설치하는 저장소 안에 맨위에 위치해 있음.
+
 -----
 
 ## Addon 설치법
@@ -109,7 +117,7 @@ Tving : JTBC, TVN 등등 CJ Entertainment 대부분 무료
 > 로그아웃 부분에 로그인하여 사용 <br>
 세부 설정은 굳이 필요하지 않으나 원하면 도전!!!
 
-#### EXODUS Addon
+#### EXODUS / PRESS PLAY Addon
 ![kodi_addon](/img/living/kodi/kodi_addon.jpg)
 > `저장소에서 설치` 선택 <br>
 다른 저장소에서 세부 plugin이 필요함.
