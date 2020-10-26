@@ -1,5 +1,5 @@
 ---
-title: KODI Install-UsefulAPP
+title: KODI 1. 기본 설치 & 설정법-UsefulAPP
 author: FlyingDeuk
 date: 2020-08-15 20:55:00 +0800
 categories: [Living, APP]
@@ -16,7 +16,7 @@ TV, 라디오, 영화, 음악, 게임등 무궁무진함.
 
 
 ## KODI install
-![kodi_1]({{"/img/living/kodi/kodi_1.jpg" | relative_url}})
+![kodi_1](/img/living/kodi/kodi_1.jpg)
 
 <https://kodi.tv>
 > kodi.tv 사이트 접속<br>
@@ -24,23 +24,23 @@ window10, 안드로이드는 해당 스토어에서 바로 설치가능. (자동
 FIRE TV는 Downloader라는 어플로 주소치고 Down가능함.
 
 
-![kodi_2]({{"/img/living/kodi/kodi_2.jpg" | relative_url}})
+![kodi_2](/img/living/kodi/kodi_2.jpg)
 > 무기를 고르시오.<br>
 모든 버전의 OS에서 설치 가능함.<br>
 윈도우, 맥북, 라즈베리파이까지도 설치 가능하나 IOS는 탈옥을 해야함.
 
 
-![kodi_3]({{"/img/living/kodi/kodi_3.jpg" | relative_url}})
+![kodi_3](/img/living/kodi/kodi_3.jpg)
 > 본인의 사양에 맞는 버전을 선택<br>
 FIRE TV의 경우 32비트가 맞음.
 
 ----
 
 ## KODI setup
-![kodi_main]({{"/img/living/kodi/kodi_main.jpg" | relative_url}})
+![kodi_main](/img/living/kodi/kodi_main.jpg)
 > 현재 최신버전 18.8(19베타버전 나옴)
 
-![kodi_set1]({{"/img/living/kodi/kodi_set1.jpg" | relative_url}})
+![kodi_set1](/img/living/kodi/kodi_set1.jpg)
 > 첫번째 화면 좌측 sidebar에 메뉴가 배치됨.<br>
 해당 메뉴는 인터페이스 설정에서 설정이 가능함.
 상단 설정 버튼으로 진입.<br>
@@ -76,4 +76,4 @@ FIRE TV의 경우 32비트가 맞음.
 
 다음 과정은 KODI Addon 설정하는 방법입니다.
 
-바로가기 : [KODI Addon](https://flyingdeuk.github.io/posts/KODI-addon/)
+바로가기 : [KODI 2. 에드온 설치 및 설정법](https://flyingdeuk.github.io/posts/KODI-addon/)

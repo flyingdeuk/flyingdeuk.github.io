@@ -1,5 +1,5 @@
 ---
-title: KODI Addon-UsefulAPP
+title: KODI 2. 에드온 설치 및 설정-UsefulAPP
 author: FlyingDeuk
 date: 2020-08-21 20:55:00 +0800
 categories: [Living, APP]
@@ -56,7 +56,7 @@ FIRE TV에 설치하면 IP TV 해지해도 될 정도임...<br>
 #### Icdrama
 > 동남아시아 지역, 즉 중국 일본 한국 대만 정도의 유명 드라마와 예능 재방송을 한대 모아놓은 서비스이다. <br>
 무료이나 업데이트까지 시간이 조금 걸리는 편임. <br>
-원하는 프로그램 역주행하기 좋음.
+원하는 프로그램 정주행하기 좋음.
 
 #### Exodus
 > 전세계 KODI사용자의 1위 어플.<br>

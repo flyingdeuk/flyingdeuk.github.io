@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi-UsefulThing
+title: Raspberry Pi-라즈베리 파이-UsefulThing
 author: FlyingDeuk
 date: 2020-08-16 20:55:00 +0800
 categories: [Living, Device]
