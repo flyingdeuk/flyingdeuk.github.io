@@ -1,5 +1,5 @@
 ---
-title: [ALL]KODI 2. 에드온 설치 및 설정-UsefulAPP
+title: (ALL)KODI 2. 에드온 설치 및 설정-UsefulAPP
 author: FlyingDeuk
 date: 2020-08-21 20:55:00 +0800
 categories: [Living, APP]
