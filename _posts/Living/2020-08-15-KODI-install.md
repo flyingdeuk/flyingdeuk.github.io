@@ -1,5 +1,5 @@
 ---
-title: KODI 1. 기본 설치 & 설정법-UsefulAPP
+title: [ALL]KODI 1. 기본 설치 & 설정법-UsefulAPP
 author: FlyingDeuk
 date: 2020-08-15 20:55:00 +0800
 categories: [Living, APP]
