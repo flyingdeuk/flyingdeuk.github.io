@@ -47,6 +47,9 @@
   filename: 'FMS-effective-date'
   lastmod: '2020-12-10 07:16:00 +0900'
 -
+  filename: 'speed'
+  lastmod: '2020-12-10 19:53:27 +0900'
+-
   filename: 'STAR-SID'
   lastmod: '2020-12-10 07:20:34 +0900'
 -
@@ -69,7 +72,7 @@
   lastmod: '2020-12-10 07:16:00 +0900'
 -
   filename: 'KJFK-JFK'
-  lastmod: '2020-11-08 04:34:10 -0500'
+  lastmod: '2020-12-17 16:31:36 -0500'
 -
   filename: 'LSZH-ZRH'
   lastmod: '2020-11-08 04:34:10 -0500'
@@ -78,7 +81,7 @@
   lastmod: '2020-11-08 04:34:10 -0500'
 -
   filename: 'WIII-CGK'
-  lastmod: '2020-11-08 04:34:10 -0500'
+  lastmod: '2020-12-17 16:31:36 -0500'
 -
   filename: 'LLBG-TLV'
   lastmod: '2020-12-10 07:16:00 +0900'
@@ -105,7 +108,7 @@
   lastmod: '2020-11-08 04:34:10 -0500'
 -
   filename: 'NZAA-AKL'
-  lastmod: '2020-11-08 04:34:10 -0500'
+  lastmod: '2020-12-17 16:31:36 -0500'
 -
   filename: 'CYYZ-YYZ'
   lastmod: '2020-11-08 04:34:10 -0500'
@@ -174,7 +177,7 @@
   lastmod: '2020-11-08 04:34:10 -0500'
 -
   filename: 'KSFO-SFO'
-  lastmod: '2020-11-08 04:34:10 -0500'
+  lastmod: '2020-12-17 16:31:36 -0500'
 -
   filename: 'EGLL-LHR'
   lastmod: '2020-11-06 01:03:50 +0900'
