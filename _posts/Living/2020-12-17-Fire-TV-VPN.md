@@ -13,7 +13,9 @@ pin:
 > 호텔에서의 Entertainment를 위해 사용중인 Fire TV에서 한국 방송을 보고 싶다는 욕구에 연구해 본 결과이다. <br>
 Fire TV는 Setup Box의 특성상 VPN설정이 패드나 핸드폰보다는 까다롭다고 하겠다. <br>
 Amazon App Store의 정식 App을 사용하는 방법이다. <br>
-다소 복잡할 수 있지만 live로 한국 방송을 본다는 건....
+다소 복잡할 수 있지만 live로 한국 방송을 본다는 건.... <br>
+**NETFLIX 역시 한국 조건으로 시청이 가능하다.**
+
 
 
 ## 필수 App 설치
