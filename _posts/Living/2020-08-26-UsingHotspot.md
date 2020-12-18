@@ -3,7 +3,7 @@ title: (Android)휴대폰 wifi 저장소로 사용하기-UsefulAPP
 author: FlyingDeuk
 date: 2020-08-26 20:55:00 +0800
 categories: [Living, APP]
-tags: [UsefulThing, Android, IOS]
+tags: [UsefulAPP, Android, IOS]
 pin:
 ---
 

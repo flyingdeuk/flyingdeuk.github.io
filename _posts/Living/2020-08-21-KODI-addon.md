@@ -8,13 +8,15 @@ pin:
 ---
 
 Revision : PRESS PLAY 추가 (2020.10.26)
+           한국 TV Addon 저장소 추가(2020.12.17)
 
 `FlyingDeuk's`
 > KODI 안에서 사용할 어플과 같은 프로그램을 addon이라 부름. <br>
 App Store, Play Store같은 Market대신 OpenSource 공유하는 Repository나 zip화일로 설치됨. <br>
 
 __여러개로 분산되어 있는 Repository나 zip화일들을 하나의 정상소로 묶어서 관리할 예정입니다.__
-> addon 만들어 주신 분들께 감사함을 전합니다.
+> addon 만들어 주신 분들께 감사함을 전합니다. <br>
+이번에 추가된 저장소를 선물해주신 kym1088(NightRain)님께 감사드립니다. 비영리로 운영됨을 알려드립니다.
 
 
 ## FlyingDeuk Addon 저장소 연결
@@ -45,14 +47,15 @@ __여러개로 분산되어 있는 Repository나 zip화일들을 하나의 정�
 
 ![kodi_addon](/img/living/kodi/kodi_addon0.jpg)
 
-#### Tving, Wavve
+#### Tving, Wavve, SPOTV
 > 얼마 전부터 Tving과 Wavve(구 POOQ)가 실시간 방송 720p 화질에 한해서 무료회원가입으로 볼 수 있게 서비스하고 있다. <br>
+한국 스포츠채널로 유명한 SPOTV도 역시 무료회원가입으로 시청이 가능해졌다. <br>
 물론 해당 어플이나 사이트에서 봐도 되나 무료인대신 광고가 지겹게 나오게 된다... 하지만 Kodi Addon에 광고는 없다. <br>
 FIRE TV에 설치하면 IP TV 해지해도 될 정도임...<br>
 단, 한국에서만 됨...(해외에서는 VPN 사용하면 해결됨) -> VPN 포스팅 예정!!!
 
-#### Netflix
-> Netflix 또한 KODI내에서 볼 수 있다.(물론 회원권이 있어야겠지만...)<br>
+#### Netflix, WATCHA
+> Netflix, WATCHA 또한 KODI내에서 볼 수 있다.(물론 회원권이 있어야겠지만...)<br>
 마우스나 터치가 아닌 화살표 키로 컨트롤을 원하면 설치하면 잘됨.
 
 #### Icdrama
@@ -90,14 +93,44 @@ flyingdeuk addon 저장소 설정을 하셨으므로 에드온 설치를 위해�
 > flyingdeuk addon 저장소 이름 `kodi`로 진입
 
 ![kodi_addon](/img/living/kodi/kodi_flyingdeuk.jpg)
-> list에 있는 모든 것을 하나씩 눌러 설치한다.
+> 녹색 박스안에 있는 내용들만 설치하면된다. (2020.12.17) <br>
+indigo, icdrama, kodibae, nightrain, superrepo 이다.  
+
+### TVING, WAVVE, WATCHA, NETFLIX, SPOTV 설치
+새롭게 한국 addon을 package로 설치가 가능해 졌다.
+
+![kodi_addon](/img/living/kodi/kodi_addon.jpg)
+> `저장소에서 설치` 선택 <br>
+다른 저장소에서 세부 plugin이 필요함.
+
+![kodi_addon](/img/living/kodi/kodi_ko1.jpg)
+> Korea OTT Package -> 비디오 에드온 으로 진입
+
+![kodi_addon](/img/living/kodi/kodi_ko.jpg)
+> 해당 에드온들을 모두 설치
+
+
+
+### EXODUS, PRESS PLAY, 자막 설치
+
+![kodi_addon](/img/living/kodi/kodi_addon.jpg)
+> `저장소에서 설치` 선택 <br>
+다른 저장소에서 세부 plugin이 필요함.
+
+![kodi_addon](/img/living/kodi/kodi_repo.jpg)
+1. Kodi Bae Repository
+> 비디오 에드온 -> `EXODUS` 설치
+
+2. SuperRepo All
+> 자막 -> `OpenSubtitlies.org (Unofficial)` 설치
+
 
 ----
 
 ## Addon별 설정법
 > 기본 설정은 확인 버튼을 길게 또는 엔터를 길게 또는 마우스 오른쪽 버튼 누르고 `설정`누름.
 
-#### Tving, Wavve Addon
+#### Tving, Wavve, WATCHA, SPOTV Addon
 ![kodi_addon](/img/living/kodi/tving_set.jpg)
 > 아이디/페스워즈 (미리 무료가입한...)와 720p 이하 선택 <br>
 Tving, Wavve 동일한 방법
@@ -118,18 +151,6 @@ Tving : JTBC, TVN 등등 CJ Entertainment 대부분 무료
 세부 설정은 굳이 필요하지 않으나 원하면 도전!!!
 
 #### EXODUS / PRESS PLAY Addon
-![kodi_addon](/img/living/kodi/kodi_addon.jpg)
-> `저장소에서 설치` 선택 <br>
-다른 저장소에서 세부 plugin이 필요함.
-
-![kodi_addon](/img/living/kodi/kodi_repo.jpg)
-1. Kodi Bae Repository
-> 비디오 에드온 -> `EXODUS` 설치
-
-2. SuperRepo All
-> 자막 -> `OpenSubtitlies.org (Unofficial)` 설치
-
-EXODUS 아이콘 길게 눌러 설정 진입
 ![kodi_addon](/img/living/kodi/kodi_exodus_st1.jpg)
 ![kodi_addon](/img/living/kodi/kodi_exodus_st.jpg)
 
