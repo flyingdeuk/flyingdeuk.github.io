@@ -108,10 +108,9 @@ Internal Storage -> **Downloader** 풀더로 진입(Download 아님)
 >실시간 TV, TVING TV 무료!!
 
 #### WAVVE
->LIVE 채널 일부를 제외하고 무료시청가능!!
 
 ![vpn](/img/living/fire/vpn/vpn16.jpg)
->DOWNLOADER 실행하고 URL입력
+>LIVE 채널 일부를 제외하고 무료시청가능!!
 
 #### KODI Addon
 KODI addon의 해당 addon에서도 시청이 가능함.
