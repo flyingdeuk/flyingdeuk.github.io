@@ -14,6 +14,8 @@ Netflix 역시 나라마다 서비스가 달라지니 환국에서와 동일한 
 
 해당 내용은 [IPTIME 공유기 외부(해외)에서 접속하기](/posts/IptimeSet/) 이후의 내용임.
 
+내 공유기의 DDNS 주소값은 **flyingdeuk.iptime.org** 가 된다.
+
 ## VPN 설정법
 IPTIME의 설정에 접속한다. (외부든 내부든 상관없음)
 
@@ -23,7 +25,7 @@ IPTIME의 설정에 접속한다. (외부든 내부든 상관없음)
 #### VPN 서버설정
 PPTP 서버 : 실행 클릭, 암호화 사용 클릭 (안드로이드 계열에서 주로 사용) <br>
 L2TP 서버 : 실행 클릭, 추가적인 비밀키 입력 (IOS 계열에서 주로 사용) <br>
-`적용` 누르는 거 잊지말자...
+**적용** 누르는 거 잊지말자...
 
 #### VPN 접속 계정 추가
 VPN 접속 계정 : 아이디 아무거나 <br>
@@ -63,8 +65,8 @@ L2TP 방식이라 비밀 키를 추가로 넣어야한다.
 ![vpn](/img/living/iptime/iptimevpn20.jpg)
 >어플 설치 없이 보기 위해서는 데스크탑 버전으로 보기를 해야 어플 설치창이 뜨지않는다. <br>
 잘 나온다.
-#### SPOTV NOW(spotvnow.co.kr)
 
+#### SPOTV NOW(spotvnow.co.kr)
 ![vpn](/img/living/iptime/iptimevpn21.jpg)
 >데스크탑 버전에 상관없이 잘나온다.
 
