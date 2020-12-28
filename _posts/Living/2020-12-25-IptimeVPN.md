@@ -14,7 +14,7 @@ Netflix 역시 나라마다 서비스가 달라지니 환국에서와 동일한 
 
 해당 내용은 [IPTIME 공유기 외부(해외)에서 접속하기](/posts/IptimeSet/) 이후의 내용임.
 
-내 공유기의 DDNS 주소값은 **flyingdeuk.iptime.org** 가 된다.
+내 공유기의 DDNS 주소값은 **deuktest.iptime.org** 가 된다.
 
 ## VPN 설정법
 IPTIME의 설정에 접속한다. (외부든 내부든 상관없음)
@@ -40,7 +40,8 @@ VPN 접속 암호 : 알아서 <br>
 `VPN 구성 추가`
 
 ![vpn](/img/living/iptime/iptimevpn6.jpg)
->상기 IPTIME 설정에 넣은 내용들을 넣어준다. <br>
+>서버는 내 공유기 주소 deuktest.iptime.org<br>
+상기 IPTIME 설정에 넣은 내용들을 넣어준다. <br>
 L2TP 방식이라 비밀 키를 추가로 넣어야한다.
 
 이제 VPN 연결을 누르고 한국 OTT 사이트(또는 APP)에 들어가서 시청하면 끝!!!
