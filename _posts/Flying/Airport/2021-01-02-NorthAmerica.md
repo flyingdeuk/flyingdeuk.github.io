@@ -1,6 +1,6 @@
 ---
 title: NorthAmerica
-date: 2020-11-06
+date: 2021-01-02
 categories: [Flying, Airport]
 tags: INDEX
 pin:
