@@ -26,7 +26,7 @@ Route 절차는 Polar, Oceanic 절차를 다 포함한다.
 #### [PANC(ANC)-미국 알레스카(테드 스티븐스 공항)](/posts/PANC-ANC/)
 
 ### 미국
-#### [KATL(ATL)-미국 애틀란타(하츠필드 잭슨 공항)](/posts/KATK-ATL/)
+#### [KATL(ATL)-미국 애틀란타(하츠필드 잭슨 공항)](/posts/KATL-ATL/)
 
 #### [KDFW(DFW)-미국 댈러스(포트워스 공항)](/posts/KDFW-DFW/)
 
