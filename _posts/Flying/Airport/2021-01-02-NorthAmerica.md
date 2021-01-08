@@ -8,17 +8,6 @@ pin:
 
 `FlyingDeuk's`
 >북미 대륙 전체를 포함한다. (알레스카, 캐나다, 미국)<br>
-Route 절차는 Polar, Oceanic 절차를 다 포함한다.
-
-`From Wiki's`
->
-
-## ROUTE
-### NOPAC
-
-### PACOT
-
-### POLAR
 
 ## AIRPORT
 
