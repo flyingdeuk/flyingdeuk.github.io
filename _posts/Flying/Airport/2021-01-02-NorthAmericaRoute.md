@@ -2,7 +2,7 @@
 title: NorthAmerica Route
 date: 2021-01-02
 categories: [Flying, Airport]
-tags: INDEX
+tags: [INDEX, NorthAmerica]
 pin:
 ---
 
