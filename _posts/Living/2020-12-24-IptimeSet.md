@@ -2,8 +2,8 @@
 title: IPTIME 공유기 외부(해외)에서 접속하기-IPTIME A8004T Setup for outside control-UsefulThing
 author: FlyingDeuk
 date: 2020-12-24 20:55:00 +0800
-categories: [Living, APP]
-tags: [UsefulAPP, IPTIME]
+categories: [Living]
+tags: [UsefulThing, IPTIME]
 pin:
 ---
 
