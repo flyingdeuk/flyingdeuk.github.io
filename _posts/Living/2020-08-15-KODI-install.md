@@ -1,5 +1,5 @@
 ---
-title: (ALL)KODI 1. 기본 설치 & 설정법-UsefulAPP
+title: KODI 기본 설치법(Install)-UsefulAPP
 author: FlyingDeuk
 date: 2020-08-15 20:55:00 +0800
 categories: [Living]
@@ -8,19 +8,16 @@ pin:
 ---
 
 `FlyingDeuk's`
-> OpenSource(무료)로 개발된 MediaCenter 프로그램. <br>
-과거 Flat TV의 등장으로 HomeTheater 보급이 이루어지던 시기 XBMC라는 이름으로 비영리 포럼에서 만든 프로그램.<br>
-전 세계 프로그래머 포럼등에서 만들어 배포하는 Addon(어플과 유사한 개념)의 형태 프로그램으로 무한 확장이 가능함.<br>
-TV, 라디오, 영화, 음악, 게임등 무궁무진함.
-필자는 window10, 안드로이드 패드, 핸드폰에 설치하여 사용중임.
-
+> 모든 형태의 기기에서 사용이 가능하다. (IOS 제외) <br>
+Play store, 홈페이지에서 직접 설치가 가능하다. <br>
+리눅스의 경우는 CLI에서 명령어로 설치해야하며 모든 방법은 홈페이지에서 확인 가능함.
 
 ## KODI install
 ![kodi_1](/img/living/kodi/kodi_1.jpg)
 
 <https://kodi.tv>
-> kodi.tv 사이트 접속<br>
-window10, 안드로이드는 해당 스토어에서 바로 설치가능. (자동 업데이트 지원됨)<br>
+> 상기의 공식사이트에 접속하면 방법을 다 알려주시 걱정이 없다.<br>
+windows10, 안드로이드는 스토어에서 바로 설치가능. (자동 업데이트 지원됨)<br>
 FIRE TV는 Downloader라는 어플로 주소치고 Down가능함.
 
 
@@ -34,46 +31,10 @@ FIRE TV는 Downloader라는 어플로 주소치고 Down가능함.
 > 본인의 사양에 맞는 버전을 선택<br>
 FIRE TV의 경우 32비트가 맞음.
 
-----
+#### Postscript
+너무 간단할 정도로 설치가 간단하다. 추후 궁금증이 있는 경우 역시 해당 공식사이트나 Googling으로 해결 가능하다. <br>
+**전세계의 정말 많은 사람들이 적어놓은 것들이 많기 때문이다.**
 
-## KODI setup
-![kodi_main](/img/living/kodi/kodi_main.jpg)
-> 현재 최신버전 18.8(19베타버전 나옴)
+다음은 기본 설정하는 방법이다.
 
-![kodi_set1](/img/living/kodi/kodi_set1.jpg)
-> 첫번째 화면 좌측 sidebar에 메뉴가 배치됨.<br>
-해당 메뉴는 인터페이스 설정에서 설정이 가능함.
-상단 설정 버튼으로 진입.<br>
-
-![kodi_set2](/img/living/kodi/kodi_set2.jpg)
-> 시스템 설정 기본화면. <br>
-파일관리자, 에드온, 인터페이스가 주로 많이 사용됨.<br>
-인터페이스로 이동<br>
-
-
-
-
-### 언어 설정
-
-![kodi_set3](/img/living/kodi/kodi_set3.jpg)
-> Skin에서 Font를 Arial based로 변경 (한글은 Arial based만 가능함)
-
-![kodi_set4](/img/living/kodi/kodi_set4.jpg)
-> 지역에서 언어 Korean으로 변경하고 키보드에 Korean 키보드 추가.
-
-### 메인 메뉴 설정
-
-![kodi_skin](/img/living/kodi/kodi_skin.jpg)
-> 설정 -> 인터페이스 -> 스킨 -> 스킨설정 -> 메인 메뉴 항목 <br>
-메인 화면에서 원하는 항목만 켜고 끌수 있음.
-
-### Unknown Source 추가
-![kodi_unknown](/img/living/kodi/kodi_unknown.jpg)
-> 설정 -> 시스템 -> 에드온 <br>
-알수없는 소스를 활성화해서 Addon을 설치할 수 있게 해줌.
-
-이로써 모든 기본 설정은 완료하였습니다.
-
-다음 과정은 KODI Addon 설정하는 방법입니다.
-
-바로가기 : [KODI 2. 에드온 설치 및 설정법](https://flyingdeuk.github.io/posts/KODI-addon/)
+바로가기 : [KODI 기본 설정법(Setup)](/posts/KODI-install1/)
