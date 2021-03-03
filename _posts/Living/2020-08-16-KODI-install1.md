@@ -7,6 +7,8 @@ tags: [UsefulAPP, MAC, Android, Windows, Linux]
 pin:
 ---
 
+Revision : 자막 언어 설정법 추가(2021.03.02)
+
 `FlyingDeuk's`
 > 전세계의 유저를 갖고 있는 만큼 언어설정 및 한국어에 맞게 설정을 해줘야함. <br>
 부족하거나 궁금한 부분은 구글에...
@@ -37,6 +39,17 @@ pin:
 
 ![kodi_set4](/img/living/kodi/kodi_set4.jpg)
 > 지역에서 언어 Korean으로 변경하고 키보드에 Korean 키보드 추가.
+
+### 자막 언어 설정
+![kodi_sub](/img/living/kodi/kodi_sub.jpg)
+> 설정 - 플레이어 로 진입
+
+![kodi_sub1](/img/living/kodi/kodi_sub1.jpg)
+> 선호오디오 **미디어기본** 그대로 두고 <br>
+선호 자막 언어 **Korean** 으로<br>
+다운로드 자막 언어 **Korean** 으로 변경 <br>
+
+아래에로 내리면 **"첫번째 자막 자동으로 다운로드"** 로 자동 다운로드도 가능함
 
 
 ### 메인 메뉴 설정
