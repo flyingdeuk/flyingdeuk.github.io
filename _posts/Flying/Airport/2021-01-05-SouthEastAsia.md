@@ -25,6 +25,8 @@ pin:
 
 #### [WMKK(KUL)-말레이시아 쿠알라룸푸르(쿠알라룸푸르 공항)](/posts/WMKK-KUL/)
 
+#### [WMKP(PEN)-말레이시아 페낭(페낭 공항)](/posts/WMKP-PEN/)
+
 #### [RPLL(MNL)-필리핀 마닐라(니노이 아키노 공항)](/posts/RPLL-MNL/)
 
 #### [VVTS(SGN)-베트남 호찌민(탄손나트 공항)](/posts/VVTS-SGN/)
