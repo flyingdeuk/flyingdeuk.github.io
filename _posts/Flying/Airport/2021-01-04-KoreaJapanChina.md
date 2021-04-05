@@ -21,4 +21,6 @@ pin:
 
 ### China
 
+#### [ZSPD(PVG)-중국 상하이(푸동 공항)](/posts/ZSPD-PVG/)
+
 #### [VHHH(HKG)-중국 홍콩(홍콩 공항)](/posts/VHHH-HKG/)
