@@ -1,7 +1,7 @@
 ---
 title: (FAA vs ICAO) 간단한 구별법-FlyingSense
 date: 2020-12-1
-categories: [Flying, FlyingSense]
+categories: [Flying, FlyingSense-내가 찾아본 거]
 tags: [FlyingSense, FAA, ICAO]
 pin:
 ---
