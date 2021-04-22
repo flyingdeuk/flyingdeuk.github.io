@@ -1,7 +1,7 @@
 ---
 title: Cruise Altitude(Step Climb)에 대하여-FlyingSense
 date: 2020-09-02
-categories: [Flying, FlyingSense-내가 찾아본 거]
+categories: [Flying, FlyingSense]
 tags: [FlyingSense, FMS, CRZ]
 pin:
 ---

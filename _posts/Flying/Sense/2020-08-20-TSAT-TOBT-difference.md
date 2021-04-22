@@ -1,7 +1,7 @@
 ---
 title: TOBT, TSAT의 차이점-FlyingSense
 date: 2020-08-20
-categories: [Flying, FlyingSense-내가 찾아본 거]
+categories: [Flying, FlyingSense]
 tags: [FlyingSense, TOBT, TSAT]
 pin:
 ---
