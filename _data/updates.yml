@@ -171,7 +171,7 @@
   lastmod: '2021-03-28 23:25:36 -0800'
 -
   filename: 'ZSPD-PVG'
-  lastmod: '2021-04-06 09:11:43 +0900'
+  lastmod: '2021-05-14 08:13:41 +0900'
 -
   filename: 'VTSP-HKT'
   lastmod: '2021-03-28 23:25:36 -0800'
@@ -234,10 +234,13 @@
   lastmod: '2021-03-28 23:25:36 -0800'
 -
   filename: 'KoreaJapanChina'
-  lastmod: '2021-04-06 08:56:47 +0900'
+  lastmod: '2021-05-14 08:13:41 +0900'
 -
   filename: 'KIAH-IAH'
   lastmod: '2021-03-28 23:25:36 -0800'
+-
+  filename: 'EuropeRusia'
+  lastmod: '2021-05-14 08:13:41 +0900'
 -
   filename: 'KSFO-SFO'
   lastmod: '2021-03-28 23:25:36 -0800'
@@ -258,7 +261,7 @@
   lastmod: '2021-03-28 23:25:36 -0800'
 -
   filename: 'EDDF-FRA'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-05-14 08:13:41 +0900'
 -
   filename: 'LIMC-MXP'
   lastmod: '2021-03-28 23:25:36 -0800'
