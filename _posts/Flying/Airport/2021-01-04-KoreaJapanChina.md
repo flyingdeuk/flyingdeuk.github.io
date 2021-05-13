@@ -13,7 +13,7 @@ pin:
 
 ### Korea
 
-#### RESERVED
+#### [RKPC(CJU)-한국 제주(제주 공항)](/posts/RKPC-CJU/)
 
 ### Japan
 

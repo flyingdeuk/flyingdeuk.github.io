@@ -21,6 +21,8 @@ pin:
 
 #### [LFPG(CDG)-프랑스 파리(샤를 드골 공항)](/posts/LFPG-CDG/)
 
+#### [LHBP(BUD)-헝가리 부다페스트(리스트 페렌츠 공항)](/posts/LHBP-BUD/)
+
 #### [LIRF(FCO)-이탈리아 로마(피우미치노 공항)](/posts/LIRF-FCO/)
 
 #### [EDDF(FRA)독일 프랑크푸르트(암마인 공항)](/posts/EDDF-FRA/)
