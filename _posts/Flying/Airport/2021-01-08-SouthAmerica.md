@@ -16,3 +16,5 @@ pin:
 #### [SCEL(SCL)-칠레 산티아고(아르투로 메리노 베니테스 공항)](/posts/SCEL-SCL/)
 
 #### [SBKP(VCP)-브라질 캄피나스(비라코푸스 공항)](/posts/SBKP-VCP/)
+
+#### [MMGL(GDL)-멕시코 과달라하라(미겔 이달고 이 코스티야 공항)](/posts/MMGL-GDL/)

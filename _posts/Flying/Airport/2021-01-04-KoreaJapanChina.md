@@ -15,6 +15,8 @@ pin:
 
 #### [RKPC(CJU)-한국 제주(제주 공항)](/posts/RKPC-CJU/)
 
+#### [RKSS(GMP)-한국 서울(김포 공항)](/posts/RKSS-GMP/)
+
 ### Japan
 
 #### [RJTT(HND)-일본 도쿄(하네다 공항)](/posts/RJTT-HND/)
