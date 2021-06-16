@@ -1,8 +1,14 @@
-#!/usr/bin/env bash
+#!/bin/bash
 #
 # Init the evrionment for new user.
+#
+# v2.5
+# https://github.com/cotes2020/jekyll-theme-chirpy
+# © 2020 Cotes Chung
+# Published under MIT License
 
 set -eu
+
 
 ACTIONS_WORKFLOW=pages-deploy.yml
 
@@ -19,29 +25,25 @@ help() {
 check_init() {
   local _has_inited=false
 
-  if [[ ! -d docs ]]; then
-    if [[ ! -d .github ]]; then
-      _has_inited=true # --no-gh
-    else
-      if [[ -f .github/workflows/$ACTIONS_WORKFLOW ]]; then
-        # on BSD, the `wc` could contains blank
-        local _count="$(find .github/workflows/ -type f -name "*.yml" | wc -l)"
-        if [[ ${_count//[[:blank:]]/} == 1 ]]; then
-          _has_inited=true
-        fi
-      fi
+  if [[ -d .github ]]; then
+    if [[ -f .github/workflows/$ACTIONS_WORKFLOW
+      && $(find .github/workflows/ -type f -name "*.yml" | wc -l) == 1 ]]; then
+      _has_inited=true
     fi
+  else
+    _has_inited=true
   fi
 
-  if $_has_inited; then
+  if [[ $_has_inited = true ]]; then
     echo "Already initialized."
     exit 0
   fi
 }
 
+
 init_files() {
 
-  if $_no_gh; then
+  if [[ $_no_gh = true ]]; then
     rm -rf .github
   else
     mv .github/workflows/$ACTIONS_WORKFLOW.hook .
@@ -53,32 +55,34 @@ init_files() {
   rm -f .travis.yml
   rm -rf _posts/* docs
 
-  git add -A && git add .github -f
+  git add -A  && git add .github -f
   git commit -m "[Automation] Initialize the environment." -q
 
   echo "[INFO] Initialization successful!"
 }
 
+
 check_init
 
 _no_gh=false
 
-while (($#)); do
+while (( $# ))
+do
   opt="$1"
   case $opt in
     --no-gh)
       _no_gh=true
       shift
       ;;
-    -h | --help)
+    -h|--help)
       help
       exit 0
       ;;
-    *)
-      # unknown option
-      help
-      exit 1
-      ;;
+  *)
+    # unknown option
+    help
+    exit 1
+    ;;
   esac
 done
 

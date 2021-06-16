@@ -1,8 +1,12 @@
 #  The contact options.
+#  v2.3
+#  https://github.com/cotes2020/jekyll-theme-chirpy
+#  © 2020 Cotes Chung
+#  MIT Licensed
 
 -
   type: github
-  icon: 'fab fa-github-alt'
+  icon: 'fab fa-github'
 -
   type: twitter
   icon: 'fab fa-twitter'
@@ -11,20 +15,23 @@
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
+#  type: rss
+#  icon: 'fas fa-rss'
+#  noblank: true
+-
+  icon: 'fab fa-facebook'
+  url: 'https://facebook.com/deukhyeon.cho.545'
+-
+  icon: 'fab fa-instagram'
+  url: 'https://instagram.com/flyingdeuk'
 
 # Uncomment and complete the url below to enable more contact options
 # -
-#   type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your mastodon account page
 # -
-#   type: linkedin
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Linkedin homepage
 # -
-#   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage

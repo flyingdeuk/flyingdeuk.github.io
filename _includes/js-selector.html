@@ -1,63 +1,41 @@
 <!--
   JS selector for site.
+  Chirpy v2.3
+  https://github.com/cotes2020/jekyll-theme-chirpy
+  © 2020 Cotes Chung
+  MIT Licensed
 -->
 
-{% if page.layout == 'home' or page.layout == 'post' %}
-  {% if site.google_analytics.pv.proxy_endpoint or site.google_analytics.pv.cache_path %}
-    <!-- pv-report needs countup.js -->
-    <script async src="https://cdn.jsdelivr.net/npm/countup.js@1.9.3/dist/countUp.min.js"></script>
-    <script async src="{{ '/assets/js/dist/pvreport.min.js' | relative_url }}"></script>
+{% if page.layout == 'home' %}
+
+  <script src="{{ '/assets/js/home.min.js' | relative_url }}" async></script>
+
+{% elsif page.layout == 'post' %}
+
+  <script src="{{ '/assets/js/post.min.js' | relative_url }}" async></script>
+
+  {% if page.math %}
+    <!-- MathJax -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
   {% endif %}
-{% endif %}
 
-{% if page.layout == 'post' or page.layout == 'page' %}
-  <!-- image lazy-loading & popup -->
-  <script async
-    src="https://cdn.jsdelivr.net/combine/npm/lozad/dist/lozad.min.js,npm/magnific-popup@1/dist/jquery.magnific-popup.min.js"></script>
-{% endif %}
+{% elsif page.layout == 'page' %}
 
-{% if page.layout == 'home'
-    or page.layout == 'categories'
-    or page.layout == 'post'
-    or page.layout == 'page' %}
-  {% assign type = page.layout %}
+  {% if page.type == 'categories' %}
+    <script src="{{ '/assets/js/categories.min.js' | relative_url }}" async></script>
+  {% else %}
+    <script src="{{ '/assets/js/page.min.js' | relative_url }}" async></script>
+  {% endif %}
+
 {% else %}
-  {% assign type = "commons" %}
+
+  <script src="{{ '/assets/js/page.min.js' | relative_url }}" async></script>
+
 {% endif %}
 
-{% assign js = type | prepend: '/assets/js/dist/' | append: '.min.js' %}
-<script defer src="{{ js | relative_url }}"></script>
 
-{% if page.math %}
-  <!-- MathJax -->
-  <script>
-  /* see: <https://docs.mathjax.org/en/latest/options/input/tex.html#tex-options> */
-  MathJax = {
-    tex: {
-      inlineMath: [              /* start/end delimiter pairs for in-line math */
-        ['$','$'],
-        ['\\(','\\)']
-      ],
-      displayMath: [             /* start/end delimiter pairs for display math */
-        ['$$', '$$'],
-        ['\\[', '\\]']
-      ]
-    }
-  };
-  </script>
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script type="text/javascript" id="MathJax-script" async
-    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
-  </script>
-{% endif %}
-
+<!-- PWA -->
 {% if jekyll.environment == 'production' %}
-  <!-- PWA -->
-  <script defer src="{{ '/app.js' | relative_url }}"></script>
-
-  <!-- GA -->
-  {% if site.google_analytics.id %}
-    {% include google-analytics.html %}
-  {% endif %}
-
+  <script src="{{ '/app.js' | relative_url }}" defer></script>
 {% endif %}
