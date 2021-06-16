@@ -3,7 +3,7 @@ title: KODI 기본 설치법(Install)-UsefulAPP
 author: FlyingDeuk
 date: 2020-08-15 20:55:00 +0800
 categories: [Living]
-tags: [UsefulAPP, MAC, Android, Windows, Linux]
+tags: [usefulapp, mac, android, windows, linux, kodi]
 pin:
 ---
 

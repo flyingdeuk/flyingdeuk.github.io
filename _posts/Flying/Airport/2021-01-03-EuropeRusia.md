@@ -2,7 +2,7 @@
 title: Europe, Rusia-유럽, 러시아공항
 date: 2021-01-03
 categories: [Flying, Airport]
-tags: [INDEX, Europe]
+tags: [index, europe]
 pin:
 ---
 

@@ -2,7 +2,7 @@
 title: South East Asia-동남아시아공항
 date: 2021-01-05
 categories: [Flying, Airport]
-tags: [INDEX, SouthEastAsia]
+tags: [index, southeastasia]
 pin:
 ---
 

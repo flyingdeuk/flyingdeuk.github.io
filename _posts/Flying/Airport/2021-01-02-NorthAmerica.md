@@ -2,7 +2,7 @@
 title: NorthAmerica-북미공항
 date: 2021-01-02
 categories: [Flying, Airport]
-tags: [INDEX, NorthAmerica]
+tags: [index, northamerica]
 pin:
 ---
 

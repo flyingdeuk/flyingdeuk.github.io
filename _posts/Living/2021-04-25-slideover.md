@@ -3,7 +3,7 @@ title: (IPAD)SlideOver 멀티로 사용하기-SlideOver Multitasking-UsefulThing
 author: FlyingDeuk
 date: 2021-04-25
 categories: [Living]
-tags: [UsefulThing, IOS]
+tags: [usefulthing, ios, ipad]
 pin:
 ---
 

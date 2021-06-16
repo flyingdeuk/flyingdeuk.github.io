@@ -3,7 +3,7 @@ title: Fire TV 해외에서 한국TV 보기(Fire TV VPN 설정법)-UsefulAPP
 author: FlyingDeuk
 date: 2020-12-17 20:55:00 +0800
 categories: [Living]
-tags: [UsefulAPP, Android]
+tags: [usefulthing, android, firetv]
 pin:
 ---
 

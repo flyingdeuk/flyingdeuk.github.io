@@ -3,7 +3,7 @@ title: KODI 디지털 음원 출력법(SPDIF from KODI)-UsefulAPP
 author: FlyingDeuk
 date: 2021-03-03 20:55:00 +0800
 categories: [Living]
-tags: [UsefulAPP, MAC, Android, Windows, Linux]
+tags: [usefulapp, mac, android, windows, linux, kodi]
 pin:
 ---
 

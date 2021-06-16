@@ -3,7 +3,7 @@ title: KODI 에드온 저장소 연결법(Addon Repository)-UsefulAPP
 author: FlyingDeuk
 date: 2020-08-21 20:55:00 +0800
 categories: [Living]
-tags: [UsefulAPP, MAC, Android, Windows, Linux]
+tags: [usefulapp, mac, android, windows, linux, kodi]
 pin:
 ---
 

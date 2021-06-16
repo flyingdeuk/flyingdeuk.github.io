@@ -3,7 +3,7 @@ title: Raspberry Pi 4B(4GB)-라즈베리 파이 4B(4GB)-UsefulThing
 author: FlyingDeuk
 date: 2020-08-16 20:55:00 +0800
 categories: [Living, Device]
-tags: [UsefulThing, Linux]
+tags: [usefulthing, linux, raspberry]
 pin:
 ---
 

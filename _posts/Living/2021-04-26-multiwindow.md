@@ -3,7 +3,7 @@ title: (IPAD)Safari(지원앱) 여러개로 나누어 사용하기-Safari(APP) M
 author: FlyingDeuk
 date: 2021-04-26
 categories: [Living]
-tags: [UsefulThing, IOS]
+tags: [usefulthing, ios, ipad]
 pin:
 ---
 
