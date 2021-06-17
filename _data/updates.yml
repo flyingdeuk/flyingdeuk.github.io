@@ -1,294 +1,339 @@
 -
   filename: 'Welcome'
-  lastmod: '2020-10-16 00:48:34 +0900'
+  lastmod: '2021-06-16 18:18:20 -0400'
 -
   filename: 'Fire-TV'
-  lastmod: '2021-02-03 11:14:27 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KODI'
-  lastmod: '2021-03-03 17:21:40 +0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KODI-install1'
-  lastmod: '2021-03-03 15:44:41 +0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'UsingUTorrent'
-  lastmod: '2020-12-28 09:29:00 -0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
+-
+  filename: 'FireHDMI'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'PIP'
-  lastmod: '2020-12-17 21:08:21 -0500'
+  lastmod: '2021-06-16 18:22:53 -0400'
+-
+  filename: 'Iptime'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'TVinput'
-  lastmod: '2021-05-18 10:35:56 -0500'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'IpadView'
-  lastmod: '2021-01-31 16:34:06 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
+-
+  filename: 'KODI-addon3'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'IpadDict'
-  lastmod: '2021-01-31 16:34:06 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KODI19'
-  lastmod: '2021-03-03 17:21:40 +0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'UsingHotspot'
-  lastmod: '2020-12-28 09:29:00 -0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KODI-install'
-  lastmod: '2021-02-03 11:14:27 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KODI-addon2'
-  lastmod: '2021-03-03 15:44:41 +0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
+-
+  filename: 'KODI-spdif'
+  lastmod: '2021-06-16 18:22:53 -0400'
+-
+  filename: 'KODI-addon1'
+  lastmod: '2021-06-16 18:22:53 -0400'
+-
+  filename: 'onenote'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KODI-addon'
-  lastmod: '2021-02-03 11:14:27 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'RaspberryPi'
-  lastmod: '2020-12-28 09:29:00 -0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'Ipad4fing'
-  lastmod: '2021-01-31 16:34:06 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
+-
+  filename: 'multiwindow'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'IpadPdf'
-  lastmod: '2021-01-31 16:34:06 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'IptimeSet'
-  lastmod: '2021-01-31 16:34:06 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KoreanTVSites'
-  lastmod: '2021-02-15 02:26:21 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'IpadSpot'
-  lastmod: '2021-01-31 16:34:06 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'FireTV'
-  lastmod: '2021-03-03 15:44:41 +0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
+-
+  filename: 'JeppFD'
+  lastmod: '2021-06-16 18:22:53 -0400'
+-
+  filename: 'slideover'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'Fire-TV-VPN'
-  lastmod: '2021-02-03 11:14:27 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'UsingVPN'
-  lastmod: '2020-11-08 03:50:01 -0500'
+  lastmod: '2021-06-16 18:22:53 -0400'
+-
+  filename: 'Fire-TV1'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'IptimeVPN'
-  lastmod: '2021-01-31 16:34:06 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'Ipad'
-  lastmod: '2021-04-27 20:31:10 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'TSAT-TOBT-difference'
-  lastmod: '2021-04-21 20:25:22 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'AirForce'
-  lastmod: '2021-04-21 20:25:22 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'movement'
-  lastmod: '2021-04-21 20:25:22 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'FAA-ICAO-difference'
-  lastmod: '2021-04-21 20:25:22 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
+-
+  filename: 'time'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'FMS-effective-date'
-  lastmod: '2021-04-21 20:25:22 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'speed'
-  lastmod: '2021-04-21 20:25:22 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'STAR-SID'
-  lastmod: '2021-04-21 20:25:22 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'braking'
-  lastmod: '2021-04-21 20:25:22 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'Air-Space'
-  lastmod: '2021-04-21 20:25:22 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'FMS-CruiseAltitude'
-  lastmod: '2021-04-21 20:25:22 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'VHHH-HKG'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'RPLL-MNL'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'LFPG-CDG'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'VVNB-HAN'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KJFK-JFK'
-  lastmod: '2021-04-06 08:56:47 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'LSZH-ZRH'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'RKPC-CJU'
-  lastmod: '2021-05-18 10:28:51 -0500'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'VVTS-SGN'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'WIII-CGK'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'SouthEastAsia'
-  lastmod: '2021-03-03 11:25:55 +0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'NorthAmericaRoute'
-  lastmod: '2021-03-03 11:25:55 +0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'LLBG-TLV'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'WMKK-KUL'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'SCEL-SCL'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'OMDB-DXB'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KIAD-IAD'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'MMGL-GDL'
-  lastmod: '2021-05-23 21:56:51 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KMIA-MIA'
-  lastmod: '2021-04-06 08:56:47 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'ENGM-OSL'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'LFSB-BSL'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'NorthAmerica'
-  lastmod: '2021-01-25 06:13:24 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'NZAA-AKL'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'CYYZ-YYZ'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KDFW-DFW'
-  lastmod: '2021-05-18 10:28:51 -0500'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'ZSPD-PVG'
-  lastmod: '2021-05-14 08:13:41 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'VTSP-HKT'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'RPVM-CEB'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'PGUM-GUM'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KSEA-SEA'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'SBKP-VCP'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'LOWW-VIE'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KLAS-LAS'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KLAX-LAX'
-  lastmod: '2021-05-18 10:28:51 -0500'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'LEMD-MAD'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'UUEE-SVO'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'LHBP-BUD'
-  lastmod: '2021-05-18 10:28:51 -0500'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'LIRF-FCO'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KORD-ORD'
-  lastmod: '2021-05-18 10:41:51 -0500'
+  lastmod: '2021-06-16 18:22:53 -0400'
+-
+  filename: 'MiddleEastAsia'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'PANC-ANC'
-  lastmod: '2021-04-06 08:56:47 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'VTBS-BKK'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'VVDN-DAD'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'CYHZ-YHZ'
-  lastmod: '2021-04-21 20:12:59 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'WMKP-PEN'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'RJTT-HND'
-  lastmod: '2021-04-06 09:11:43 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'LKPR-PRG'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'LTBA-IST'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KoreaJapanChina'
-  lastmod: '2021-05-18 10:28:51 -0500'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KIAH-IAH'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'EuropeRusia'
-  lastmod: '2021-05-14 08:13:41 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KSFO-SFO'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'EGLL-LHR'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'VIDP-DEL'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'ESSA-ARN'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
+-
+  filename: 'RKSS-GMP'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'EHAM-AMS'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'SPJC-LIM'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'EDDF-FRA'
-  lastmod: '2021-05-14 08:13:41 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'LIMC-MXP'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'WSSS-SIN'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
+-
+  filename: 'Oceania'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KLCK-LCK'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'KATL-ATL'
-  lastmod: '2021-03-28 23:25:36 -0800'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'SouthAmerica'
-  lastmod: '2021-05-18 10:28:51 -0500'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'CYVR-YVR'
-  lastmod: '2021-05-23 21:56:51 +0900'
+  lastmod: '2021-06-16 18:22:53 -0400'
 -
   filename: 'coding-Github-Page'
-  lastmod: '2020-08-27 16:00:00 +0900'
+  lastmod: '2021-06-16 19:14:58 -0400'
+-
+  filename: 'AWS1'
+  lastmod: '2021-06-16 18:22:53 -0400'
