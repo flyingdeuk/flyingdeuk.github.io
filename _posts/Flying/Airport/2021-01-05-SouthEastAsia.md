@@ -1,5 +1,5 @@
 ---
-title: South East Asia-동남아시아공항
+title: South East Asia - 동남아시아공항
 date: 2021-01-05
 categories: [Flying, Airport]
 tags: [index, southeastasia]

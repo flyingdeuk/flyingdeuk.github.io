@@ -1,5 +1,5 @@
 ---
-title: Korea, Japan, China-국내, 일본, 중국공항
+title: Korea Japan China - 국내 일본 중국공항
 date: 2021-01-04
 categories: [Flying, Airport]
 tags: [index, korea, japan, china]

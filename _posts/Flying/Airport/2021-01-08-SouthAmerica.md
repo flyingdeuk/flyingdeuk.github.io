@@ -1,5 +1,5 @@
 ---
-title: SouthAmerica-남미공항
+title: SouthAmerica - 남미공항
 date: 2021-01-08
 categories: [Flying, Airport]
 tags: [index, southamerica]

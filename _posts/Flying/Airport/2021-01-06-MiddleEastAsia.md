@@ -1,5 +1,5 @@
 ---
-title: Middle East Asia-중동아시아공항
+title: Middle East Asia - 중동아시아공항
 date: 2021-01-06
 categories: [Flying, Airport]
 tags: [index, middleeastasia]

@@ -1,5 +1,5 @@
----
-title: NorthAmerica Route-북미공항 항로절차
+---ß
+title: NorthAmerica Route - ß북미공항 항로절차
 date: 2021-01-02
 categories: [Flying]
 tags: [index, northamerica]

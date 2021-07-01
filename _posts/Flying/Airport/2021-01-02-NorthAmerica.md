@@ -1,5 +1,5 @@
 ---
-title: NorthAmerica-북미공항
+title: NorthAmerica - ßßß북미공항
 date: 2021-01-02
 categories: [Flying, Airport]
 tags: [index, northamerica]

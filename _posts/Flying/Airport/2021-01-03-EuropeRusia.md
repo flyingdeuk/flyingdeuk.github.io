@@ -1,5 +1,5 @@
 ---
-title: Europe, Rusia-유럽, 러시아공항
+title: Europe Rusia - 유럽 러시아공항
 date: 2021-01-03
 categories: [Flying, Airport]
 tags: [index, europe]
