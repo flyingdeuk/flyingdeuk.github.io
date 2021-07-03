@@ -1,5 +1,5 @@
 ---
-title: IPTIME 공유기 한국 VPN(우리집) 접속하기-IPTIME A8004T Using Korea VPN-UsefulThing
+title: IPTIME 공유기 - 한국 VPN(우리집) 접속하기
 author: FlyingDeuk
 date: 2020-12-24 20:55:00 +0800
 categories: [Living]

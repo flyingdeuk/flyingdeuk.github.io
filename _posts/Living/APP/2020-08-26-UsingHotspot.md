@@ -1,9 +1,9 @@
 ---
-title: (Android)안드로이드 휴대폰 wifi 저장소로 사용하기-UsefulAPP
+title: Android 휴대폰 무선(wifi) 저장소로 사용하기 (Android)
 author: FlyingDeuk
 date: 2020-08-26 20:55:00 +0800
 categories: [Living, APP]
-tags: [usefulapp, android, ios, hotspot]
+tags: [usefulapp, android, ios]
 pin:
 ---
 

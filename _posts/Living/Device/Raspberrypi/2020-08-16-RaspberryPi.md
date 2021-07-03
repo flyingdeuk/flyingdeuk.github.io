@@ -1,9 +1,9 @@
 ---
-title: Raspberry Pi 4B(4GB)-라즈베리 파이 4B(4GB)-UsefulThing
+title: Raspberry Pi 4B(4GB) - 내가 쓰고 있는 프로그램들
 author: FlyingDeuk
 date: 2020-08-16 20:55:00 +0800
 categories: [Living, Device]
-tags: [usefulthing, linux, raspberry]
+tags: [usefulthing, linux, raspberrypi]
 pin:
 ---
 

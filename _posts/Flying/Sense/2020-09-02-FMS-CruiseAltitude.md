@@ -1,8 +1,8 @@
 ---
-title: Cruise Altitude(Step Climb)에 대하여-FlyingSense
+title: Cruise Altitude(Step Climb) 적용 기준
 date: 2020-09-02
 categories: [Flying, FlyingSense]
-tags: [flyingsense, fms, crz]
+tags: [flyingsense]
 pin:
 ---
 

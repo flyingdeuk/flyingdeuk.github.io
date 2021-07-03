@@ -1,5 +1,5 @@
 ---
-title: KODI 기본 설치법(Install)-UsefulAPP
+title: KODI Install - 기본 설치법 (ALL)
 author: FlyingDeuk
 date: 2020-08-15 20:55:00 +0800
 categories: [Living]
@@ -37,4 +37,4 @@ FIRE TV의 경우 32비트가 맞음.
 
 다음은 기본 설정하는 방법이다.
 
-바로가기 : [KODI 기본 설정법(Setup)](/posts/KODI-install1/)
+INDEX 바로가기 : [KODI - 최고의 무료 Media Center 어플](/posts/KODI/)

@@ -1,8 +1,8 @@
 ---
-title: FMS Effective Date 변경 기준-FlyingSense
+title: FMS Effective Date 변경 기준
 date: 2020-08-31
 categories: [Flying, FlyingSense]
-tags: [flyingsense, fms]
+tags: [flyingsense]
 pin:
 ---
 

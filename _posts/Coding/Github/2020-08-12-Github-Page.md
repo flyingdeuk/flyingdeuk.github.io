@@ -1,10 +1,12 @@
 ---
 title: Github Pages - 무료로 나만의 블로그 만들기
 date: 2020-08-12
-categories: [Coding 내 취미, Github 깃허브]
+categories: [Coding, Github]
 tags: [github]
 pin:
 ---
+
+![pages](/img/coding/github/pages.jpg)
 
 `FlyingDeuk's`
 > 네이버 블로그, 다움의 블로그, TISTORY등드의 손쉬운 블로그들을 알아보던중 Github Page라는 방법을 알아내어 지금에 이르렀다. <br>

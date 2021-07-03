@@ -1,5 +1,5 @@
 ---
-title: Fire TV 해외에서 한국TV 보기(Fire TV VPN 설정법)-UsefulAPP
+title: Fire TV VPN  - 해외에서 한국TV 보기
 author: FlyingDeuk
 date: 2020-12-17 20:55:00 +0800
 categories: [Living]
@@ -127,3 +127,6 @@ KODI addon의 해당 addon에서도 시청이 가능함.
 
 **다음은 한국 본인의 공유기에 VPN을 걸어서 사용하는 방법을 Posting할 예정이다.**
 >이는 노트북, 패드, 핸드폰에 해당한다.
+
+
+INDEX 바로가기 : [Fire TV Stick - 가성비 활용도 높은 셋탑박스](/posts/FireTV/)

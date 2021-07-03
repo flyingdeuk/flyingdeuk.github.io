@@ -1,5 +1,5 @@
 ---
-title: (IPAD)Safari(지원앱) 여러개로 나누어 사용하기-Safari(APP) Multi Window-UsefulThing
+title: IPAD Safari/지원앱 - 윈도우 여러개로 나누어 사용하기
 author: FlyingDeuk
 date: 2021-04-26
 categories: [Living]
@@ -28,3 +28,5 @@ pin:
 물론 무수히 많은 기능을 다 사용하거나 알 수는 없다. <br>
 하지만 알고 안쓰는 것과 몰라서 못쓰는 것은 다르니...<br>
 >비싼 자기만의 독립된 생태계를 유지하는 비결은 이런 것들이 아닐까?!?
+
+INDEX 바로가기 : [IPAD - 숨겨진 기능 최대로 활용하기](/posts/Ipad/)

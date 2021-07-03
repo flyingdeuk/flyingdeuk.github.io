@@ -1,5 +1,5 @@
 ---
-title: (ALL)uTorrent 사용법(어플 소개)-UsefulAPP
+title: uTorrent - P2P 안전하게 활용하는 법 (ALL)
 author: FlyingDeuk
 date: 2020-09-02 20:55:00 +0800
 categories: [Living, APP]

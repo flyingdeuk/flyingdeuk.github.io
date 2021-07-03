@@ -1,5 +1,5 @@
 ---
-title: KODI 기본 설정법(Setup)-UsefulAPP
+title: KODI Setup - 기본 설정법 (ALL)
 author: FlyingDeuk
 date: 2020-08-16 20:55:00 +0800
 categories: [Living]
@@ -68,4 +68,4 @@ Revision : 자막 언어 설정법 추가(2021.03.02)
 이로써 가장 기본 설정은 완료했다. 하지만 너무 많은 기능을 갖고 있기 때문에 추후에도 많은 포스팅이 예정되어 있음.
 
 
-바로가기 : [KODI 에드온 저장소 연결법(Addon Repository)](https://flyingdeuk.github.io/posts/KODI-addon/)
+INDEX 바로가기 : [KODI - 최고의 무료 Media Center 어플](/posts/KODI/)
