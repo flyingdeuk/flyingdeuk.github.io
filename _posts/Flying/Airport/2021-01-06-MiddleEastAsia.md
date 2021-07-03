@@ -9,7 +9,6 @@ pin:
 `FlyingDeuk's`
 >중동아시아 공항들... 맨날 싸우는 나라들... 경계 절차에 주의해야함...<br>
 
-## AIRPORT
 
 #### [VIDP(DEL)-인도 델리(인디라 간디 공항)](/posts/VIDP-DEL/)
 

@@ -9,9 +9,7 @@ pin:
 `FlyingDeuk's`
 >유럽 대륙에 터키를 포함한다. <br>
 
-## AIRPORT
-
-### Europe
+## Europe
 
 #### [EHAM(AMS)-네덜란드 암스테르담(스히폴 공항)](/posts/EHAM-AMS/)
 
@@ -43,6 +41,6 @@ pin:
 
 #### [LSZH(ZRH)-스위스 취리히(취리히 공항)](/posts/LSZH-ZRH/)
 
-### Rusia
+## Rusia
 
 #### [UUEE(SVO)-러시아 모스크바(셰레메티예보 공항)](/posts/UUEE-SVO/)

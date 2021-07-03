@@ -9,8 +9,6 @@ pin:
 `FlyingDeuk's`
 >동남아시아 공항들... <br>
 
-## AIRPORT
-
 #### [VTBS(BKK)-태국 방콕(수완나품 공항)](/posts/VTBS-BKK/)
 
 #### [RPVM(CEB)-필리핀 세부(세부 막탄 공항)](/posts/RPVM-CEB/)

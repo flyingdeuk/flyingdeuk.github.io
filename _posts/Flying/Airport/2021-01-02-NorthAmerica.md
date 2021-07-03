@@ -9,12 +9,10 @@ pin:
 `FlyingDeuk's`
 >북미 대륙 전체를 포함한다. (알레스카, 캐나다, 미국)<br>
 
-## AIRPORT
-
-### 알래스카
+## 알래스카
 #### [PANC(ANC)-미국 알레스카(테드 스티븐스 공항)](/posts/PANC-ANC/)
 
-### 미국
+## 미국
 #### [KATL(ATL)-미국 애틀란타(하츠필드 잭슨 공항)](/posts/KATL-ATL/)
 
 #### [KDFW(DFW)-미국 댈러스(포트워스 공항)](/posts/KDFW-DFW/)
@@ -39,7 +37,7 @@ pin:
 
 #### [KSFO(SFO)-미국 샌프란시스코(샌프란시스코 공항)](/posts/KSFO-SFO/)
 
-### 캐나다
+## 캐나다
 
 #### [CYHZ(YHZ)-캐나다 핼리팩스(핼리팩스 공항)](/posts/CYHZ-YHZ/)
 

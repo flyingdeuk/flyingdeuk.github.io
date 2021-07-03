@@ -9,8 +9,6 @@ pin:
 `FlyingDeuk's`
 >중, 남미 공항들..<br>
 
-## AIRPORT
-
 #### [SPJC(LIM)-페루 리마(조지 차베즈 공항)](/posts/SPJC-LIM/)
 
 #### [SCEL(SCL)-칠레 산티아고(아르투로 메리노 베니테스 공항)](/posts/SCEL-SCL/)

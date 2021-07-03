@@ -9,19 +9,17 @@ pin:
 `FlyingDeuk's`
 >국내, 일본, 중국 공항!! <br>
 
-## AIRPORT
-
-### Korea
+## Korea
 
 #### [RKPC(CJU)-한국 제주(제주 공항)](/posts/RKPC-CJU/)
 
 #### [RKSS(GMP)-한국 서울(김포 공항)](/posts/RKSS-GMP/)
 
-### Japan
+## Japan
 
 #### [RJTT(HND)-일본 도쿄(하네다 공항)](/posts/RJTT-HND/)
 
-### China
+## China
 
 #### [ZSPD(PVG)-중국 상하이(푸동 공항)](/posts/ZSPD-PVG/)
 
