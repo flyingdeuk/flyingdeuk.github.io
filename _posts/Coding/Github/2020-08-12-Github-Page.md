@@ -2,7 +2,7 @@
 title: Github Pages - 무료로 나만의 블로그 만들기
 date: 2020-08-12
 categories: [Coding 내 취미, Github 깃허브]
-tags: [usefulsite]
+tags: [github]
 pin:
 ---
 
