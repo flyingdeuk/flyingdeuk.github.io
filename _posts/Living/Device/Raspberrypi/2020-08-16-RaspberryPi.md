@@ -6,13 +6,14 @@ categories: [Living, Device]
 tags: [usefulthing, linux, raspberrypi]
 pin:
 ---
+![pi](/img/living/pi/pi.jpg)
 
 `FlyingDeuk's`
 > 영국에서 개발도상국에 배포하기 위한 미니 컴퓨터를 개발하게 되었고 저렴한 가격에 최소의 성능으로 모두가 컴퓨터를 접하고 경험하게 하기위해 판매되기 시작함.<br>
 초기 USD 30 정도의 가격으로 시작해서 현재는 USD 50 정도로 성능과 함께 가격도 상승됨.
 
 `Wiki's`
->[라즈베리파이 위키 링크](https://ko.wikipedia.org/wiki/라즈베리_파이)
+>라즈베리 파이(영어: Raspberry Pi)는 영국 잉글랜드의 라즈베리 파이 재단이 학교와 개발도상국에서 기초 컴퓨터 과학의 교육을 증진시키기 위해 개발한 신용카드 크기의 싱글 보드 컴퓨터이다.
 
 ## 내가 쓰는 라즈베리파이
 작년에 라즈베리파이 4B를 구매해서 사용하고 있다. (중고나라 4만원)
