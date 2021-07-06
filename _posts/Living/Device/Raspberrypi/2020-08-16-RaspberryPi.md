@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi 4B(4GB) - 내가 쓰고 있는 프로그램들
+title: Raspberry Pi 4B(4GB) - 작지만 강력한 성능의 미니 컴퓨터
 author: FlyingDeuk
 date: 2020-08-16 20:55:00 +0800
 categories: [Living, Device]

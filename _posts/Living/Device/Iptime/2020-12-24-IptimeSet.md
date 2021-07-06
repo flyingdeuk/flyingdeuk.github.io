@@ -1,5 +1,5 @@
 ---
-title: IPTIME 공유기 - 외부(해외)에서 접속하는 법
+title: IPTIME 공유기 - 외부/해외에서 접속하는 법
 author: FlyingDeuk
 date: 2020-12-24 20:55:00 +0800
 categories: [Living]

@@ -1,5 +1,5 @@
 ---
-title: IPAD SlideOver - 멀티테스킹 화면전환법
+title: IPAD MultiSlideOver - 멀티테스킹 화면전환법
 author: FlyingDeuk
 date: 2021-04-25
 categories: [Living]
@@ -31,4 +31,4 @@ pin:
 최근 M1 프로세서를 기반으로한 아이패드가 출시되었다. 점점 노트북과의 경계를 위협하는 IPAD OS... 앞으로의 발전이 더욱 궁금하다.
 >MAC BOOK을 사용해본 사람은 알겠지만 OS의 형태나 사용자 중심의 편의가 정말 잘 되어있는 것이 애플이 컨셉이라 하겠다.
 
-INDEX 바로가기 : [IPAD - 숨겨진 기능 최대로 활용하기](/posts/Ipad/)
+[INDEX로 돌아가기](/posts/Ipad/)

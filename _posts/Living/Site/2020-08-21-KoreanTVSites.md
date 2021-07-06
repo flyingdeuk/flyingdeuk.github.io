@@ -1,5 +1,5 @@
 ---
-title: Korean Site - 재방송 사이트 모음
+title: Korean TV Movie Site - 한국 방송 영화 사이트 모음
 author: FlyingDeuk
 date: 2020-08-16 20:55:00 +0800
 categories: [Living, Site]

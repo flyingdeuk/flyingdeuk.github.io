@@ -1,0 +1,20 @@
+---
+title: CodingEverybody - 생활코딩 강좌의 내용들...
+date: 2021-07-01
+categories: [Coding, CodingEverybody]
+tags: [CodingEverybody]
+pin:
+---
+
+![linux](/img/coding/linux/linux.png)
+
+`FlyingDeuk's`
+> 오픈소스인 리눅스는 라즈베리파이를 처음 접하면서 사용해 봤다. CLI(Command Line Interface)의 매력을 느낄 수 있는 OS라 생각이 든다. <br>
+Embedded system 모든 전자제품안에 있는 작은 컴퓨터, 요즘 핫한 IoT(Internet of Things) 그 작은 컴퓨터에 인터넷을 연결해서 사용할 수 있는 컴퓨터는 전부다 Linux 기반이라 생각하면 된다. <br>
+오픈 소스 즉 무료이고 시스템이 무지하게 가볍기 때문이다.!!!
+
+`Wiki's`
+> 리눅스(Linux)[4]는 1991년 9월 17일 리누스 토르발스가 처음 출시한 운영 체제 커널인[5][6][7] 리눅스 커널에 기반을 둔 오픈 소스 유닉스 계열 운영 체제 계열이다.[8] 리눅스는 일반적으로 리눅스 배포판 안에 패키지 처리된다. <br>
+배포판에는 리눅스 커널과 지원 시스템 소프트웨어, 그리고 라이브러리를 포함하고 있으며 이들 가운데 다수가 GNU 프로젝트에 의해 제공된다. 수많은 리눅스 배포판은 배포판 이름에 "리눅스"라는 단어를 사용하지만 자유 소프트웨어 재단은 GNU 소프트웨어의 중요성을 강조하기 위해 (이름에 일부 논란이 있기는 하지만) GNU/리눅스(GNU/Linux)라는 이름을 사용한다.[9][10]
+
+## INDEX

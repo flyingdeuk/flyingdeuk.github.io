@@ -1,5 +1,5 @@
 ---
-title: KODI SPDIF - 디지털 음원 출력법 (ALL)
+title: KODI SPDIF Output - 디지털 음원 출력법 (for Mac, Android, Windows, RaspberryPi)
 author: FlyingDeuk
 date: 2021-03-03 20:55:00 +0800
 categories: [Living]
@@ -37,4 +37,4 @@ SPDIF를 위해서는 적정 케이블이 필요한데... 예전에는 동축이
 ### Postscript
 개인적으로 영화의 감동의 반이상은 음향에 있다고 생각한다. 좋은 오디오와 시스템으로 더 많은 감동을 받으려면... 조금만 공부하면 생활이 질이 달라질거라 생각함...
 
-INDEX 바로가기 : [KODI - 최고의 무료 Media Center 어플](/posts/KODI/)
+[INDEX로 돌아가기](/posts/KODI/)

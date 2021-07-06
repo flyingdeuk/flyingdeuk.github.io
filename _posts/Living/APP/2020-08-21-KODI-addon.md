@@ -1,5 +1,5 @@
 ---
-title: KODI Addons Repository - 에드온 저장소 연결법 (ALL)
+title: KODI Addons Repository Setup - 에드온 저장소 연결법 (for Mac, Android, Windows, RaspberryPi)
 author: FlyingDeuk
 date: 2020-08-21 20:55:00 +0800
 categories: [Living]
@@ -47,4 +47,4 @@ __여러개로 분산되어 있는 Repository나 zip화일들을 하나의 저�
 필자는 라즈베리파이를 간이 SERVER로 사용. FTP, DLNA등을 KODI와 연결해서 사용하고 있음.
 
 
-INDEX 바로가기 : [KODI - 최고의 무료 Media Center 어플](/posts/KODI/)
+[INDEX로 돌아가기](/posts/KODI/)
