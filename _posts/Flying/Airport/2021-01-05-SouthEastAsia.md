@@ -27,6 +27,8 @@ pin:
 
 #### [RPLL(MNL)-필리핀 마닐라(니노이 아키노 공항)](/posts/RPLL-MNL/)
 
+#### [VDPP(PNH)-캄보디아 프놈펜(프놈펜 공항)](/posts/VDPP-PNH/)
+
 #### [VVTS(SGN)-베트남 호찌민(탄손나트 공항)](/posts/VVTS-SGN/)
 
 #### [WSSS(SIN)-싱가포르 (창이 공항)](/posts/WSSS-SIN/)
