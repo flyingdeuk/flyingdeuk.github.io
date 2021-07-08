@@ -15,8 +15,8 @@ Play store, 홈페이지에서 직접 설치가 가능하다. <br>
 ## KODI install
 ![kodi_1](/img/living/kodi/kodi_1.jpg)
 
-<https://kodi.tv>
-> 상기의 공식사이트에 접속하면 방법을 다 알려주시 걱정이 없다.<br>
+KODI 공식 홈페이지  <https://kodi.tv>
+> 상기의 공식사이트에 접속하면 방법을 다 알려주니 걱정이 없다.<br>
 windows10, 안드로이드는 스토어에서 바로 설치가능. (자동 업데이트 지원됨)<br>
 FIRE TV는 Downloader라는 어플로 주소치고 Down가능함.
 
@@ -29,7 +29,7 @@ FIRE TV는 Downloader라는 어플로 주소치고 Down가능함.
 
 ![kodi_3](/img/living/kodi/kodi_3.jpg)
 > 본인의 사양에 맞는 버전을 선택<br>
-FIRE TV의 경우 32비트가 맞음.
+FIRE TV의 경우 32비트가 맞음. 세부 절차는 해당 링크 참고 [Fire TV Apps Install - 추천 어플 설치법](/posts/Fire-TV1/)
 
 #### Postscript
 너무 간단할 정도로 설치가 간단하다. 추후 궁금증이 있는 경우 역시 해당 공식사이트나 Googling으로 해결 가능하다. <br>
