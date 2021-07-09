@@ -23,7 +23,7 @@ pin:
 
 #### [KJFK(JFK) - 미국 뉴욕(존F 케네디 공항)](/posts/KJFK-JFK/)
 
-#### [KLAS(LAS) - 미국 라스베가스(매캐런 공항)](/posts/KLAS-LAS/)
+#### [KLAS(LAS) - 미국 라스베가스(매캐런 공항)](/posts/KLAS-LAS/)
 
 #### [KLAX(LAX) - 미국 로스엔젤레스(로스앤젤레스 공항)](/posts/KLAX-LAX/)
 
