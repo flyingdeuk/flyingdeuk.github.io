@@ -3,7 +3,7 @@
   lastmod: '2021-07-10 06:04:24 +0900'
 -
   filename: 'KODI'
-  lastmod: '2021-07-08 04:44:20 -0700'
+  lastmod: '2021-07-16 23:02:50 +0800'
 -
   filename: 'KODI-install1'
   lastmod: '2021-07-06 07:11:10 -0500'
@@ -68,6 +68,9 @@
   filename: 'IpadDict'
   lastmod: '2021-07-06 07:11:10 -0500'
 -
+  filename: 'ipad-iptv'
+  lastmod: '2021-07-17 23:32:19 +0800'
+-
   filename: 'Ipad4fing'
   lastmod: '2021-07-08 05:42:50 -0700'
 -
@@ -87,7 +90,7 @@
   lastmod: '2021-07-06 07:11:10 -0500'
 -
   filename: 'Ipad'
-  lastmod: '2021-07-06 07:11:10 -0500'
+  lastmod: '2021-07-14 11:51:02 +0900'
 -
   filename: 'Fire-TV'
   lastmod: '2021-07-06 07:11:10 -0500'
@@ -98,6 +101,9 @@
   filename: 'TVinput'
   lastmod: '2021-07-06 07:11:10 -0500'
 -
+  filename: 'FireTV-new'
+  lastmod: '2021-07-17 23:32:19 +0800'
+-
   filename: 'FireTV'
   lastmod: '2021-07-08 04:44:20 -0700'
 -
@@ -106,6 +112,9 @@
 -
   filename: 'Fire-TV1'
   lastmod: '2021-07-06 07:11:10 -0500'
+-
+  filename: 'Pi-mount'
+  lastmod: '2021-07-16 22:09:08 +0800'
 -
   filename: 'RaspberryPi'
   lastmod: '2021-07-06 07:11:10 -0500'
@@ -324,7 +333,7 @@
   lastmod: '2021-07-02 01:50:54 +0900'
 -
   filename: 'WSSS-SIN'
-  lastmod: '2021-07-13 14:24:51 +0900'
+  lastmod: '2021-07-17 23:32:19 +0800'
 -
   filename: 'Oceania'
   lastmod: '2021-07-10 05:03:37 +0900'
@@ -357,4 +366,4 @@
   lastmod: '2021-07-04 13:56:44 +0900'
 -
   filename: 'Linux-command'
-  lastmod: '2021-07-14 11:48:17 +0900'
+  lastmod: '2021-07-16 22:09:08 +0800'
