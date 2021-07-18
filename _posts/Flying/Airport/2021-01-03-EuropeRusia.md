@@ -44,3 +44,5 @@ pin:
 ## Rusia
 
 #### [UUEE(SVO) - 러시아 모스크바(셰레메티예보 공항)](/posts/UUEE-SVO/)
+
+#### [USTA(NVI) - 우즈베키스탄 나보이(나보이 공항)](/posts/USTA-NVI/)
