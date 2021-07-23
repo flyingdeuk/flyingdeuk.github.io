@@ -1,5 +1,5 @@
 ---
-title: Linux - 명령어에 대한 쉬운 해석...
+title: Linux(debian) Command - 명령어에 대한 쉬운 해석...
 date: 2021-07-02
 categories: [Coding, Linux]
 tags: [linux]
