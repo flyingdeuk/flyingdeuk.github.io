@@ -26,56 +26,6 @@ $ sudo umount /dev/sda1
 
 
 ```bash
-$ sudo mke2fs -t ext4 -L Deuk -v /dev/sda1
-mke2fs 1.44.5 (15-Dec-2018)
-/dev/sda1 contains a ext4 file system
-	last mounted on Tue Jul 20 14:15:31 2021
-Proceed anyway? (y,N) y
-fs_types for mke2fs.conf resolution: 'ext4'
-Filesystem label=Deuk
-OS type: Linux
-Block size=4096 (log=2)
-Fragment size=4096 (log=2)
-Stride=0 blocks, Stripe width=0 blocks
-7815168 inodes, 31258616 blocks
-1562930 blocks (5.00%) reserved for the super user
-First data block=0
-Maximum filesystem blocks=2178940928
-954 block groups
-32768 blocks per group, 32768 fragments per group
-8192 inodes per group
-Filesystem UUID: 6623e408-3e34-48a3-be7e-031cd21d0e42
-Superblock backups stored on blocks:
-	32768, 98304, 163840, 229376, 294912, 819200, 884736, 1605632, 2654208,
-	4096000, 7962624, 11239424, 20480000, 23887872
-
-Allocating group tables: done                            
-Writing inode tables: done                            
-Creating journal (131072 blocks): done
-Writing superblocks and filesystem accounting information: done
-```
-```bash
-$ sudo mkfs.fat -F 32 -n DeukTest -v /dev/sda1
-```
-> -F : FAT32/16 설정 <br>
--n : 레이블 명 <br>
--v : 자세한 수행 정보 출력
-
-```bash
-$ sudo mkntfs -f -L DeukTest -v /dev/sda1
-```
-> -f : fast 포멧  <br>
--L : 레이블 명 <br>
--v : 자세한 수행 정보 출력
-
-```bash
-$ sudo mke2fs -t ext4 -L DeukTest -v /dev/sda1
-```
-> -f : fast 포멧  <br>
--L : 레이블 명 <br>
--v : 자세한 수행 정보 출력
-
-```bash
 $ ls -al /usr/sbin
 .
 .
