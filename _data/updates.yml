@@ -119,9 +119,6 @@
   filename: 'Fire-TV1'
   lastmod: '2021-07-06 07:11:10 -0500'
 -
-  filename: 'Pi-mount'
-  lastmod: '2021-07-23 18:31:18 +0900'
--
   filename: 'RaspberryPi'
   lastmod: '2021-07-06 07:11:10 -0500'
 -
@@ -368,11 +365,5 @@
   filename: 'Github'
   lastmod: '2021-07-04 13:56:44 +0900'
 -
-  filename: 'Linux-cli'
-  lastmod: '2021-07-23 18:31:18 +0900'
--
   filename: 'Linux'
-  lastmod: '2021-07-23 18:31:18 +0900'
--
-  filename: 'Linux-command'
   lastmod: '2021-07-23 18:31:18 +0900'
