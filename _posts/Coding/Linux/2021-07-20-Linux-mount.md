@@ -14,44 +14,33 @@ pin:
 `Wiki's`
 >
 
-
-```bash
-$ sudo umount /dev/sda1
-```
->해당 SD 카드를 unmount한다.
-
-
-```bash
-$ ls -al /usr/sbin
-.
-.
-.
-lrwxrwxrwx  1 root root         6  1월 10  2020 mkfs.ext2 -> mke2fs
-lrwxrwxrwx  1 root root         6  1월 10  2020 mkfs.ext3 -> mke2fs
-lrwxrwxrwx  1 root root         6  1월 10  2020 mkfs.ext4 -> mke2fs
--rwxr-xr-x  1 root root     34752  5월 13  2018 mkfs.fat
--rwxr-xr-x  1 root root     87520  1월 10  2019 mkfs.minix
-lrwxrwxrwx  1 root root         8  5월 13  2018 mkfs.msdos -> mkfs.fat
-lrwxrwxrwx  1 root root         6  3월 22  2019 mkfs.ntfs -> mkntfs
-lrwxrwxrwx  1 root root         8  5월 13  2018 mkfs.vfat -> mkfs.fat
-.
-.
-.
-```
 ## mount - Mount 하기
 
 ```bash
 mount [option] [device] [directory]
 ```
-option
+**option**
 - -a :/etc/fstab 에 있는 모든 시스템을 마운트
 - -t : 파일 시스템을 지정 (ex:-t ext4)
 - -o : 다른 옵션 지정
 
+```bash
+$ sudo mount /dev/sda1 /home/DeukTest
+```
+> 일반적인 경우 위와 같이 간단하게 mount가능하다.
+
+#### 특정 사용자로 Mount하기
+
+```bash
+$ id
+uid=1001(DeukTest) gid=1001(DeukTest) groups=1001(DeukTest),4(adm),20(dialout),24(cdrom),27(sudo),29(audio),44(video),46(plugdev),60(games),100(users),105(input),109(netdev),126(debian-transmission),997(gpio),998(i2c),999(spi)
+```
+>id 명령어로 현재 사용자의 id를 알수 있다. 해당 id로 mount하는 법은 아래와 같다. (단, ntfs만 가능하단다...) -> 다른 file system의 경우엔 chown으로 가능하겠다.
+
  ```bash
  $ sudo mount -t ntfs -o uid=DeukTest,gid=DeukTest /dev/sda1 /home/DeukTest
  ```
- >ntfs Filesystem에 한해서만 소유자 지정이 가능하다. <br>
+ >ntfs Filesystem에 한해서만 소유자 및 소유그룹지정이 가능하다. <br>
 
 
 ## umount - Umount 하기
@@ -59,113 +48,126 @@ option
 ```bash
 $ umount /dev/sda1
 ```
->
+>unmount는 단순하다. 해당 device를 그냥 unmount... 메모리 안전하게 제거와 비슷한 느낌??
+
 
 ## fstab - 재부팅시 자동 Mount
-라즈베리파이(리눅스)는 USB 삽입하고 GUI Desktop에서 쉽게 마운트 가능하다. 하지만 위치가 내가 원하는 곳(/media/pi/)이 아니고 재부팅시에는 자동으로 인식이 되지않는다.
->자동으로 ROOT에 /media 에 마운트된다.
+Mount는 GUI에서 일반적으로 이동식 Disk와 유사한 개념으로 삽입/제거의 목적으로 하드웨어를 연결한다. <br>
+fstab은 하드웨어를 시스템의 일부로 연결하는 방법인듯 하다.
+
+### 정보 확인하기
 
 ```bash
 $ sudo lsblk
 NAME        MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
 sda           8:0    1 119.2G  0 disk
-└─sda1        8:1    1 119.2G  0 part /media/flyingdeuk/DeukCloud
+└─sda1        8:1    1 119.2G  0 part /media/DeukTest/DeukUSB
 mmcblk0     179:0    0 476.9G  0 disk
 ├─mmcblk0p1 179:1    0   256M  0 part /boot
 └─mmcblk0p2 179:2    0 476.7G  0 part /
 ```
+> lsblk (list block)으로 Disk(Block)의 이름을 알 수 있다.
 
 ```bash
 $ sudo blkid
 /dev/mmcblk0p1: LABEL_FATBOOT="boot" LABEL="boot" UUID="04A5-3FE5" TYPE="vfat" PARTUUID="71364f66-01"
 /dev/mmcblk0p2: LABEL="rootfs" UUID="c1578b06-85c2-4327-9c65-4c474a8f23f9" TYPE="ext4" PARTUUID="71364f66-02"
 /dev/mmcblk0: PTUUID="71364f66" PTTYPE="dos"
-/dev/sda1: LABEL="DeukCloud" UUID="3941989C2008AD55" TYPE="ntfs" PARTUUID="bbb5899b-01"
+/dev/sda1: LABEL="DeukUSB" UUID="3941989C2008AD55" TYPE="ntfs" PARTUUID="bbb5899b-01"
 ```
+> blkid(blick id)로 해당 저장소의 아이디를 알 수 있다. <br>
+리눅스에서는 기본적으로 UUID, PARTUUID, Divice name(sda1), LABEL의 모든 id로 인식이 가능하다. <br>
 
-ntfs-3g : 더이상 필요하지 않음
+장단점이야 Device는 USB port 1, 2에 의해 결정되고, UUID, PARTUUID, LABEL등은 어디에 꽂든지 해당 저장소를 인식한다는 차이...
 
-현재 mount되어 있는 저장소의 정보를 확인한다.
-
-
-fdisk --help 하면 -l은 list를 나타냄.
-
-> -l, --list  display partitions and exit
-아래와 같은 디스크 정보가 전부다 표시된다.
+### fstab 수정
 
 ```bash
-$ sudo fdisk -l
-.
-.
-.
-Disk /dev/mmcblk0: 476.9 GiB, 512074186752 bytes, 1000144896 sectors
-Units: sectors of 1 * 512 = 512 bytes
-Sector size (logical/physical): 512 bytes / 512 bytes
-I/O size (minimum/optimal): 512 bytes / 512 bytes
-Disklabel type: dos
-Disk identifier: 0x71364f66
+$ sudo cat /etc/fstab
 
-Device         Boot  Start        End   Sectors   Size Id Type
-/dev/mmcblk0p1        8192     532479    524288   256M  c W95 FAT32 (LBA)
-/dev/mmcblk0p2      532480 1000144895 999612416 476.7G 83 Linux
-
-
-Disk /dev/sda: 119.2 GiB, 128035323904 bytes, 250068992 sectors
-Disk model: USB Flash Drive
-Units: sectors of 1 * 512 = 512 bytes
-Sector size (logical/physical): 512 bytes / 512 bytes
-I/O size (minimum/optimal): 512 bytes / 512 bytes
-Disklabel type: dos
-Disk identifier: 0xbbb5899b
-
-Device     Boot Start       End   Sectors   Size Id Type
-/dev/sda1  *       64 250068991 250068928 119.2G  7 HPFS/NTFS/exFAT
-```
-
-```bash
 proc            /proc           proc    defaults          0       0
 PARTUUID=71364f66-01  /boot           vfat    defaults          0       2
 PARTUUID=71364f66-02  /               ext4    defaults,noatime  0       1
 # a swapfile is not a swap partition, no line here
 #   use  dphys-swapfile swap[on|off]  for that
 ```
+> 기본적인 fstab file 내용 <br>
+SD 저장소에 boot section과 저장을 위한 partition이 나누어져 있는 것을 볼 수 있다.
+
+#### 일반적인 경우
 
 ```bash
-drwxr-xr-x  8 root       root       4096  7월 14 07:20 .
-drwxr-xr-x 19 root       root       4096  7월 14 18:46 ..
-drwxrwxrwx  1 root       root       4096  7월  1 17:18 DeukCloud
-drwxrwxr-x  5 flyingdeuk flyingdeuk 4096 12월 20  2020 DeukCloud1
-drwxr-xr-x 20 flyingdeuk flyingdeuk 4096  7월 14 17:47 flyingdeuk
-drwxr-xr-x  2 iel        iel        4096 12월 20  2020 iel
-drwxr-xr-x  2 ina        ina        4096 12월 20  2020 ina
-drwxr-xr-x  2 sunny      sunny      4096 12월 20  2020 sunny
-```
+$ sudo vim /etc/fstab
 
-```bash
 proc            /proc           proc    defaults          0       0
 PARTUUID=71364f66-01  /boot           vfat    defaults          0       2
 PARTUUID=71364f66-02  /               ext4    defaults,noatime  0       1
 # a swapfile is not a swap partition, no line here
 #   use  dphys-swapfile swap[on|off]  for that
-UUID=3941989C2008AD55 /home/DeukCloud ntfs uid=1001,gid=1001,umask=002 0 0
-# LEXAR auto mount
+UUID=3941989C2008AD55 /home/DeukUSB ext4 defaults 0 0
+# USB auto mount
 ```
-> noatime 옵션은 access time에 대해 기록을 하지 않아 약간 성능 향상을 볼 수 있습니다
+> 특별한 option없이 이렇게만 해도 일반적으로 사용하는 데는 문제가 없다.
+
+
+#### 일부 option 적용 예
 
 ```bash
-sudo cp /etc/fstab /etc/fstab.bak
+$ sudo vim /etc/fstab
+
+proc            /proc           proc    defaults          0       0
+PARTUUID=71364f66-01  /boot           vfat    defaults          0       2
+PARTUUID=71364f66-02  /               ext4    defaults,noatime  0       1
+# a swapfile is not a swap partition, no line here
+#   use  dphys-swapfile swap[on|off]  for that
+UUID=3941989C2008AD55 /home/DeukUSB ntfs uid=1001,gid=1001,umask=002 0 0
+# USB auto mount
 ```
+> vi, nano, vim등의 편집기를 이용해서 위와 같이 추가해준다. <br>
 
-/etc/fstab 파일이 잘못된 채로 Linux 부팅을 시도하면 중간에 실패 메시지와 함께 부팅이 되지 않는다.
-이 때 콘솔에서(네트워크 사용 불가) repair or recovery 모드로 로그인이 가능한데,
-여기서 fstab을 수정한 뒤 reboot 해주면 된다.
+**uid=1001,gid=1001,umask=002 0 0**
 
-1) 아래와 같은 메시지가 나오면 root password 를 이용하여 recovery 모드 로그인
-Give root password for maintenance
-(or type Control-D to continue):
-Ctrl+D 를 눌렀을 경우는 그대로 부팅을 진행하라는 뜻인데 현재 상태가 정상이 아니므로 fail 된다.
+- **uid=1001,gid=1001**
+> 위에서 **id**의 사용자 정보로 mount가능하다. <br>**ntfs**에 한해 위와 같이 사용자 및 사용자 그룹을 지정해서 자동 mount가 가능하다.(이유는 못 찾겠다.)
 
-2) 현재 read-only mode 이므로 /etc/fstab 파일을 수정할 수 없다. 루트 파일시스템을 다시 mount 하여 read-write mode로 변경한다.
-# mount -o remount,rw /
-3) /etc/fstab 파일을 수정한다.
-4) reboot
+- **umask=002**
+> 여기 저기 많이 찾아 봤지만 umask의 설명이 어렵다. <br>
+chmod의 보수라고 생각하면 쉽다. <br>**umask=002**는 결국 해당 폴더에 **chmod -R 775**와 같은 권한 설정이라 생각하면 된다. (mount하면서 폴더 권한을 지정할 수 있다.)<br>
+
+- **noatime**
+> access time에 대해 기록을 하지 않아 약간 성능 향상을 볼 수 있다고 한다.
+
+- **0**      **0**
+> 첫번째 **0**은 덤프(백업) 가능은 **1** 불가능은 **0** <br>
+두번째 **0**은 무결정 검사 유무 **0**은 불요, **1 or 2**는 우선순위이다.
+
+#### 오류의 탄생
+fstab은 시스템을 결정해서 인지 매우 민감하다.
+
+**/dev/sda1** -> **dev/sda1** : 먹통
+
+**defaults** -> **default** : 먹통
+
+**ntfs** -> **Nfts** : 먹통
+>왼쪽이 맞는 표현, 오른쪽은 오류를 탄생시킨다.
+
+#### 오류의 해결
+fstab의 오류가 탄생되면 부팅이 안된다.
+
+**Give root password for maintenance
+(or type Control-D to continue):**
+> 위 메세지와 함께 멈춘다면 root 암호를 입력해 recovery mode에서 fstab을 수정한다.
+
+
+**$ vim /etc/fstab**
+> 혹여나 권한의 문제로 안 될 경우는 `mount -o remount,rw /` 로 rw로 다시 마운트 하면 된다고 함...
+
+**reboot**
+
+
+### PostScript
+개인적으로 리눅스의 초보자로써 CLI를 기준으로 뭔가를 setup하는 거에 흥미를 느낀다.
+
+윈도우나 맥같은 GUI의 상황에서는 마우스 오른쪽 클릭과 함께 어디에 디스크를 지정할지... 정하고 권한도 별로 신경쓰지않으니까...
+
+위와 같은 방법으로 마운트하면 내 시스템내의 하나의 폴더에 내 저장소를 마치 하나의 시스템처럼 mount할 수 있다는 점이 매력으로 다가온다.
