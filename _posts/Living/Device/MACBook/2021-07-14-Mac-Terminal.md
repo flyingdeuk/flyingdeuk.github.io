@@ -1,7 +1,7 @@
 ---
 title: MAC Book Terminal Theme by ohmyzsh - 터미널 테마 변경하기
 date: 2021-07-14
-categories: [Living, Device]
+categories: [Living]
 tags: [mac, usefulthing]
 pin:
 ---
@@ -87,7 +87,7 @@ sudo chmod 777 ~/.oh-my-zsh/tools/uninstall.sh
 
 ## P.S
 초보자로... 하나씩 알아가는 것... 재미있네...
-무엇보다 GUI만 사용하다가 CLI의 매력을 조금씩 알아가는 듯하다. 
+무엇보다 GUI만 사용하다가 CLI의 매력을 조금씩 알아가는 듯하다.
 
 
 [INDEX로 돌아가기](/posts/Macbook/)
