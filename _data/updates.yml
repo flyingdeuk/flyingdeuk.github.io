@@ -1,6 +1,6 @@
 -
   filename: 'Welcome'
-  lastmod: '2021-07-10 06:04:24 +0900'
+  lastmod: '2021-07-29 14:39:54 +0900'
 -
   filename: 'KODI'
   lastmod: '2021-07-17 23:35:30 +0800'
@@ -18,7 +18,7 @@
   lastmod: '2021-07-18 00:03:23 +0800'
 -
   filename: 'KODI-addon3'
-  lastmod: '2021-07-08 10:17:58 -0700'
+  lastmod: '2021-07-29 14:39:54 +0900'
 -
   filename: 'KODI19'
   lastmod: '2021-07-06 07:11:10 -0500'
@@ -27,22 +27,22 @@
   lastmod: '2021-07-06 07:11:10 -0500'
 -
   filename: 'KODI-install'
-  lastmod: '2021-07-08 04:44:20 -0700'
+  lastmod: '2021-07-29 14:39:54 +0900'
 -
   filename: 'KODI-addon2'
-  lastmod: '2021-07-08 10:14:57 -0700'
+  lastmod: '2021-07-29 14:39:54 +0900'
 -
   filename: 'KODI-spdif'
   lastmod: '2021-07-06 07:11:10 -0500'
 -
   filename: 'KODI-addon1'
-  lastmod: '2021-07-06 07:11:10 -0500'
+  lastmod: '2021-07-29 14:39:54 +0900'
 -
   filename: 'onenote'
   lastmod: '2021-07-10 05:07:01 +0900'
 -
   filename: 'KODI-addon'
-  lastmod: '2021-07-06 07:11:10 -0500'
+  lastmod: '2021-07-29 14:39:54 +0900'
 -
   filename: 'UsingVPN'
   lastmod: '2021-07-06 07:11:10 -0500'
@@ -119,8 +119,11 @@
   filename: 'Fire-TV1'
   lastmod: '2021-07-06 07:11:10 -0500'
 -
+  filename: 'Pi-mount'
+  lastmod: '2021-07-23 19:28:51 +0900'
+-
   filename: 'RaspberryPi'
-  lastmod: '2021-07-06 07:11:10 -0500'
+  lastmod: '2021-07-29 14:39:54 +0900'
 -
   filename: 'TSAT-TOBT-difference'
   lastmod: '2021-07-03 19:53:10 +0900'
@@ -357,7 +360,7 @@
   lastmod: '2021-07-04 13:56:44 +0900'
 -
   filename: 'CodingEverybody'
-  lastmod: '2021-07-08 10:35:05 -0700'
+  lastmod: '2021-07-29 14:39:54 +0900'
 -
   filename: 'Python'
   lastmod: '2021-07-05 00:06:34 +0900'
@@ -365,5 +368,29 @@
   filename: 'Github'
   lastmod: '2021-07-04 13:56:44 +0900'
 -
+  filename: 'Github-Page'
+  lastmod: '2021-07-24 08:16:19 +0900'
+-
+  filename: 'Linux-mount'
+  lastmod: '2021-07-29 14:39:54 +0900'
+-
+  filename: 'Linux-chmod'
+  lastmod: '2021-07-23 19:28:51 +0900'
+-
+  filename: 'Linux-cli'
+  lastmod: '2021-07-23 19:28:51 +0900'
+-
   filename: 'Linux'
-  lastmod: '2021-07-23 18:31:18 +0900'
+  lastmod: '2021-07-29 14:39:54 +0900'
+-
+  filename: 'Linux-command'
+  lastmod: '2021-07-23 19:28:51 +0900'
+-
+  filename: 'Linux-tree'
+  lastmod: '2021-07-23 19:28:51 +0900'
+-
+  filename: 'Linux-disk'
+  lastmod: '2021-07-23 19:28:51 +0900'
+-
+  filename: 'Linux-format'
+  lastmod: '2021-07-23 19:28:51 +0900'
