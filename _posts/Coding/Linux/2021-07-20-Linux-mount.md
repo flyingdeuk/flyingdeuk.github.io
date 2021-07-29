@@ -14,10 +14,6 @@ pin:
 `Wiki's`
 >
 
-```bash
-/dev/sda1 is mounted; will not make a filesystem here!
-```
->Mount되어 있으면 포맷이 안된다.
 
 ```bash
 $ sudo umount /dev/sda1
@@ -42,7 +38,7 @@ lrwxrwxrwx  1 root root         8  5월 13  2018 mkfs.vfat -> mkfs.fat
 .
 .
 ```
-## Mount 하기
+## mount - Mount 하기
 
 ```bash
 mount [option] [device] [directory]
@@ -58,23 +54,14 @@ option
  >ntfs Filesystem에 한해서만 소유자 지정이 가능하다. <br>
 
 
-### 폴더 소유자 변경
-```bash
-$ sudo chown -R deuktest:deuktest /home/DeukTest
-```
-### 폴더 권한 변경
-```bash
-$ sudo chmod -R 755 /home/DeukTest
-```
-
-## Unmout 하기
+## umount - Umount 하기
 
 ```bash
 $ umount /dev/sda1
 ```
 >
 
-## 재부팅시 자동 Mount하기
+## fstab - 재부팅시 자동 Mount
 라즈베리파이(리눅스)는 USB 삽입하고 GUI Desktop에서 쉽게 마운트 가능하다. 하지만 위치가 내가 원하는 곳(/media/pi/)이 아니고 재부팅시에는 자동으로 인식이 되지않는다.
 >자동으로 ROOT에 /media 에 마운트된다.
 

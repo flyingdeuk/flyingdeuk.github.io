@@ -27,20 +27,22 @@ pin:
 
 ## INDEX
 
-#### 라즈베리파이 OS 설치하는 법
+#### 라즈베리파이 OS 설치하는 법 : reserved
 
-#### SSH 원격제어 (모니터 키보드없이 CLI로 제어)
+#### SSH 원격제어 (모니터 키보드없이 CLI로 제어) : reserved
 
-#### VNC 원격제어 (모니터 키보드 마우스없이 GUI로 제어)
+#### VNC 원격제어 (모니터 키보드 마우스없이 GUI로 제어) : reserved
 
-#### 라즈베리파이 개인 설정 (pi 아이디 삭제법)
+#### 라즈베리파이 개인 설정 (pi 아이디 삭제법) : reserved
 
-#### 라즈베리파이 사용자 추가 및 설정법
+#### 라즈베리파이 사용자 추가 및 설정법 : reserved
 
-#### FTP 서버로 사용하기 (vsftpd 설치 및 설정법)
+#### [Raspberry Pi Storage Mount - USB / SD Card Memory 재부팅시 자동 Mount 하기](/posts/Pi-mount/)
 
-#### Torrent 머신으로 사용하기 (Transmission-daemon 설치 및 설정법)
+#### FTP 서버로 사용하기 (vsftpd 설치 및 설정법) : reserved
 
-#### MINIDLNA로 스마트 TV에 간편 연결법 (minidlna 설치 및 설정법)
+#### Torrent 머신으로 사용하기 (Transmission-daemon 설치 및 설정법) : reserved
 
-#### KODI 설치하는 법 (Linux)
+#### MINIDLNA로 스마트 TV에 간편 연결법 (minidlna 설치 및 설정법) : reserved
+
+#### KODI 설치하는 법 (Linux) : reserved

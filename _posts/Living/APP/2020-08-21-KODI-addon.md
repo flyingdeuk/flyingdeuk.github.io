@@ -1,5 +1,5 @@
 ---
-title: KODI Addons Repository Setup - 에드온 저장소 연결법 (for Mac, Android, Windows, RaspberryPi)
+title: KODI Addons Repository Setup - 에드온 저장소 연결법 (Feat. flyingdeuk Repository)
 author: FlyingDeuk
 date: 2020-08-21 20:55:00 +0800
 categories: [Living]
