@@ -18,16 +18,3 @@ typora-root-url: ../../../../flyingdeuk.github.io
 
 ## INDEX
 
-* [test](#test)
-- [test1](#test1)
-
-![test](/img/coding/github/atom.jpg)
-
-![스크린샷(4)](/img/스크린샷(4).png)
-
-### test
-
-- test
-
-#### test1
-- test1
