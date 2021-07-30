@@ -1,4 +1,8 @@
 ---
+typora-root-url: ../../../../flyingdeuk.github.io
+---
+
+---
 title: CodingEverybody - 생활코딩 강좌의 내용들...
 date: 2021-07-01
 categories: [Coding, CodingEverybody]
@@ -20,7 +24,12 @@ pin:
 * [test](#test)
 - [test1](#test1)
 
+![test](/img/coding/github/atom.jpg)
+
+![스크린샷(4)](/img/스크린샷(4).png)
+
 ### test
+
 - test
 
 #### test1
