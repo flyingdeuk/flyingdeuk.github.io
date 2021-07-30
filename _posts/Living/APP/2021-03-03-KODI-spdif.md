@@ -5,6 +5,7 @@ date: 2021-03-03 20:55:00 +0800
 categories: [Living]
 tags: [usefulapp, mac, android, windows, linux, kodi]
 pin:
+typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 `FlyingDeuk's`

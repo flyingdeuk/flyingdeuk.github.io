@@ -5,6 +5,7 @@ date: 2021-07-05 20:55:00 +0800
 categories: [Living]
 tags: [usefulthing, firetv]
 pin:
+typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 ![new](/img/living/fire/firetv_new.jpg)
@@ -40,7 +41,7 @@ Windows 나 Android 처럼 하나의 기기를 여러 사용자가 사용할 수
 
 ## PostScript
 FireTV는 전원이 연결된 상태로 장시간 사용하지않으면 자동으로 최신버전으로 주기적으로 Update한다. <br>
-수동으로 설치를 원하면 **설정** -> **My FireTV** -> **About** -> **Install Update** 에서 Update 가능하다. 
+수동으로 설치를 원하면 **설정** -> **My FireTV** -> **About** -> **Install Update** 에서 Update 가능하다.
 
 
 [INDEX로 돌아가기](/posts/FireTV/)

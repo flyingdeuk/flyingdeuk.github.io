@@ -5,6 +5,7 @@ date: 2020-08-26 20:55:00 +0800
 categories: [Living, APP]
 tags: [usefulapp, android, ios]
 pin:
+typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 `FlyingDeuk's`

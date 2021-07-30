@@ -5,6 +5,7 @@ date: 2021-04-26
 categories: [Living]
 tags: [usefulthing, ios, ipad]
 pin:
+typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 `FlyingDeuk's`

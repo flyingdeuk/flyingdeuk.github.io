@@ -4,6 +4,7 @@ date: 2021-01-02
 categories: [Flying, Airport]
 tags: [index, northamerica]
 pin:
+typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 `FlyingDeuk's`

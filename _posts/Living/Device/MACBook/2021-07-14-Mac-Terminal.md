@@ -4,6 +4,7 @@ date: 2021-07-14
 categories: [Living]
 tags: [mac, usefulthing]
 pin:
+typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 ![macbook](/img/living/macbook/terminal0.jpg)

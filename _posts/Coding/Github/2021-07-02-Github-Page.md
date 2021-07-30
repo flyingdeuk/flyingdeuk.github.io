@@ -4,6 +4,7 @@ date: 2020-07-02
 categories: [Coding, Github]
 tags: [github, usefulsite]
 pin:
+typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 ![pages](/img/coding/github/pages.jpg)

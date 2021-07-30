@@ -5,6 +5,7 @@ date: 2020-08-21 20:55:00 +0800
 categories: [Living]
 tags: [usefulapp, mac, android, windows, linux, kodi]
 pin:
+typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 Revision : 한국 TV Addon 저장소 추가(2020.12.17)

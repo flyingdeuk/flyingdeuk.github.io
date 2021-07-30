@@ -5,6 +5,7 @@ date: 2020-12-24 20:55:00 +0800
 categories: [Living]
 tags: [usefulthing, iptime]
 pin:
+typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 `FlyingDeuk's`

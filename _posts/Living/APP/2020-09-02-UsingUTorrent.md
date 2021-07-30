@@ -5,6 +5,7 @@ date: 2020-09-02 20:55:00 +0800
 categories: [Living, APP]
 tags: [usefulapp, mac, android, windows, linux, torrent]
 pin:
+typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 `FlyingDeuk's`

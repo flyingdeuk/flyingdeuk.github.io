@@ -5,6 +5,7 @@ date: 2020-12-17 20:55:00 +0800
 categories: [Living]
 tags: [usefulthing, android, firetv]
 pin:
+typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 ![fire](/img/living/fire/vpn/vpn.jpg)

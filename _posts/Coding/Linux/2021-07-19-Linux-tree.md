@@ -4,7 +4,9 @@ date: 2021-07-19
 categories: [Coding, Linux]
 tags: [linux]
 pin:
+typora-root-url: ../../../../flyingdeuk.github.io
 ---
+
 
 ![command](/img/coding/linux/command.jpg)
 
