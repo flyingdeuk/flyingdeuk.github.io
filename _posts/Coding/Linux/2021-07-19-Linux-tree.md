@@ -17,7 +17,7 @@ typora-root-url: ../../../../flyingdeuk.github.io
 
 `Wiki's`
 
->파일시스템은 여러 디렉터리가 있는 하나의 [루트 트리](https://ko.wikipedia.org/wiki/나무_그래프)로 등장한다.[[1\]](https://ko.wikipedia.org/wiki/유닉스_파일시스템#cite_note-Ritchie-1) [디스크 파티션](https://ko.wikipedia.org/wiki/디스크_파티션), 이동식 미디어, [네트우크 자원](https://ko.wikipedia.org/wiki/공유_자원) 등 별도의 볼륨을 별도의 트리로 주소화(마치 [도스](https://ko.wikipedia.org/wiki/도스)와 [윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우)에서 하는 것처럼, 각 "드라이브"가 드라이브 문자를 가짐으로써 파일 시스템 트리의 루트를 나타내는 것)하는 대신 이러한 볼륨들은 디렉터리를 [마운트](https://ko.wikipedia.org/wiki/Mount_(유닉스))시킴으로써 볼륨의 파일 시스템 트리가 더 큰 트리의 디렉터리로 보이게 만든다.[[1\]](https://ko.wikipedia.org/wiki/유닉스_파일시스템#cite_note-Ritchie-1) 전체 트리의 루트가 `/`로 표시된다.
+>파일시스템은 여러 디렉터리가 있는 하나의 [루트 트리](https://ko.wikipedia.org/wiki/나무_그래프)로 등장한다.[[1\]](https://ko.wikipedia.org/wiki/유닉스_파일시스템#cite_note-Ritchie-1) [디스크 파티션](https://ko.wikipedia.org/wiki/디스크_파티션), 이동식 미디어, [네트워크 자원](https://ko.wikipedia.org/wiki/공유_자원) 등 별도의 볼륨을 별도의 트리로 주소화(마치 [도스](https://ko.wikipedia.org/wiki/도스)와 [윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우)에서 하는 것처럼, 각 "드라이브"가 드라이브 문자를 가짐으로써 파일 시스템 트리의 루트를 나타내는 것)하는 대신 이러한 볼륨들은 디렉터리를 [마운트](https://ko.wikipedia.org/wiki/Mount_(유닉스))시킴으로써 볼륨의 파일 시스템 트리가 더 큰 트리의 디렉터리로 보이게 만든다.[[1\]](https://ko.wikipedia.org/wiki/유닉스_파일시스템#cite_note-Ritchie-1) 전체 트리의 루트가 `/`로 표시된다.
 
 
 
@@ -57,13 +57,13 @@ drwxr-xr-x   1 root root   180 12월  2  2020 var
 $ man hier
 ```
 
-> **hierarchy** 계층구조의 manual로 자세한 내용을 알 수 있다. 
+> **hierarchy** 계층구조의 manual로 자세한 내용을 알 수 있다.
 
-### /bin 또는 /usr/bin
+### /bin 과 /usr/bin
 
-Binary의 약자로 OS의 최소한의 정상적인 구동을 위해 필요한 프로그램이 들어있는 폴더.<br> cat, chmod, chown, cp, date, echo, kill, ln, ls, mkdir, etx 와같은 기초적인 프로그램들이 포함되어 있다. 
+Binary의 약자로 OS의 최소한의 정상적인 구동을 위해 필요한 프로그램이 들어있는 폴더.<br> cat, chmod, chown, cp, date, echo, kill, ln, ls, mkdir, etx 와같은 기초적인 프로그램들이 포함되어 있다.
 
-/usr/bin은 사용자에 의해 비슷한 목적을 갖는 프로그램이 추가된 폴더이다. 
+/usr/bin은 사용자에 의해 비슷한 목적을 갖는 프로그램이 추가된 폴더이다.
 
 ### /sbin 과 /usr/sbin
 
@@ -93,7 +93,7 @@ etc 폴더는 대부분의 설정 파일이 위치함. 리눅스의 전신인 �
 
 ### /proc
 
-proc에는 각 프로세스 이름에 따라 수많은 폴더들이 존재하고 현재 실행되는 프로세스에 대한 정보와 데이터가 담겨있다. (실제 디스크 공간에는 존재하지않는 가상의 디렉토리). 현재 cpu에서의 사용값, IO포트 등등 프로세스에대한 다양한 정보들이 있음. 
+proc에는 각 프로세스 이름에 따라 수많은 폴더들이 존재하고 현재 실행되는 프로세스에 대한 정보와 데이터가 담겨있다. (실제 디스크 공간에는 존재하지않는 가상의 디렉토리). 현재 cpu에서의 사용값, IO포트 등등 프로세스에대한 다양한 정보들이 있음.
 
 ### /media 와 /mnt
 
@@ -103,7 +103,7 @@ proc에는 각 프로세스 이름에 따라 수많은 폴더들이 존재하고
 
 ### /srv
 
-srv 디렉토리는 서버를 위한 폴더. 주로 FTP, SFTP, RSync와 같은 프로토콜을 이용하여 외부 사용자와의 공유를 위해 사용되며 다른디렉토리에비해 비교적 외부 사용자들이 쉽게 접근할 수 있는 폴더임. 
+srv 디렉토리는 서버를 위한 폴더. 주로 FTP, SFTP, RSync와 같은 프로토콜을 이용하여 외부 사용자와의 공유를 위해 사용되며 다른디렉토리에비해 비교적 외부 사용자들이 쉽게 접근할 수 있는 폴더임.
 
 ### /sys
 
@@ -119,7 +119,7 @@ sys와 유사하며 실제 디스크의 물리적 영역이 아닌 RAM을 기반
 
 ### /usr
 
-user 각 유저 이름에 맞는 폴더이름이 생성되어있으며 각 폴더마다 bin, sbin, share, lib과같이 각 유저들이 사용할 수 있는 폴더들이 위치함. 주로 시스템에서 가장 많은 영역을 차지하며 루트유저와 자기 자신만 접근가능함. usr는 사실 하나의 파티션이 아니라 각각의 유저별로 다른 파티션으로 존재하기때문에 다른사용자들이 사용할 수 있도록 마운트할 수 있지만 이 경우 수정은 불가능함. 
+user 각 유저 이름에 맞는 폴더이름이 생성되어있으며 각 폴더마다 bin, sbin, share, lib과같이 각 유저들이 사용할 수 있는 폴더들이 위치함. 주로 시스템에서 가장 많은 영역을 차지하며 루트유저와 자기 자신만 접근가능함. usr는 사실 하나의 파티션이 아니라 각각의 유저별로 다른 파티션으로 존재하기때문에 다른사용자들이 사용할 수 있도록 마운트할 수 있지만 이 경우 수정은 불가능함.
 
 ### /opt
 
