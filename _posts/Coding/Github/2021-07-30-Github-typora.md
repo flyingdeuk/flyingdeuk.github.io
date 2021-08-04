@@ -1,6 +1,6 @@
 ---
 title: Github Pages - Typora Markdown Editor /img 폴더 연결하기
-date: 2020-07-30
+date: 2021-07-30
 categories: [Coding, Github]
 tags: [github, usefulsite]
 pin:
