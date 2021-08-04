@@ -1,0 +1,59 @@
+---
+title: Wireless Remote Socket(Smart Socket) - 무선 RF 리모트 콘센트(Review)
+author: FlyingDeuk
+date: 2021-08-01 20:55:00 +0800
+categories: [Living, Review]
+tags: [usefulthing, review, smart]
+pin:
+---
+
+![remote](/img/living/review/remote1.jpg)
+
+`FlyingDeuk's`
+> 요즘 wifi 방식의 스마트 콘센트등의 Iot 기반의 제품들이 많이 있다. <br>
+하지만 스마트폰을 열고 해당 어플을 열고나서 전등을 켜는 것은 너무 불편하고 직관적이지가 못하다. <br>
+그래서 찾은 것이 무선 방식이지만 리모컨으로 조명을 켜고 끄기 위한 제품이다.
+
+최근 들어 한국에도 유사한 제품이 나오기는 하나 가성비가 떨어진다.
+
+`Wiki's`
+> 무선주파수는 파장 0.1mm 이상의 범위, 즉 진동수 3 THz이하의 전자기파이다.[1] RF(Radio Frequency)로 약칭한다.
+
+## RF 방식의 리모컨 콘센트
+리모컨의 방식은 크게 4가지 정도(적외선, 라디오 주파수, 와이파이, 블루투스...)가 많이 사용된다. 방식마다 장단점이 존재하게 된다.
+
+### 구입하기
+소켓 5개에 리모컨 2개 제품을 구매해서 사용중이다. 개당 6천원 정도면 구매가 가능하다. (wifi방식에 비하면 반값정도...)
+
+![remote](/img/living/review/remote.jpg)
+>개인적으로 알리를 좋아한다. 전세계에 나오는 제품들 대부분은 중국에서 만들어져 업자에 의해서 브랜드를 붙여 파는 경우가 대부분이다. <br>
+아마존, 이베이, 알리 등에 같은 제품을 검색해보면...
+
+### 제품 정보
+두꺼운 콘크리트 벽이 아니라면 100m 정도의 거리에서도 사용이 가능하다.
+
+1.Working voltage for socket: 220V~230V 50Hz
+
+2.Transmission frequency: 433.92MHz
+
+3.Max. Load current: 10A
+
+4.12V 23 A battery(battery is not included)
+
+5.Socket size: 100*54*79mm
+
+6.Remote control size: 104*36*14mm
+
+> EU(유럽) 방식의 콘센트를 선택하면 위와 같이 220V 대략 10A(전기소모가 많은 전열기구는 비추천), RF 주파수는 433MHz정도가 되겠다.
+
+### 사용법
+- **리모컨** : 2개의 리모컨은 같은 동작을 하며 2장소에 두고 동일하게 사용하면 된다. 왼쪽 ON, 오른쪽 OFF
+- **소켓** : 최초 구매하면 콘센트에 각각 숫자가 5까지 써있다. 1번에서 5번까지 리모컨의 숫자로 켜고 끄기가 가능하다. 소켓의 작은 버튼은 재설정과 수동으로 ON/OFF가 가능하다.
+
+#### 리모컨 재설정법
+소켓의 작은 스위치를 누르고 있으면 LED가 깜박이고 이때 리모컨의 버튼하나를 누르면 해당 번호로 재설정이 된다.
+
+### PostScript
+처음에는 직관적으로 리모컨으로 거실의 조명을 한 곳에서 켜고 끄는 목적으로 해당 제품을 구매했다. <br>
+여기에다가 RF/적외선 공용 Smart Remote Control을 추가하면 "OK Google"과 찰떡 궁합이 된다.
+>다음 포스팅 참조

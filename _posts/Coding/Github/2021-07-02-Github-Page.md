@@ -1,10 +1,9 @@
 ---
 title: Github Pages - 무료로 나만의 블로그 만들기
-date: 2020-07-02
+date: 2021-07-02
 categories: [Coding, Github]
 tags: [github, usefulsite]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 ![pages](/img/coding/github/pages.jpg)
@@ -19,27 +18,3 @@ typora-root-url: ../../../../flyingdeuk.github.io
 모든 GitHub Pages 콘텐츠는 방문자에게 제공되는 파일 또는 마크다운 형식으로 Git 저장소에 저장되며 GitHub는 Jekyl 정적 웹 사이트 및 블로그 생성기 및 GitHub 연속 통합 파이프라인과 원활하게 통합된다. 콘텐츠 소스가 업데이트될 때마다 Jekyl은 웹 사이트를 재생성하고 GitHub Pages 인프라를 통해 자동으로 서비스를 제공한다.[29]
 
 ## Github Pages
-
-
-### Github Pages error 해결법
-얼마전 일상적으로 블로그를 작성해서 올리는 데 아래와 같은 메세지를 메일로 받았다.
-> 당황했다. 더이상 공식 Github 인증 Theme가 아니면 안되는 건가 어디로 이사를 가야하나...
-
-The page build failed for the `gh-pages` branch with the following error: <br>
-The primer theme is not currently supported on GitHub Pages. For more information, see https://docs.github.com/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll.
-
-구글링 결과 2가지 정도의 해결방법이 있었다.
-
-1. _config.yml -> theme 변수 주석 처리
-
-  ```
-  #theme: [Any theme name on above link]
-  ```
-
-2. _config.yml -> theme 변수 값 수정
-
-  https://pages.github.com/themes/ 공식 Theme중 하나로 변경
-
-  ```
-  theme: [Any theme name on above link]
-  ```
