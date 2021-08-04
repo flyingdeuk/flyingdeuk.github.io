@@ -3,9 +3,9 @@ title: Linux(debian) Command - 명령어에 대한 쉬운 해석...
 date: 2021-07-02
 categories: [Coding, Linux]
 tags: [linux]
+pin:
 typora-root-url: ../../../../flyingdeuk.github.io
 ---
-
 
 ![command](/img/coding/linux/command.jpg)
 
@@ -68,4 +68,3 @@ $ pv 대상파일 > 복사위치
 ```bash
 $ rm test.txt
 ```
-

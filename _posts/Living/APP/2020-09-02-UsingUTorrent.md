@@ -25,11 +25,11 @@ __Streaming을 지원하기 때문에 보면서 다운로드가 가능.__ --> �
 
 ![site](/img/living/utorrent/download.jpg)
 
-uTorrent Web : 사파리, explorer, chrome 기본으로 설정됨 Browser상에서 실행됨. (새로운 버전)
+>uTorrent Web : 사파리, explorer, chrome 기본으로 설정됨 Browser상에서 실행됨. (새로운 버전)
 
 ![site](/img/living/utorrent/download_1.jpg)
 
-uTorrent Classic : 전용 프로그램을 설치 (올드 버전)
+>uTorrent Classic : 전용 프로그램을 설치 (올드 버전)
 
 `uTorrent Web 추천!!`
 
@@ -65,17 +65,17 @@ Google Play Store에서 설치
 ## uTorrent 사용법
 ### 사이트 검색법
 ![site](/img/living/utorrent/site.jpg)
-- 구글에 한글로 `토렌트`검색!!
+>구글에 한글로 `토렌트`검색!!
 
 ![site](/img/living/utorrent/site_1.jpg)
-- 토렌트 사이트를 선택
-- 일부 사이트는 한국에서 안되는 경우가 많음
+>토렌트 사이트를 선택 <br>
+>일부 사이트는 한국에서 안되는 경우가 많음
 
 ![site](/img/living/utorrent/site_2.jpg)
-- 해외 최신 자료는 영어로 ex) best torrent site
+>해외 최신 자료는 영어로 ex) best torrent site
 
 ![site](/img/living/utorrent/site_3.jpg)
-- 대표적인 해외 사이트
+>대표적인 해외 사이트
 
 ### 원하는 자료 선택
 ![site](/img/living/utorrent/magnet.jpg)
@@ -91,22 +91,27 @@ Google Play Store에서 설치
 
 ![site](/img/living/utorrent/magnet_1.jpg)
 
-바로 uTorrent Web을 열어서 다운로드 시작!
+>바로 uTorrent Web을 열어서 다운로드 시작!
 <br>
 안드로이드도 동일한 방법으로 APP을 열어준다.
 
+
 ### 바로 Streaming하기
+완전한 Download없이 중간에 시청하며 다운로드가 가능하다. (단, 보안상 Download후 앱을 종료하기 위해서는... 선택은 사용자의 몫임)
+#### MAC, windows
+
 ![site](/img/living/utorrent/play.jpg)
 
-Browser에서 Download 시작됨 <br>
+>Browser에서 Download 시작됨 <br>
 
 ![site](/img/living/utorrent/play_1.jpg)
 
-위의 재생버튼을 누르면 바로 재생가능
+>위의 재생버튼을 누르면 바로 재생가능
 
+#### Android
 ![site](/img/living/utorrent/and_play.jpg)
 
-옵션 버튼을 눌러 Play 누르기
+>옵션 버튼을 눌러 Play 누르기
 
 ![site](/img/living/utorrent/and_play_1.jpg)
 
@@ -116,18 +121,18 @@ Browser에서 Download 시작됨 <br>
 ![site](/img/living/utorrent/trash.jpg)
 
 다운로드 완료시 휴지통을 눌러 `토렌트 제거`,`토렌트와 데이터 제거`에 선택
->토렌트는 주소값, 데이터는 내가 받은 자료
+>토렌트는 주소값, 데이터는 내가 받은 자료 -> **토렌트 제거** 선택!!!
 
 ### BackGround 제거
 
 ![site](/img/living/utorrent/quit.jpg)
 
-BackGround에서 실행되는 uTorrent까지 완전 종료!!<br>
+>BackGround에서 실행되는 uTorrent까지 완전 종료!!<br>
 Windows는 아래 Tray에서 유사하게 Quit로 종료!!
 
 ![site](/img/living/utorrent/and_quit.jpg)
 
-Android 위의 BackGround 제거를 위해서 Exit로 종료!!
+>Android 위의 BackGround 제거를 위해서 Exit로 종료!!
 
 `원하는 컨텐츠를 광고나 다른 Streaming 업체를 경유하지않고 고화질로 볼 수 있음`
 - 상기와 같이 안드로이드에 다운로드후 무선 저장소로 사용하면 주변 다른 기기에서 Streaming이 가능함.

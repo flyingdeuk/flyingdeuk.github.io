@@ -20,6 +20,7 @@ __여러개로 분산되어 있는 Repository나 zip화일들을 하나의 저�
 
 
 ## FlyingDeuk Addon 저장소 연결
+가능하면 활용도 높은 Addon들을 내 저장소에 저장해 놓을 예정이다. 한번 연결하면 다시 할 필요없으니...
 
 ![kodi_addsrc0](/img/living/kodi/kodi_addsrc0.jpg)
 > **설정** 화면에서 **파일관리자**로 이동 <br>
@@ -31,7 +32,7 @@ __여러개로 분산되어 있는 Repository나 zip화일들을 하나의 저�
 
 ![kodi_addsrc1](/img/living/kodi/kodi_addsrc1.jpg)
 > **없음**을 눌러 경로를 수기로 입력한다. <br>
-주변 네트워크에 SAMBA 같은 네트워크가 있다면 자동으로 탐색도 가능함.
+**탐색**을 통해서 FTP, SMB, DLNA등을 연결 가능하다. 추후 포스팅 예정
 
 ![kodi_addsrc2](/img/living/kodi/kodi_addsrc2.jpg)
 
@@ -40,6 +41,8 @@ __여러개로 분산되어 있는 Repository나 zip화일들을 하나의 저�
 여기저기 구글링으로 설치하던 것을 **한곳에 모아놓음.**
 
 이름 KODI로 자동 들어가며 확인으로 완료!!!
+
+**사용법은 다음 포스팅으로~~**
 
 #### Postscript
 한 5년 정도 사용해본 결과 제일 유용하고 좋은 것을 모아놨으니 잘 활용바랍니다. <br>
