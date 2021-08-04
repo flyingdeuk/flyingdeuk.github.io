@@ -16,7 +16,7 @@ Revision : 자막 언어 설정법 추가(2021.03.02)
 
 ## KODI SETUP
 ![kodi_main](/img/living/kodi/kodi_main.jpg)
-> 현재 최신버전 18.8(19베타버전 나옴) -> 19버전 정식나오면 포스팅예정임
+> 현재 기준으로 포스팅함. 18.8 -> 19버전 정식나옴 다른 포스팅 참조
 
 ![kodi_set1](/img/living/kodi/kodi_set1.jpg)
 
@@ -49,7 +49,7 @@ Revision : 자막 언어 설정법 추가(2021.03.02)
 
 ![kodi_sub1](/img/living/kodi/kodi_sub1.jpg)
 > 선호오디오 **미디어기본** 그대로 두고 <br>
-선호 자막 언어 **Korean** 으로<br>
+선호 자막 언어 **Korean** 으로   <br>
 다운로드 자막 언어 **Korean** 으로 변경 <br>
 아래에로 내리면 **"첫번째 자막 자동으로 다운로드"** 로 자동 다운로드도 가능함
 
