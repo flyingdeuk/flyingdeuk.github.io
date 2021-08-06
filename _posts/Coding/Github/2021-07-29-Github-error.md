@@ -39,6 +39,7 @@ The primer theme is not currently supported on GitHub Pages. For more informatio
   ```
   >theme는 다르지만 공식 theme 이름으로 변경해준다.
 
+------
 
 ### PostScript
 Github에서는 몰라야 할 텐데...
