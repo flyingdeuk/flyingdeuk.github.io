@@ -50,6 +50,9 @@
   filename: 'UsingVPN'
   lastmod: '2021-08-04 23:29:52 +0900'
 -
+  filename: 'remote-socket'
+  lastmod: '2021-08-07 19:31:13 +0900'
+-
   filename: 'MACSite'
   lastmod: '2021-07-10 06:04:24 +0900'
 -
@@ -183,7 +186,7 @@
   lastmod: '2021-07-30 14:25:14 +0900'
 -
   filename: 'LFPG-CDG'
-  lastmod: '2021-07-30 14:25:14 +0900'
+  lastmod: '2021-08-07 02:06:58 +0900'
 -
   filename: 'VVNB-HAN'
   lastmod: '2021-07-30 14:25:14 +0900'
@@ -354,7 +357,7 @@
   lastmod: '2021-07-30 14:25:14 +0900'
 -
   filename: 'EGLL-LHR'
-  lastmod: '2021-08-04 23:29:52 +0900'
+  lastmod: '2021-08-07 02:06:58 +0900'
 -
   filename: 'VIDP-DEL'
   lastmod: '2021-07-30 14:25:14 +0900'
@@ -408,13 +411,16 @@
   lastmod: '2021-07-05 00:06:34 +0900'
 -
   filename: 'Github-typora'
-  lastmod: '2021-08-05 02:51:26 +0900'
+  lastmod: '2021-08-07 02:06:58 +0900'
 -
   filename: 'Github-Atom'
   lastmod: '2021-08-05 05:49:21 +0900'
 -
+  filename: 'Github-error'
+  lastmod: '2021-08-07 02:06:58 +0900'
+-
   filename: 'Github'
-  lastmod: '2021-07-30 14:25:14 +0900'
+  lastmod: '2021-08-07 02:06:58 +0900'
 -
   filename: 'Github-Page'
   lastmod: '2021-08-05 05:49:21 +0900'
