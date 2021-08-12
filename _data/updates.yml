@@ -53,6 +53,9 @@
   filename: 'remote-socket'
   lastmod: '2021-08-07 19:31:13 +0900'
 -
+  filename: 'ir-remote'
+  lastmod: '2021-08-07 19:37:26 +0900'
+-
   filename: 'MACSite'
   lastmod: '2021-07-10 06:04:24 +0900'
 -
@@ -207,7 +210,7 @@
   lastmod: '2021-07-30 14:25:14 +0900'
 -
   filename: 'WIII-CGK'
-  lastmod: '2021-07-30 14:25:14 +0900'
+  lastmod: '2021-08-12 19:09:24 +0900'
 -
   filename: 'RJBB-KIX'
   lastmod: '2021-07-30 14:25:14 +0900'
@@ -411,7 +414,7 @@
   lastmod: '2021-07-05 00:06:34 +0900'
 -
   filename: 'Github-typora'
-  lastmod: '2021-08-07 02:06:58 +0900'
+  lastmod: '2021-08-13 01:25:26 +0900'
 -
   filename: 'Github-Atom'
   lastmod: '2021-08-05 05:49:21 +0900'
