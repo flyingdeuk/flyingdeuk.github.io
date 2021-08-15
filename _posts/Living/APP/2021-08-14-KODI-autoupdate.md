@@ -38,6 +38,7 @@ KODI에서 기본적으로 제공하는 Addon이다. 찾아서 설치하면 됨.
 ![autoupdate](/img/living/kodi/autoupdate2.jpg)
 > **저장소에서 설치**로 들어가서 프로그램 에드온에서 찾아서 설치도 가능하나... 스마트하게...<br>
 **검색!!!**
+
 ![autoupdate](/img/living/kodi/autoupdate3.jpg)
 >**update** 키워드로 검색!!
 
