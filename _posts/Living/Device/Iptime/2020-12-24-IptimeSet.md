@@ -1,11 +1,10 @@
 ---
-title: IPTIME 공유기 - 외부/해외에서 접속하는 법
+title: IPTIME 공유기 DDNS - 외부/해외에서 접속하는 법
 author: FlyingDeuk
 date: 2020-12-24 20:55:00 +0800
 categories: [Living]
-tags: [usefulthing, iptime]
+tags: [usefulthing, iptime, ddns]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 `FlyingDeuk's`
@@ -13,6 +12,11 @@ typora-root-url: ../../../../flyingdeuk.github.io
 공유기를 집 안에서만 제어할 것인지 아니면 밖에서도 할 것인지..<br>
 집안을 벗어난 LTE 5G 든 내 집에 공유기를 제어하자. <br>
 `뭐든 쉬워야 한다.`
+
+`Wiki's`
+>**IP 주소(영어: Internet Protocol address, IP address, 표준어: 인터넷규약주소)** 는 컴퓨터 네트워크에서 장치들이 서로를 인식하고 통신을 하기 위해서 사용하는 특수한 번호이다. 만약 서버가 들어가지 않으면 IP가 안전하지 않다고 한다. 네트워크에 연결된 장치가 라우터이든 일반 서버이든, 모든 기계는 이 특수한 번호를 가지고 있어야 한다. 이 번호를 이용하여 발신자를 대신하여 메시지가 전송되고 수신자를 향하여 예정된 목적지로 전달된다. IP 주소를 줄여서 IP라고 부르기도 하나 IP는 인터넷 규약 자체를 가리키는 말이기 때문에 엄밀하게는 구별해야 한다.
+
+>**DDNS, Dynamic DNS 또는 DynDNS(동적 DNS)** 는 실시간으로 DNS를 갱신하는 방식이다. 주로 도메인의 IP가 유동적인 경우 사용된다. ip가 바뀌어도 ddns로 설정한 도메인값은 변하지 않기 때문에 용이하게 접속가능하다.
 
 `영화에서 나오는 IP 추적했어... 의 의미 부터 이해하는 것이 필요하다. `
 

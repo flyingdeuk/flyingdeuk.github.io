@@ -5,7 +5,6 @@ date: 2020-08-16 20:55:00 +0800
 categories: [Living, Device]
 tags: [usefulthing, linux, raspberrypi]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 ![pi](/img/living/pi/pi.jpg)

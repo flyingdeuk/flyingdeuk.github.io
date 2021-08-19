@@ -1,11 +1,10 @@
 ---
-title: IPTIME 공유기 - 한국 VPN(우리집) 접속하기
+title: IPTIME 공유기 VPN - 한국 VPN(우리집) 접속하기
 author: FlyingDeuk
 date: 2020-12-24 20:55:00 +0800
 categories: [Living]
-tags: [usefulthing, iptime]
+tags: [usefulthing, iptime, vpn]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 `FlyingDeuk's`
@@ -16,6 +15,9 @@ Netflix 역시 나라마다 서비스가 달라지니 한국에서와 동일한 
 해당 내용은 [IPTIME 공유기 외부(해외)에서 접속하기](/posts/IptimeSet/) 이후의 내용임.
 
 내 공유기의 DDNS 주소값은 **deuktest.iptime.org** 가 된다.
+
+`Wiki's`
+>**가상사설망(假想私設網) 또는 VPN(영어: virtual private network)** 은 공중 네트워크를 통해 한 회사나 몇몇 단체가 내용을 바깥 사람에게 드러내지 않고 통신할 목적으로 쓰이는 사설 통신망이다.[1] 가상 사설망에서 메시지는 인터넷과 같은 공공망 위에서 표준 프로토콜을 써서 전달되거나, 가상 사설망 서비스 제공자와 고객이 서비스 수준 계약을 맺은 후 서비스 제공자의 사설망을 통해 전달된다.
 
 ## VPN 설정법
 IPTIME의 설정에 접속한다. (외부든 내부든 상관없음)

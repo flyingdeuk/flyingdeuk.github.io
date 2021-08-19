@@ -5,7 +5,6 @@ date: 2020-09-02 20:55:00 +0800
 categories: [Living, APP]
 tags: [usefulapp, mac, android, windows, linux, torrent]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 `FlyingDeuk's`
@@ -16,6 +15,8 @@ __다운 받고 완전 종료!!__ <br>
 저작권과 방어벽 예외등의 보안 이유를 들어 사용하는 사람이 많이 줄어든 편이기는 하나 간단하게 본인이 원하는 컨텐츠 및 프로그램등등을 다운받는 데는 유용하다. <br>
 __Streaming을 지원하기 때문에 보면서 다운로드가 가능.__ --> 더 이상의 광고는 안녕~~ <br>
 
+`Wiki's`
+>**비트토렌트(영어: BitTorrent, 축약형 BT)** 는 P2P(peer-to-peer) 파일 전송 프로토콜의 이름이자 그것을 이용하는 응용 소프트웨어의 이름이다. 비트토렌트를 이용하면 파일을 인터넷 상에 분산하여 저장하여 놓고 다수의 접속을 사용하여 여러 곳에서 동시에 파일을 가져오게 되어 전송 속도가 빨라진다.
 
 ## uTorrent Download
 
@@ -134,9 +135,15 @@ Windows는 아래 Tray에서 유사하게 Quit로 종료!!
 
 >Android 위의 BackGround 제거를 위해서 Exit로 종료!!
 
+-------
+### PostScript
 `원하는 컨텐츠를 광고나 다른 Streaming 업체를 경유하지않고 고화질로 볼 수 있음`
 - 상기와 같이 안드로이드에 다운로드후 무선 저장소로 사용하면 주변 다른 기기에서 Streaming이 가능함.
 >기내와 같은 장소에서...
+
+다른 포스팅도 참고하기 바람
+- Iptime 공유기를 이용해 Torrent 이용하는 방법
+- 라즈베리파이를 이용해 Torrent 이용하는 방법
 
 -----
 @ 바로가기 : [안드로이드 핸드폰 wifi 저장소로 사용하기](/posts/UsingHotspot/)
