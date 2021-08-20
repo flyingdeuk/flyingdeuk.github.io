@@ -92,13 +92,21 @@ https://www.videolan.org/vlc/
 
 ![dlna](/img/living/iptime/dlna8.jpg)
 
-**특이한 점은 다운로드가 된다!!!**
->하지만 주의할 점은 자막은 다운이 안되어 아쉽다... (동영상, 음악, 사진형식이 아니면 아에 표시가 안되기 때문에...)
+**특이한 점은 다운로드가 된다!!!** -> 스트리밍이 되니 저장도 된다...
+>하지만 주의할 점은 자막은 다운이 안되어 아쉽다... (동영상, 음악, 사진형식이 아니면 아에 표시가 안되기 때문에...) -> 따로 자장하는 방법 밖에는...
 
 ### KODI
 기기중 KODI가 설치 가능한 경우(IOS제외)는 KODI에서도 사용이 가능하겠다.
 
-RESERVED - KODI에 포스팅예정
+
+- #### [KODI Media Server DLNA, UPnP, SMB, FTP - 미디어 서버(소스) 연결하기](/posts/KODI-source/)
+
+- #### [KODI Movies Library - 영화 라이브러리 설정법](/posts/KODI-library/)
+
+- #### [KODI Movies Library AutoUpdate - 영화 라이브러리 자동 업데이트, 라이브러리 정리 사용법](/posts/KODI-autoupdate/)
+
+- #### [KODI Movies Library The Movie DataBase - TMDB 영화 라이브러리 데이터베이스 연결법](/posts/KODI-tmdb/)
+
 
 -------
 
