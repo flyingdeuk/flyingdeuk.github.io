@@ -28,11 +28,11 @@ pin:
 
 ## INDEX
 
-#### 라즈베리파이 OS 설치하는 법 : reserved
+#### [Raspberry Pi Install - 라즈베리파이 OS 설치법 (모니터, 키보드 없이)](/posts/Pi-install/)
 
-#### SSH 원격제어 (모니터 키보드없이 CLI로 제어) : reserved
+#### [Raspberry Pi SSH - 라즈베리파이 SSH CLI 원격제어법, DHCP 설정 (모니터, 키보드 없이)](/posts/Pi-ssh/)
 
-#### VNC 원격제어 (모니터 키보드 마우스없이 GUI로 제어) : reserved
+#### [Raspberry Pi VNC - 라즈베리파이 VNC GUI 원격제어법, DHCP 설정 (모니터, 키보드 없이)](/posts/Pi-vnc/)
 
 #### 라즈베리파이 개인 설정 (pi 아이디 삭제법) : reserved
 
