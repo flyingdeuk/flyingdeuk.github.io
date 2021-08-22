@@ -66,7 +66,7 @@
   lastmod: '2021-07-10 06:04:24 +0900'
 -
   filename: 'KoreanTVSites'
-  lastmod: '2021-07-07 15:45:56 -0700'
+  lastmod: '2021-08-22 04:50:40 -0800'
 -
   filename: 'IptimeDLNA'
   lastmod: '2021-08-20 14:57:41 +0900'
@@ -143,8 +143,11 @@
   filename: 'Pi-mount'
   lastmod: '2021-08-19 15:40:49 +0900'
 -
+  filename: 'Pi-install'
+  lastmod: '2021-08-22 04:50:40 -0800'
+-
   filename: 'RaspberryPi'
-  lastmod: '2021-08-19 15:40:49 +0900'
+  lastmod: '2021-08-22 04:50:40 -0800'
 -
   filename: 'TSAT-TOBT-difference'
   lastmod: '2021-07-30 14:25:14 +0900'
