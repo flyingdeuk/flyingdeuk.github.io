@@ -34,9 +34,12 @@ pin:
 
 #### [Raspberry Pi VNC - 라즈베리파이 VNC GUI 원격제어법, DHCP 설정 (모니터, 키보드 없이)](/posts/Pi-vnc/)
 
-#### 라즈베리파이 개인 설정 (pi 아이디 삭제법) : reserved
+#### [Raspberry Pi Setting - 라즈베리파이 기본 설정법 (모니터, 키보드 없이)](/posts/Pi-setting/)
 
-#### 라즈베리파이 사용자 추가 및 설정법 : reserved
+#### [Raspberry Pi User - 라즈베리파이 사용자 추가법 (pi ID 삭제법)](/posts/Pi-user/)
+##### - [Raspberry Pi User - 라즈베리파이 pi 이름 변경법](/posts/Pi-changepi/)
+
+##### - [Raspberry Pi sudo - sudo 암호입력 없이 사용하기](/posts/Pi-sudo/)
 
 #### [Raspberry Pi Storage Mount - USB / SD Card Memory 재부팅시 자동 Mount 하기](/posts/Pi-mount/)
 
