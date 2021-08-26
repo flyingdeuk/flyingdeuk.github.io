@@ -28,25 +28,33 @@ pin:
 
 ## INDEX
 
-#### [Raspberry Pi Install - 라즈베리파이 OS 설치법 (모니터, 키보드 없이)](/posts/Pi-install/)
+### 기본 설치 및 설정
 
-#### [Raspberry Pi SSH - 라즈베리파이 SSH CLI 원격제어법, DHCP 설정 (모니터, 키보드 없이)](/posts/Pi-ssh/)
+- #### [Raspberry Pi Install - 라즈베리파이 OS 설치법 (모니터, 키보드 없이)](/posts/Pi-install/)
 
-#### [Raspberry Pi VNC - 라즈베리파이 VNC GUI 원격제어법, DHCP 설정 (모니터, 키보드 없이)](/posts/Pi-vnc/)
+- #### [Raspberry Pi SSH - 라즈베리파이 SSH CLI 원격제어법, DHCP 설정 (모니터, 키보드 없이)](/posts/Pi-ssh/)
 
-#### [Raspberry Pi Setting - 라즈베리파이 기본 설정법 (모니터, 키보드 없이)](/posts/Pi-setting/)
+- #### [Raspberry Pi VNC - 라즈베리파이 VNC GUI 원격제어법, DHCP 설정 (모니터, 키보드 없이)](/posts/Pi-vnc/)
 
-#### [Raspberry Pi User - 라즈베리파이 사용자 추가법 (pi ID 삭제법)](/posts/Pi-user/)
-##### - [Raspberry Pi User - 라즈베리파이 pi 이름 변경법](/posts/Pi-changepi/)
+- #### [Raspberry Pi Setting - 라즈베리파이 기본 설정법 (모니터, 키보드 없이)](/posts/Pi-setting/)
 
-##### - [Raspberry Pi sudo - sudo 암호입력 없이 사용하기](/posts/Pi-sudo/)
+- #### [Raspberry Pi User - 라즈베리파이 사용자 추가법 (pi ID 삭제법)](/posts/Pi-user/)
+  ##### - [Raspberry Pi User - 라즈베리파이 pi 이름 변경법](/posts/Pi-changepi/)
 
-#### [Raspberry Pi Storage Mount - USB / SD Card Memory 재부팅시 자동 Mount 하기](/posts/Pi-mount/)
+  ##### - [Raspberry Pi sudo - sudo 암호입력 없이 사용하기](/posts/Pi-sudo/)
 
-#### FTP 서버로 사용하기 (vsftpd 설치 및 설정법) : reserved
+- #### [Raspberry Pi Port Forward - 라즈베리파이 외부/해외에서 접속하기 (포트포워드)](/posts/Pi-port/)
 
-#### Torrent 머신으로 사용하기 (Transmission-daemon 설치 및 설정법) : reserved
+- #### [Raspberry Pi Storage Mount - USB / SD Card Memory 재부팅시 자동 Mount 하기](/posts/Pi-mount/)
 
-#### MINIDLNA로 스마트 TV에 간편 연결법 (minidlna 설치 및 설정법) : reserved
+### 미디어/파일 서버 설정
 
-#### KODI 설치하는 법 (Linux) : reserved
+- #### [Raspberry Pi DLNA/UPnP - 라즈베리파이 DLNA/UPnP 미디어 서버로 사용하기(by minidlna)](posts/Pi-dlna/)
+
+- #### [Raspberry Pi FTP - 라즈베리파이 ftp 파일서버로 사용하기(by vsftpd)](/posts/Pi-ftp/)
+
+- #### [Raspberry Pi transmission - 라즈베리파이 토렌트(Torrent) 머신으로 사용하기(by transmission-daemon)](/posts/Pi-trans/)
+
+### 미디어 센터 설정
+
+- #### KODI 설치하는 법 (Linux) : reserved
