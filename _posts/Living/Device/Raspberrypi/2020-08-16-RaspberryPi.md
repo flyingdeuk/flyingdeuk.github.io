@@ -58,4 +58,6 @@ pin:
 
 ### 미디어 센터 설정
 
-- #### KODI 설치하는 법 (Linux) : reserved
+- #### [Raspberry Pi KODI - KODI Media Center 설치법 (by Terminal)](/posts/Pi-kodi/)
+
+  ##### - [Raspberry Pi KODI VNC Control - KODI VNC로 Control하는 법 (모니터, 키보드없이 by Direct Capture Mode)](/posts/Pi-kodi-vnc/)
