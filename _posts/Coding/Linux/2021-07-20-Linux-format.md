@@ -4,7 +4,6 @@ date: 2021-07-20
 categories: [Coding, Linux]
 tags: [linux]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 ![command](/img/coding/linux/command.jpg)
@@ -14,6 +13,8 @@ typora-root-url: ../../../../flyingdeuk.github.io
 
 `Wiki's`
 >**파일 시스템**(file system, [문화어](https://ko.wikipedia.org/wiki/문화어): 파일체계)은 컴퓨터에서 [파일](https://ko.wikipedia.org/wiki/파일)이나 [자료](https://ko.wikipedia.org/wiki/자료)를 쉽게 발견 및 접근할 수 있도록 보관 또는 조직하는 체제를 가리키는 말이다.
+
+
 
 
 ```bash

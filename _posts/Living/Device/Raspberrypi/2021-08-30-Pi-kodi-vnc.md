@@ -52,4 +52,5 @@ VNC에서 KODI의 overlay화면을 보기위한 설정은 아래와 같다.
 >위의 설정으로 VNC화면에서 KODI의 화면도 Overlay가능하고... Control도 가능하다... 화면에 나오니...
 
 
+
 [INDEX로 돌아가기](/posts/RaspberryPi/)

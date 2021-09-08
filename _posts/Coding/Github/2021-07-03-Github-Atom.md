@@ -4,7 +4,6 @@ date: 2021-07-03
 categories: [Coding, Github]
 tags: [github, usefulapp]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 ![atom](/img/coding/github/atom.jpg)

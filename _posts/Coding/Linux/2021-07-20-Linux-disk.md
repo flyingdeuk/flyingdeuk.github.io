@@ -4,7 +4,6 @@ date: 2021-07-20
 categories: [Coding, Linux]
 tags: [linux]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 ![command](/img/coding/linux/command.jpg)
@@ -39,7 +38,7 @@ tmpfs           340M  4.0K  340M   1% /run/user/1001
 
 ### du (Disk Usage)
 
-지정 폴더의 저장용량을 확인 가능하다. 
+지정 폴더의 저장용량을 확인 가능하다.
 
 ```bash
 $ du -sh /home
@@ -70,7 +69,7 @@ mmcblk0     179:0    0 476.9G  0 disk
 
 ### blkid (Block ID)
 
-리눅스는 일반적으로 UUID(저장소 고유번호), PARTUUID(파티션 고유번호), LABEL(포멧후 저장이름), /dev/(디바이스기준)으로 저장소를 지정 및 인식이 가능하다. <br>그러한 정보를 한번에 보여준다. 
+리눅스는 일반적으로 UUID(저장소 고유번호), PARTUUID(파티션 고유번호), LABEL(포멧후 저장이름), /dev/(디바이스기준)으로 저장소를 지정 및 인식이 가능하다. <br>그러한 정보를 한번에 보여준다.
 
 ```bash
 $ sudo blkid
@@ -82,7 +81,7 @@ $ sudo blkid
 
 
 
-### fdisk 
+### fdisk
 
 
 
@@ -120,6 +119,3 @@ Disk identifier: 0xbbb5899b
 Device     Boot Start       End   Sectors   Size Id Type
 /dev/sda1  *       64 250068991 250068928 119.2G  7 HPFS/NTFS/exFAT
 ```
-
-
-
