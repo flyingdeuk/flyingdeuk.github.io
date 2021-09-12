@@ -30,18 +30,20 @@ $ sudo mount /dev/sda1 /home/DeukTest
 ```
 > 일반적인 경우 위와 같이 간단하게 mount가능하다.
 
-#### 특정 사용자로 Mount하기
+#### 특정 사용자로 Mount하기 (NTFS)
+리눅스에서 사용하는 ext4와 같은 포멧은 소유자와 권한등의 변경이 자유롭다. 하지만 NTFS의 경우는 mount시 지정하지 않으면 나중에 변경이 불가능하고 전체를 똑같이 지정할 수 밖에는 없다.
 
 ```bash
 $ id
 uid=1001(DeukTest) gid=1001(DeukTest) groups=1001(DeukTest),4(adm),20(dialout),24(cdrom),27(sudo),29(audio),44(video),46(plugdev),60(games),100(users),105(input),109(netdev),126(debian-transmission),997(gpio),998(i2c),999(spi)
 ```
->id 명령어로 현재 사용자의 id를 알수 있다. 해당 id로 mount하는 법은 아래와 같다. (단, ntfs만 가능하단다...) -> 다른 file system의 경우엔 chown으로 가능하겠다.
+>id 명령어로 현재 사용자의 id를 알수 있다. 해당 id로 mount하는 법은 아래와 같다. (단, ntfs에만 적용 가능하다...) -> 다른 file system의 경우엔 chown으로 가능하겠다.
 
  ```bash
- $ sudo mount -t ntfs -o uid=DeukTest,gid=DeukTest /dev/sda1 /home/DeukTest
+ $ sudo mount -t ntfs -o uid=DeukTest,gid=DeukTest,umask=002 /dev/sda1 /home/DeukTest
  ```
- >ntfs Filesystem에 한해서만 소유자 및 소유그룹지정이 가능하다. <br>
+ >ntfs Filesystem에서는 최초 마운트시에 소유자 및 소유그룹지정 및 권한 설정이 가능하다. 이후에는 불가능하고 전체 디스크에 동일하게 적용이 된다.
+ <br>
 
 
 ## umount - Umount 하기
@@ -111,7 +113,8 @@ UUID=3941989C2008AD55 /home/DeukUSB ext4 defaults 0 0
 > 특별한 option없이 이렇게만 해도 일반적으로 사용하는 데는 문제가 없다.
 
 
-#### 일부 option 적용 예
+#### 일부 option 적용 예(NTFS)
+ntfs의 경우 mount시 소유자와 권한을 지정하지 않으면 않되므로 fstab에서도 지정을 해야지만 소유자, 권한을 설정할 수 있다.
 
 ```bash
 $ sudo vim /etc/fstab
