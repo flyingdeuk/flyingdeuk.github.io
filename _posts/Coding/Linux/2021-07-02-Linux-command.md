@@ -10,7 +10,7 @@ typora-root-url: ../../../../flyingdeuk.github.io
 ![command](/img/coding/linux/command.jpg)
 
 `FlyingDeuk's`
->라즈베리파이를 구매하고 나서 처음으로 리눅스를 사용해봤다.  <br>국민(??)학교 시절 8비트 컴퓨터를 처음 접하면서 DOS 명령어중 dir/w가 기억나는 정도...<br>초심자로서 처음 사용하면서 궁금했던 내용들을 쓰려한다. 
+>라즈베리파이를 구매하고 나서 처음으로 리눅스를 사용해봤다.  <br>국민(??)학교 시절 8비트 컴퓨터를 처음 접하면서 DOS 명령어중 dir/w가 기억나는 정도...<br>초심자로서 처음 사용하면서 궁금했던 내용들을 쓰려한다.
 
 `Wiki's`
 >
@@ -24,7 +24,6 @@ typora-root-url: ../../../../flyingdeuk.github.io
 ../ #상위폴더
 ./  #현재폴더
 *   #대상폴더의 모든 내용
-
 ```
 
 ### 파일, 폴더 복사 (cp) - copy

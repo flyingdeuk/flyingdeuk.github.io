@@ -34,6 +34,8 @@ pin:
 
 - #### [Raspberry Pi SSH - 라즈베리파이 SSH CLI 원격제어법, DHCP 설정 (모니터, 키보드 없이)](/posts/Pi-ssh/)
 
+  ##### - [Raspberry Pi SSH RSA key - 라즈베리파이 SSH 암호없이 접속하기](/posts/Pi-ssh-keygen/)
+
 - #### [Raspberry Pi VNC - 라즈베리파이 VNC GUI 원격제어법, DHCP 설정 (모니터, 키보드 없이)](/posts/Pi-vnc/)
 
 - #### [Raspberry Pi Setting - 라즈베리파이 기본 설정법 (모니터, 키보드 없이)](/posts/Pi-setting/)
@@ -60,4 +62,4 @@ pin:
 
 - #### [Raspberry Pi KODI - KODI Media Center 설치법 (by Terminal)](/posts/Pi-kodi/)
 
-  ##### - [Raspberry Pi KODI VNC Control - KODI VNC로 Control하는 법 (모니터, 키보드없이 by Direct Capture Mode)](/posts/Pi-kodi-vnc/)
+  ##### - [Raspberry Pi KODI VNC Control - KODI VNC로 Control하는 법 (by Direct Capture Mode)](/posts/Pi-kodi-vnc/)
