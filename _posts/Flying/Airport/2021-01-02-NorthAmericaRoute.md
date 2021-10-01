@@ -4,7 +4,6 @@ date: 2021-01-02
 categories: [Flying]
 tags: [index, northamerica]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 `FlyingDeuk's`

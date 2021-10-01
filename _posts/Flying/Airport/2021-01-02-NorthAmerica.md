@@ -4,11 +4,13 @@ date: 2021-01-02
 categories: [Flying, Airport]
 tags: [index, northamerica]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 `FlyingDeuk's`
 >북미 대륙 전체를 포함한다. (알레스카, 캐나다, 미국)<br>
+
+## FlyingSense
+#### [POLAR 141W ISSUE - GANDER, ANCHORAGE Radio 절차](/posts/gander/)
 
 ## 알래스카
 #### [PANC(ANC) - 미국 알레스카(테드 스티븐스 공항)](/posts/PANC-ANC/)
