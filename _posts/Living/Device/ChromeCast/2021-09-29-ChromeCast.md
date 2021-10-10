@@ -36,7 +36,6 @@ pin:
 
 #### - [ChromeCast with Google TV - Puffin Browser 활용법 (광고차단)](/posts/ChromeCast-puffin/)
 
-
 #### - [ChromeCast with Google TV - Downloader 활용법 (알 수 없는 출저 해결법)](/posts/ChromeCast-downloader/)
 
 #### - [KODI - 최고의 무료 Media Center 어플 (for Mac, Android, Windows, RaspberryPi)](/posts/KODI/)
