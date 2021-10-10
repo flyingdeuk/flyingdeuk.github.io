@@ -67,6 +67,7 @@ ENJOY~~~ FREE ADS CITY!!!
 
 #### 추가기능 (멀티테스킹)
 아마존 FIRE TV에는 없는 기능으로 뒤로가기 버튼을 누르면 이전 history를 보여준다. 즉 여러개의 이전 창을 선택할 수 있다. (아마존도 배웠으면...)
+
 ![chrome](/img/living/chromecast/chromecast12.jpg)
 >**뒤로가기**를 누르면 이전 창으로 보여주고 이동도 가능하다.
 
