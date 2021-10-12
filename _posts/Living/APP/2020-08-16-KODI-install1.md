@@ -5,7 +5,6 @@ date: 2020-08-16 20:55:00 +0800
 categories: [Living]
 tags: [usefulapp, mac, android, windows, linux, kodi]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 Revision : 자막 언어 설정법 추가(2021.03.02)
@@ -72,7 +71,7 @@ KODI Addon들은 대부분이 개인 프로그래머들의 작품이다. 즉 3rd
 알수없는 소스를 활성화해서 Addon을 설치할 수 있게 해줌.
 
 #### Postscript
-이로써 가장 기본 설정은 완료했다. 하지만 너무 많은 기능을 갖고 있기 때문에 추후에도 많은 포스팅이 예정되어 있음.
+이로써 가장 기본 설정은 완료했다. 하지만 너무 많은 기능을 갖고 있기 때문에 추후에도 많은 포스팅이 예정되어 있다.
 
 
 [INDEX로 돌아가기](/posts/KODI/)
