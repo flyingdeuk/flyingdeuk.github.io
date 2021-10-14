@@ -11,7 +11,7 @@ pin:
 
 `FlyingDeuk's`
 > IOS 초기 애플의 특성상 Flash의 지원을 하지않았다. 당시는 Flash 기반의 컨텐츠가 많아서 불편함이 많았고 Flash를 지원하는 마지막 보루로 Puffin Browser를 사용했었었다. (그래서 알게된 유명해진 회사...) 그 이후 구글 및 여러 인터넷 회사들이 Flash를 사용하지 않으면서 조금씩 잊혀져가고 있었다.<br>
-최근에 ChromeCast with Google TV(포스팅 완료)를 만져보면서 Google TV에 알게 되었고 FireTV의 Silk브라우져보다 편리한 점이 있어 설치에 보전해 본다.
+최근에 ChromeCast with Google TV(포스팅 완료)를 만져보면서 Google TV에 알게 되었고 FireTV의 Silk브라우져보다 편리한 점이 있어 설치에 도전해 본다.
 
 최근 (2021.10.12) FireTV의 SILK BROWSER가 이상하다. 최신 버전 Update후 WEB상의 동영상이 까만색으로만 나온다. 통상 일반 이미지와 동영상은 다른 Overlay 방식을 사용하는 데.. 안나온다는 것은 Layer에 문제가 생긴 것이다... 그래서 Puffin을 사용하니 잘 된다... 소개한다....
 
@@ -120,5 +120,5 @@ Puffin이 후발 주자여서 그런지... 그래서 구글에서 채택을 했�
 같은 안드로이드 계열이지만 TV냐 모바일이냐... 화면이 큰 PAD냐 핸드폰이냐에 따라 장비에 맞게 Modify되는 것이 현재의 흐름인 것 같다...
 
 apk파일을 설치한 것이기 때문에 자동 업데이트는 지원이 되는 않는다... 업데이트가 필요한 경우는 지속적으로 할 예정이다...
-  
+
 [INDEX로 돌아가기](/posts/FireTV/)
