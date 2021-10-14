@@ -79,7 +79,7 @@ FireTV는 Android Base의 기기이다. 물론 Amazon App Store의 정식 APP을
 **한편으로는 이런 방식이 맘에 크게 들지는 않지만 이것이 IOS와는 다른 안드로이드, 윈도우식의 확장성이라면... 잘 활용할 수 밖에는...**
 
 ### Puffin TV Browser 이용법
-ChromeCast with Google TV에서 부러운 점은 이 브라우져 정도랄까?! 물론 구글의 스토어의 방대한 APP이 부러울 수도 있지만 TV에 맞게 Modify된 어플의 숫자는 먼저 사업을 시작은 아마존이나 OS의 주인인 Google이나 현재 상으로 크게 다르지 않다... 이후는 어찌될 지는 모르겠다...
+ChromeCast with Google TV에서 부러운 점은 이 브라우져 정도랄까?! 물론 구글의 스토어의 방대한 APP이 부러울 수도 있지만 TV에 맞게 Modify된 어플의 숫자는 먼저 사업을 시작한 아마존이나 OS의 주인인 Google이나 현재 상으로 크게 다르지 않다... 이후는 어찌될 지는 모르겠다...
 
 ![puffin](/img/living/fire/puffin15.jpg)
 > 일반적으로 외부에서 설치된 어플은 **HOME**화면에 잘 노출이 되지않는다... HOME에서 보이지않는 다면 전체 APP에서 찾으면 된다. (사용 빈도가 높거나 HOME화면에 지정하면 쉽게 찾을 수 있다.)
