@@ -20,12 +20,10 @@ KODI 공식 홈페이지  <https://kodi.tv>
 windows10, 안드로이드는 스토어에서 바로 설치가능. (자동 업데이트 지원됨)<br>
 FIRE TV는 Downloader라는 어플로 주소치고 Down가능함.
 
-
 ![kodi_2](/img/living/kodi/kodi_2.jpg)
 > 무기를 고르시오.<br>
 모든 버전의 OS에서 설치 가능함.<br>
 윈도우, 맥북, 라즈베리파이까지도 설치 가능하나 IOS는 탈옥을 해야함.
-
 
 ![kodi_3](/img/living/kodi/kodi_3.jpg)
 > 본인의 사양에 맞는 버전을 선택<br>
@@ -60,7 +58,7 @@ sudo pip install setuptools wheel pycryptodomex
 ```
 - kodi에 필요한 python과 해당 프로그램을 설치한다. 이는 kodi내에서 Netflix등의 addon이 정상 작동되게 해준다.  
 
-
+----------
 
 #### Postscript
 
