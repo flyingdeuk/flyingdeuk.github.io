@@ -7,6 +7,8 @@ tags: [usefulapp, mac, android, windows, linux, kodi]
 pin:
 ---
 
+![kodi_addon](/img/living/kodi/kodi_addon0.jpg)
+
 Revision : 한국 TV Addon 저장소 추가(2020.12.17)
 
 `FlyingDeuk's`
