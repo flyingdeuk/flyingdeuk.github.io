@@ -22,8 +22,9 @@ pin:
 
 ### root 암호 등록
 최초에는 root암호가 등록되어 있지 않다. root암호를 등록해야한다.
+
 #### sudo passwd root
-```bash
+```
 $ sudo passwd root
 ```
 >SSH로 접속한 상태에서 암호를 등록한다.
@@ -33,7 +34,7 @@ ssh는 기본적으로 보안 때문인지 root의 원격접속이 제한되어 
 
 #### sudo vim /etc/ssh/sshd_config
 
-```bash
+```
 # Authentication:
 
 #LoginGraceTime 2m
@@ -48,10 +49,11 @@ ssh는 기본적으로 보안 때문인지 root의 원격접속이 제한되어 
 
 #### sudo service sshd restart
 ssh 서비스를 재시작해서 변동 사항을 반영
-```bash
+```
 $ sudo service sshd restart
 ```
-```bash
+
+```
 $ exit
 ```
 >pi 계정에서 로그아웃한다.
@@ -59,24 +61,28 @@ $ exit
 ### root로 접속
 pi 변경을 위해서 root로 접속한다.
 #### ssh root@192.168.xx.xx
-```bash
+```
 $ ssh root@192.168.xx.xx
 ```
 
 ### pi 이름 변경
 usermod로 이름 변경해준다.
+
 #### usermod -l newname pi
 로그인 아이디를 변경
-```bash
+```
 usermod -l deuktest pi
 ```
+
 #### usermod -m -d /home/newname newname
 /home/pi 폴더의 모든 내용을 새로운 이름으로 변경 및 이동
-```bash
+```
 usermod -m -d /home/deuktest deuktest
 ```
 
 내가 직접해 본것은 아니지만 검색의 결과이다. 다음 기회가 되면 해볼 생각임...
+
+-----
 
 ### PostScript
 좀 더 손쉬운 방법이라 생각이 든다. 이럼으로써 root 계정 암호도 겸사겸사 만들게도 되었다.

@@ -63,7 +63,7 @@ SD 카드는 구워지고 나면 자동으로 마운트가 해제된다. 다시 
 
 
 **wifi_supplicant.conf**
-```bash
+```
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
 update_config=1
 network={
@@ -75,6 +75,8 @@ network={
 ### 라즈베리파이 부팅
 SD 카드를 삽입하고 전원을 켜면 된다.
 >첫 부팅시에는 시간이 10-15분 정도 소요된다.
+
+----
 
 ### PostScript
 라즈베리파이 OS에는 기본 서버(명령어로만 제어), 데스크탑(GUI), 데스크탑 with recommended software(오피스, 각종 프로그램) 3가지에서 선택하면 되고... <br>

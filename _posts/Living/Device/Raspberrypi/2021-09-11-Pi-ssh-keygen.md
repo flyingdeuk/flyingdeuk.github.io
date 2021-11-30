@@ -30,7 +30,7 @@ Client PC(맥북) Terminal에서 해당 작업을 수행한다. (Windows는 Powe
 #### $ ssh-keygen
 ssh RSA key 생성 명령어
 
-```bash
+```
 $ ssh-keygen                                
 Generating public/private rsa key pair.
 Enter file in which to save the key (/Users/deuktest/.ssh/id_rsa):
@@ -38,16 +38,14 @@ Enter file in which to save the key (/Users/deuktest/.ssh/id_rsa):
 >RSA key를 생성후 어디에 저장할 것인지를 묻는다. <br>
 사용자의 Home폴더 /.ssh (default)에 그냥 저장하는 게... 그냥 엔터!!
 
-
-
-```bash
+```
 Enter passphrase (empty for no passphrase):
 Enter same passphrase again:
 ```
 >RSA에 대한 추가적인 암호를 추가할 수 있다...<br>
 그럼 또 암호를 넣아야하니... 패스... RSA key의 누출을 우려한다면...
 
-```bash
+```
 Your identification has been saved in /Users/deuktest/.ssh/id_rsa.
 Your public key has been saved in /Users/deuktest/.ssh/id_rsa.pub.
 The key fingerprint is:
@@ -57,7 +55,7 @@ The key fingerprint is:
 ```
 >Client PC(맥북) 사용자 Home폴더 /.ssh 에 key가 저장되었다...
 
-```bash
+```
 ~/.ssh $ ls -al                                    
 total 24
 drwx------   5 deuktest  staff   160  9 13 14:53 .
@@ -78,7 +76,7 @@ ssh RSA key를 Server 주소로 전송한다.
 - ssh-coyp-id  deuktest@deuktest.iptime.org
 >같은 형식으로 ssh 접속과 같은 서버 주소를 붙여주면 끝!!
 
-```bash
+```
 $ ssh-copy-id deuktest@deuktest.iptime.org
 /usr/bin/ssh-copy-id: INFO: Source of key(s) to be installed: "/Users/deuktest/.ssh/id_rsa.pub"
 /usr/bin/ssh-copy-id: INFO: attempting to log in with the new key(s), to filter out any that are already installed

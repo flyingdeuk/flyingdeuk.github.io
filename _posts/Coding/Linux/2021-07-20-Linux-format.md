@@ -15,20 +15,18 @@ pin:
 >**파일 시스템**(file system, [문화어](https://ko.wikipedia.org/wiki/문화어): 파일체계)은 컴퓨터에서 [파일](https://ko.wikipedia.org/wiki/파일)이나 [자료](https://ko.wikipedia.org/wiki/자료)를 쉽게 발견 및 접근할 수 있도록 보관 또는 조직하는 체제를 가리키는 말이다.
 
 
-
-
-```bash
+```
 /dev/sda1 is mounted; will not make a filesystem here!
 ```
 >Mount되어 있으면 포맷이 안된다.
 
-```bash
+```
 $ sudo umount /dev/sda1
 ```
 >해당 SD 카드를 unmount한다.
 
 
-```bash
+```
 $ sudo mke2fs -t ext4 -L Deuk -v /dev/sda1
 mke2fs 1.44.5 (15-Dec-2018)
 /dev/sda1 contains a ext4 file system
@@ -57,28 +55,29 @@ Writing inode tables: done
 Creating journal (131072 blocks): done
 Writing superblocks and filesystem accounting information: done
 ```
-```bash
+
+```
 $ sudo mkfs.fat -F 32 -n DeukTest -v /dev/sda1
 ```
 > -F : FAT32/16 설정 <br>
 -n : 레이블 명 <br>
 -v : 자세한 수행 정보 출력
 
-```bash
+```
 $ sudo mkntfs -f -L DeukTest -v /dev/sda1
 ```
 > -f : fast 포멧  <br>
 -L : 레이블 명 <br>
 -v : 자세한 수행 정보 출력
 
-```bash
+```
 $ sudo mke2fs -t ext4 -L DeukTest -v /dev/sda1
 ```
 > -f : fast 포멧  <br>
 -L : 레이블 명 <br>
 -v : 자세한 수행 정보 출력
 
-```bash
+```
 $ ls -al /usr/sbin
 .
 .
@@ -97,10 +96,10 @@ lrwxrwxrwx  1 root root         8  5월 13  2018 mkfs.vfat -> mkfs.fat
 ```
 
 ### 폴더 소유자 변경
-```bash
+```
 $ sudo chown -R deuktest:deuktest /home/DeukTest
 ```
 ### 폴더 권한 변경
-```bash
+```
 $ sudo chmod -R 755 /home/DeukTest
 ```

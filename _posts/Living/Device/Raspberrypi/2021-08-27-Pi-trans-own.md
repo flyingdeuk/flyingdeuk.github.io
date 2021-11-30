@@ -24,7 +24,7 @@ Transmission은 파일을 다운로드 받으면서 본인의 소유로 파일�
 - Transmission을 관리자 계정의 Group으로 묶어서 사용하는 법
 >본인은 잔머리를 좀 굴려 2번째 방법을 사용중이다. 첫번째 방법은 프로그램의 업데이트등으로 설정이 변경되는 경우가 있기때문에 원천적인 방법이 좀 더 쉽다.
 
-```bash
+```
 -rw-rw-r-- 1 debian-transmission debian-transmission 1921372523  8월 23 07:44 '대탈출 4.E07.210822.720p-NEXT.mp4'
 -rw-rw-r-- 1 debian-transmission debian-transmission 1832470233  8월 30 08:19 '대탈출 4.E08.210829.720p-NEXT.mp4'
 ```
@@ -34,14 +34,14 @@ Transmission은 파일을 다운로드 받으면서 본인의 소유로 파일�
 권리자(Super User)의 계정으로 파일작성자를 변경한다.
 
 #### $ sudo vim /etc/init/transmission-daemon.conf
-```bash
+```
 setuid debian-transmission
 setgid debian-transmission
 ```
 >해당 아이디를 변경해 주면 된다고는 하는데... 최근 들어 우분투의 경우는 잘 안된단다... 아래 방법 추가...
 
 #### $ sudo vim /etc/systemd/system/multi-user.target.wants/transmission-daemon.service
-```bash
+```
 [Service]
 User=debian-transmission
 Type=notify
@@ -51,7 +51,7 @@ ExecStart=/usr/bin/transmission-daemon -f --log-error
 
 #### $ sudo vim /etc/init.d/transmission-daemon
 
-```bash
+```
 DAEMON=/usr/bin/$NAME
 USER=debian-transmission
 STOP_TIMEOUT=30
@@ -65,7 +65,7 @@ STOP_TIMEOUT=30
 
 #### $ sudo vim /etc/group
 
-```bash
+```
 deuktest:x:1001:debian-transmission
 .
 .
@@ -79,13 +79,14 @@ debian-transmission:x:124:deuktest
 
 
 #### 폴더 권한 변경
-```bash
+```
 $ sudo chmod -R 775 /home/deuktest
 ```
 >Transmission이 파일을 다운받는 폴더의 권한에 group쓰기 권한을 넣어주면 끝이다. (리눅스 포스팅 참조)
 
 위와 같은 방법으로 간단하게 권한을 설정해서 다운로드파일 주인의 변경없이 group으로 관리자의 파일관리가 가능하게 되었다.
 
+----
 
 ## PostScript
 일반적으로 지금까지 사용해온 PC(Windows, MAC등)에도 역시 권한이라는 것이 존재한다. 하지만 잘 모르고 사용도 하지않는다고 하겠다. 하지만 리눅스의 서버로써의 역할로 인해 사용자 권한에 좀더 민감한 OS로 많은 것을 다시 한번 배운거 같다.

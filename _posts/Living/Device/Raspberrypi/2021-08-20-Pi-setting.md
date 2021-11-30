@@ -30,7 +30,7 @@ VNC로 접속해서 해당 기능을 누르면 됨...
 Terminal이나 Powershell로 SSH에 접속하자. <br>
 **ssh pi@192.168.xx.xx**
 
-```bash
+```
 ~ » ssh pi@192.168.xx.xx     255 ↵ DeUk@Deukhyeonui-MacBook-Air
 pi@flyingdeuk.iptime.org's password:
 Linux raspberrypi 5.10.52-v7l+ #1441 SMP Tue Aug 3 18:11:56 BST 2021 armv7l
@@ -47,7 +47,7 @@ pi@raspberrypi:~ $
 
 #### sudo raspi-config
 
-```bash
+```
 pi@raspberrypi:~ $ sudo raspi-config
 ```
 
@@ -61,7 +61,8 @@ pi@raspberrypi:~ $ sudo raspi-config
 - **Password** : pi의 Password를 변경한다. (다 알고있는 암호는 불안하니 변경한다.) -> **pi ID도 지울 예정이라 다음 포스팅을 따라 갈 예정이라면 의미 없음...**
 - **Hostname** : 이 컴퓨터의 이름을 변경한다. **raspberrypi** -> **원하는 이름**
 >재부팅되며 결과는...
-```bash
+
+```
 pi@deuktest:~ $
 ```
 >ssh 접속하면 컴퓨터 이름이 변경된 걸 알 수 있다.
@@ -83,7 +84,7 @@ pi@deuktest:~ $
 ![setting](/img/living/pi/setting8.jpg)
 사용자 위치를 설정하는 옵션이다. 이 옵션은 VNC로 GUI에서 설정하는 것이 더 편하다.
 - **Locale** : 사용자의 지역을 설정하는 것으로 가장 큰 차이는 언어가 변경된다. (한국으로 설정시 정보가 한글로 표시된다. -> 한글 폰트가 설정되어 있지않아 깨지는 현상이 발생한다.)
-```bash
+```
   pi@deuktest:~$ sudo apt install fonts-unfonts-core
 ```
   >ssh에 해당 명령어로 간단하게 설치 가능하다.
@@ -100,11 +101,10 @@ pi@deuktest:~ $
 #### Update
 **sudo apt update / upgrade**와 같은 기능... 굳이 설정까지 들어와서 할 필요는 없는 듯...
 
+-----
 
 ### PostScript
 간단하게 설정이 가능하다. wifi 이슈만 아니면 사용하는 데는 크게 문제가 없다.
 본인은 미디어서버로 wifi보다는 유선으로 사용할 목적으로 사용하기에 크게 문제점은 못 느낀다. 서버는 안보이는 곳에 두고 접속은 원격으로...
-
-
 
 [INDEX로 돌아가기](/posts/RaspberryPi/)
