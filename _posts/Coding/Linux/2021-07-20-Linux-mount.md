@@ -4,7 +4,6 @@ date: 2021-07-20
 categories: [Coding, Linux]
 tags: [linux]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 ![command](/img/coding/linux/command.jpg)
@@ -168,6 +167,7 @@ fstab의 오류가 탄생되면 부팅이 안된다.
 
 **reboot**
 
+-------
 
 ### PostScript
 개인적으로 리눅스의 초보자로써 CLI를 기준으로 뭔가를 setup하는 거에 흥미를 느낀다.

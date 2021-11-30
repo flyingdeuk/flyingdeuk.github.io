@@ -4,8 +4,8 @@ date: 2020-12-1
 categories: [Flying, FlyingSense]
 tags: [flyingsense]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
+![time](/img/flying/sense/faaicao/icaofaa.png)
 
 `FlyingDeuk's`
 > 민항 생활을 시작하면서 항상 헛갈리는 부분중에 하나이다. <br>
@@ -37,6 +37,10 @@ KLAX(미국 로스엔젤러스공항)의 APP Chart이다.
 >ICAO는 계기접근절차를 PANS OPS에 의해서 수립한다. <br>
 EDDF(독일 프랑크프루트공항)의 APP Chart이다.
 
+아주 미국스러운 캐나다는 ICAO를 따른다. `PANS OPS`가 차트에 명시가 안되어 있지만...
+
+------
+
 ### 여담(PostScript)
 조종사, 정비사, 관제사등의 직원군이 나누어져 있는 것은 모두가 전문직이기 때문이다. <br>
 물론 공중에서 시간을 다투는 싸움은 조종사의 몫이지만 이 모든 걸다 마스터할 순 없다. <br>
@@ -44,6 +48,6 @@ EDDF(독일 프랑크프루트공항)의 APP Chart이다.
 
 FAA : 미국, 일본공항, 우리나라 군공항(김해,광주,대구,청구등등) + 그의 영향을 받은 나라들
 
-ICAO : 유럽 공항, 우리나라 민공항(인천,김포,제주) + 뒤 늦게 개방한 공항들(중국, 동남아시아등등)
+ICAO : 유럽 공항, **캐나다**, 우리나라 민공항(인천,김포,제주) + 뒤 늦게 개방한 공항들(중국, 동남아시아등등)
 
 `다음 Posting으로...`

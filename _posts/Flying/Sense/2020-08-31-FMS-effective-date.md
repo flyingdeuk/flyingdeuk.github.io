@@ -4,7 +4,6 @@ date: 2020-08-31
 categories: [Flying, FlyingSense]
 tags: [flyingsense]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 `FlyingDeuk's`
