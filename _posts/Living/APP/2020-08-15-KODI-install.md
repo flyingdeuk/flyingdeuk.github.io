@@ -46,14 +46,14 @@ FIRE TV의 경우 32비트가 맞음. 세부 절차는 해당 링크 참고 [Fir
 
 **Raspberry Pi**
 - Raspberry OS 기준 설치 방법이며 최근 공식 kodi.tv에는 자세한 필요 package에 대한 install 명령어가 없어졌다. (kodi는 기능상 필요한 package를 모두 설치해야 정상 작동함)
-```bash
+```
 sudo apt install kodi kodi-peripheral-joystick kodi-pvr-iptvsimple kodi-inputstream-adaptive kodi-inputstream-rtmp
 ```
 - kodi와 함께 필수 프로그램을 설치한다.
-```bash
+```
 sudo apt install build-essential python-pip python-dev libffi-dev libssl-dev libnss3
 ```
-```bash
+```
 sudo pip install setuptools wheel pycryptodomex
 ```
 - kodi에 필요한 python과 해당 프로그램을 설치한다. 이는 kodi내에서 Netflix등의 addon이 정상 작동되게 해준다.  
