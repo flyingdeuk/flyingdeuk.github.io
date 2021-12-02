@@ -51,7 +51,7 @@ pin:
 
 ### 미디어/파일 서버 설정
 
-- #### [Raspberry Pi DLNA/UPnP - 라즈베리파이 DLNA/UPnP 미디어 서버로 사용하기(by minidlna)](posts/Pi-dlna/)
+- #### [Raspberry Pi DLNA/UPnP - 라즈베리파이 DLNA/UPnP 미디어 서버로 사용하기(by minidlna)](/posts/Pi-dlna/)
 
 - #### [Raspberry Pi FTP - 라즈베리파이 ftp 파일서버로 사용하기(by vsftpd)](/posts/Pi-ftp/)
 
