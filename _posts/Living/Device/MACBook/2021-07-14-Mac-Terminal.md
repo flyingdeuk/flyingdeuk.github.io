@@ -26,12 +26,12 @@ typora-root-url: ../../../../flyingdeuk.github.io
 ### Theme 설치 - Install
 curl, wget을 사용하여 간단하게 설치가 가능하다.
 OS에 무관하게 다운받으면 됨 (공식 사이트 내용)
-```bash
 
+```
 $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 또는
-```bash
+```
 $ sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
 ```
 공식 사이트 :
@@ -52,7 +52,7 @@ https://ohmyz.sh/ <br>
 >`af-magic` Theme 를 선택
 
 
-```bash
+```
 $ sudo vim ~/.zshrc
 .
 .
@@ -75,13 +75,13 @@ ZSH_THEME="af-magic"
 
 oh-my-zsh의 프로그램 내에 Uninstall 이 있어 그대로 사용하면 된다. (.zshrc의 설정 내용을 수정해야 하기 때문에 해당 Uninstall을 사용해서 지워야 되는 듯)
 
-```bash
+```
 sudo chmod 777 ~/.oh-my-zsh/tools/uninstall.sh
 ```
 > .xxx는 숨김 폴더를 의미한다. 해당 숨김 폴더의 실행 권한을 열어준다.
 
 
-```bash
+```
 ~/.oh-my-zsh/tools/uninstall.sh
 ```
 > 해당 숨김 폴더내의 Uninstall.sh 를 실행.
