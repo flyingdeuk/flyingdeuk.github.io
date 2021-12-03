@@ -12,6 +12,8 @@ pin:
 ## FlyingSense
 #### [POLAR 141W ISSUE - GANDER, ANCHORAGE Radio 절차](/posts/gander/)
 
+#### [Pacific Route - UPR Route(User Preferred Route)에 대하여](/posts/upr/)
+
 ## 알래스카
 #### [PANC(ANC) - 미국 알레스카(테드 스티븐스 공항)](/posts/PANC-ANC/)
 
