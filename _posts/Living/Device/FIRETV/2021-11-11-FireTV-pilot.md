@@ -381,6 +381,7 @@ kodibae 저장소를 zip(설치파일)로 설치했으니 저장소에서 설치
 
 ![kodi_addon](/img/living/kodi/kodi_repo4.jpg)
 >**ExodusVPN(ExodusTPN.com)** 과 **ExodusVPN(PressPlay)** 이 두가지 버전을 다 설치해준다.
+
 - 현재 기준으로 둘다 잘 작동하며 이름은 동일하지만 제공되는 영화나 미드의 Provider가 조금씩 달라 둘중에 더 잘나오는 것을 선택해서 보기가 가능하다.
 
 ---------
