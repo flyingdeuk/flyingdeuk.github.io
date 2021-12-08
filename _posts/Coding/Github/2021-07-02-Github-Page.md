@@ -19,5 +19,21 @@ pin:
 
 ## Github Pages
 
-### Github Pages 공식 테마
-https://pages.github.com/themes/
+### Github Pages 공식 테마 : <https://pages.github.com/themes/>
+공식 테마에서 선택이 가능하나 단순하고 간단한 형태만 있다.
+
+### Github Pages Editor
+현재까지는 Github에서 만든 Editor를 사용하고 있다.
+
+#### - [Github - Atom Editor 사용하기](/posts/Github-Atom/)
+
+### Typora Editor
+간단한 Markdown Editor를 사용해 보기도 했다.
+
+#### - [Github Pages - Typora Markdown Editor /img 폴더 연결하기](/posts/Github-typora/)
+
+### 문제 해결
+
+#### - [Github Pages GIF - 깃허브 페이지 블로그에 동영상 삽입하기 (by cloudconvert)](/posts/Github-gif/)
+
+#### - [Github Pages - The page build failed for the `gh-pages` branch with the following error 해결법](/posts/Github-error/)

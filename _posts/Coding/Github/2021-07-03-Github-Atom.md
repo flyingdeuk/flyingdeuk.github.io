@@ -18,3 +18,11 @@ pin:
 
 ## Atom Editor
 ![atom](/img/coding/github/atom1.jpg)
+
+현재는 오프라인 기내에서 포스팅을 작성하기 위한 용도로 Atom Editor를 주로 사용중이다.
+
+## Atom Editor plug-in
+여러 에디터들이 그러하듯이 Atom에도 프로그래머들이 개잘하여 추가한 Plug-in을 추가로 설치가 가능하다.
+
+#### - [Github Pages - Markdown Preview Enhanced 사용하기](/posts/Github-markdown/)
+블로그 작성과 미리 보기가 가능한 Plug-in
