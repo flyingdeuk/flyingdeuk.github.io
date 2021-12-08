@@ -32,7 +32,7 @@ The primer theme is not currently supported on GitHub Pages. For more informatio
 
 2. _config.yml -> theme 변수 값 수정
 
-  <https://pages.github.com/themes/> 공식 Theme중 하나로 변경
+  <https://pages.github.com/themes/>  공식 Theme중 하나로 변경
 
   ```
   theme: [Any theme name on above link]
