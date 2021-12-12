@@ -1,9 +1,9 @@
 ---
-title: uTorrent - P2P 안전하게 활용하는 법 (for Mac, Android, Windows)
+title: Windows uTorrent - P2P 안전하게 활용하는 법
 author: FlyingDeuk
-date: 2020-09-02 20:55:00 +0800
-categories: [Living, APP]
-tags: [usefulapp, mac, android, windows, linux, torrent]
+date: 2021-12-10 20:55:00 +0800
+categories: [Living]
+tags: [usefulapp, windows, torrent]
 pin:
 ---
 
@@ -20,13 +20,14 @@ __Streaming을 지원하기 때문에 보면서 다운로드가 가능.__ --> �
 
 ## uTorrent Download
 
-### MAC, Windows
+### Windows
+해당 사이트에 들어가서 OS에 맞게 다운받으면 된다.
 
 <https://www.utorrent.com/>
 
 ![site](/img/living/utorrent/download.jpg)
 
->uTorrent Web : 사파리, explorer, chrome 기본으로 설정됨 Browser상에서 실행됨. (새로운 버전)
+>uTorrent Web : Explorer, Chrome등의 Browser상에서 실행됨. (새로운 버전)
 
 ![site](/img/living/utorrent/download_1.jpg)
 
@@ -34,18 +35,12 @@ __Streaming을 지원하기 때문에 보면서 다운로드가 가능.__ --> �
 
 `uTorrent Web 추천!!`
 
-### Android
-Google Play Store에서 설치
-
-![site](/img/living/utorrent/download_2.jpg)
-
-
->IOS는 보안을 이유로 안됨.
-
 ----------
 
 ## uTorrent 설정법
-### MAC, Windows
+간단한 설정으로 사용자의 의도에 맞게 실행이 가능하다.
+
+### Windows
 ![site](/img/living/utorrent/set.jpg)
 >설치후 실행하여 설정 진입
 
@@ -55,14 +50,8 @@ Google Play Store에서 설치
 - 다운로드 폴더 : 알아서
 - 다운로드 / 업로드 속도 : 업로드 속도 줄여도 됨
 
-### Android
-
-![site](/img/living/utorrent/and_set.jpg)
-- wifi only : SURE!!
-- Auto-Start : 보안상 비추
-- 다운로드 폴더 : 알아서
-
 ----
+
 ## uTorrent 사용법
 ### 사이트 검색법
 ![site](/img/living/utorrent/site.jpg)
@@ -77,6 +66,8 @@ Google Play Store에서 설치
 
 ![site](/img/living/utorrent/site_3.jpg)
 >대표적인 해외 사이트
+
+-------
 
 ### 원하는 자료 선택
 ![site](/img/living/utorrent/magnet.jpg)
@@ -94,12 +85,13 @@ Google Play Store에서 설치
 
 >바로 uTorrent Web을 열어서 다운로드 시작!
 <br>
-안드로이드도 동일한 방법으로 APP을 열어준다.
 
+-----
 
 ### 바로 Streaming하기
 완전한 Download없이 중간에 시청하며 다운로드가 가능하다. (단, 보안상 Download후 앱을 종료하기 위해서는... 선택은 사용자의 몫임)
-#### MAC, windows
+
+#### windows
 
 ![site](/img/living/utorrent/play.jpg)
 
@@ -109,14 +101,8 @@ Google Play Store에서 설치
 
 >위의 재생버튼을 누르면 바로 재생가능
 
-#### Android
-![site](/img/living/utorrent/and_play.jpg)
-
->옵션 버튼을 눌러 Play 누르기
-
-![site](/img/living/utorrent/and_play_1.jpg)
-
 -----
+
 ## uTorrent 완전 종료하기
 
 ![site](/img/living/utorrent/trash.jpg)
@@ -129,11 +115,9 @@ Google Play Store에서 설치
 ![site](/img/living/utorrent/quit.jpg)
 
 >BackGround에서 실행되는 uTorrent까지 완전 종료!!<br>
-Windows는 아래 Tray에서 유사하게 Quit로 종료!!
 
-![site](/img/living/utorrent/and_quit.jpg)
+**Windows는 아래 Tray에서 유사하게 Quit로 종료!!**
 
->Android 위의 BackGround 제거를 위해서 Exit로 종료!!
 
 -------
 
@@ -147,5 +131,6 @@ Windows는 아래 Tray에서 유사하게 Quit로 종료!!
 - Iptime 공유기를 이용해 Torrent 이용하는 방법
 - 라즈베리파이를 이용해 Torrent 이용하는 방법
 
------
 @ 바로가기 : [안드로이드 핸드폰 wifi 저장소로 사용하기](/posts/UsingHotspot/)
+
+[INDEX로 돌아가기](/posts/windows/)

@@ -1,9 +1,9 @@
 ---
-title: uTorrent - P2P 안전하게 활용하는 법 (for Mac, Android, Windows)
+title: Android uTorrent - P2P 안전하게 활용하는 법
 author: FlyingDeuk
-date: 2020-09-02 20:55:00 +0800
-categories: [Living, APP]
-tags: [usefulapp, mac, android, windows, linux, torrent]
+date: 2021-12-10 20:55:00 +0800
+categories: [Living]
+tags: [usefulapp, android, torrent]
 pin:
 ---
 
@@ -20,20 +20,6 @@ __Streaming을 지원하기 때문에 보면서 다운로드가 가능.__ --> �
 
 ## uTorrent Download
 
-### MAC, Windows
-
-<https://www.utorrent.com/>
-
-![site](/img/living/utorrent/download.jpg)
-
->uTorrent Web : 사파리, explorer, chrome 기본으로 설정됨 Browser상에서 실행됨. (새로운 버전)
-
-![site](/img/living/utorrent/download_1.jpg)
-
->uTorrent Classic : 전용 프로그램을 설치 (올드 버전)
-
-`uTorrent Web 추천!!`
-
 ### Android
 Google Play Store에서 설치
 
@@ -45,15 +31,7 @@ Google Play Store에서 설치
 ----------
 
 ## uTorrent 설정법
-### MAC, Windows
-![site](/img/living/utorrent/set.jpg)
->설치후 실행하여 설정 진입
-
-![site](/img/living/utorrent/set_1.jpg)
-
-- 컴퓨터 시작시 자동시작 : 보안상 비추
-- 다운로드 폴더 : 알아서
-- 다운로드 / 업로드 속도 : 업로드 속도 줄여도 됨
+사용자의 의도에 맞게 약간의 설정을 해줘야함.
 
 ### Android
 
@@ -90,24 +68,12 @@ Google Play Store에서 설치
 - 마그넷 링크
   >해당 주소값으로 바로 연결됨.
 
-![site](/img/living/utorrent/magnet_1.jpg)
+`xxx.torrent`을 열거나 `마그넷 링크`를 누르면 자동으로 앱이 실행된다.
 
->바로 uTorrent Web을 열어서 다운로드 시작!
-<br>
-안드로이드도 동일한 방법으로 APP을 열어준다.
-
+---------
 
 ### 바로 Streaming하기
 완전한 Download없이 중간에 시청하며 다운로드가 가능하다. (단, 보안상 Download후 앱을 종료하기 위해서는... 선택은 사용자의 몫임)
-#### MAC, windows
-
-![site](/img/living/utorrent/play.jpg)
-
->Browser에서 Download 시작됨 <br>
-
-![site](/img/living/utorrent/play_1.jpg)
-
->위의 재생버튼을 누르면 바로 재생가능
 
 #### Android
 ![site](/img/living/utorrent/and_play.jpg)
@@ -115,21 +81,18 @@ Google Play Store에서 설치
 >옵션 버튼을 눌러 Play 누르기
 
 ![site](/img/living/utorrent/and_play_1.jpg)
+> 다운로드하면서 동시에 시청이 가능하다.
 
 -----
+
 ## uTorrent 완전 종료하기
 
-![site](/img/living/utorrent/trash.jpg)
-
 다운로드 완료시 휴지통을 눌러 `토렌트 제거`,`토렌트와 데이터 제거`에 선택
->토렌트는 주소값, 데이터는 내가 받은 자료 -> **토렌트 제거** 선택!!!
+>토렌트는 주소값, 데이터는 내가 받은 자료 -> **토렌트 제거** 선택!!! <br>
+그래야 토렌트 주소값을 추적하는 것을 차단할 수 있다.
 
 ### BackGround 제거
-
-![site](/img/living/utorrent/quit.jpg)
-
->BackGround에서 실행되는 uTorrent까지 완전 종료!!<br>
-Windows는 아래 Tray에서 유사하게 Quit로 종료!!
+BackGround에서 동작하는 것까지 완전히 종료해줘야 더이상 uTorrent는 다시 실행시키기 전까지는 작동을 하지않는다.
 
 ![site](/img/living/utorrent/and_quit.jpg)
 
@@ -147,5 +110,6 @@ Windows는 아래 Tray에서 유사하게 Quit로 종료!!
 - Iptime 공유기를 이용해 Torrent 이용하는 방법
 - 라즈베리파이를 이용해 Torrent 이용하는 방법
 
------
 @ 바로가기 : [안드로이드 핸드폰 wifi 저장소로 사용하기](/posts/UsingHotspot/)
+
+[INDEX로 돌아가기](/posts/Android/)
