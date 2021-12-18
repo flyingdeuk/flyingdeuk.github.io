@@ -10,9 +10,11 @@ pin:
 >북미 대륙 전체를 포함한다. (알레스카, 캐나다, 미국)<br>
 
 ## FlyingSense
-#### [POLAR 141W ISSUE - GANDER, ANCHORAGE Radio 절차](/posts/gander/)
+- #### [POLAR 141W ISSUE - GANDER, ANCHORAGE Radio 절차](/posts/gander/)
 
-#### [Pacific Route - UPR Route(User Preferred Route)에 대하여](/posts/upr/)
+- #### [Pacific Route - UPR Route(User Preferred Route)에 대하여](/posts/upr/)
+
+- #### [POLAR Route True Course - 폴라 루트 True Course 사용시기에 대하여](/posts/trueheading/)
 
 ## 알래스카
 #### [PANC(ANC) - 미국 알레스카(테드 스티븐스 공항)](/posts/PANC-ANC/)
