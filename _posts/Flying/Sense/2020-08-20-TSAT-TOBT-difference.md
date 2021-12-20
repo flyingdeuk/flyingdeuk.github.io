@@ -20,3 +20,5 @@ pin:
 상기의 여러사유로, TOBT -/+ 5MIN.에 ATC에 FULL READY 또는 START-UP CLEARANCE를 RQST하는 것이 현행 발급된 TSAT을 개선 또는 유지할 수 있는 보수적인 방법이 될 것입니다.
 
 > 해당내용은 과거 자료에서 발췌한 것임을 알림.
+
+[INDEX로 돌아가기](/categories/flyingsense/)
