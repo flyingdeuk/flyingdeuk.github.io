@@ -45,3 +45,7 @@ pin:
 - The recommended altitude is set to the CRZ ALT when within 200 nm of the T/D or within 500 nm of the destination airport. The recommended altitude is not calculated during an RTA cruise segment.
 
 `즉 OPT ALT에 입력되거나 측정된 바람과 온도에 따른 추천되는 고도임. 당연히 상승후 일정시간이 경과해야 상승에 사용된 연료를 절감하니 목적지 근처에서는 필요가 없어진다.`
+
+-------
+
+[INDEX로 돌아가기](/categories/flyingsense/)

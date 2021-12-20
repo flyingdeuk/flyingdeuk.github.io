@@ -21,4 +21,6 @@ pin:
 
 > 해당내용은 과거 자료에서 발췌한 것임을 알림.
 
+-------
+
 [INDEX로 돌아가기](/categories/flyingsense/)
