@@ -1,7 +1,7 @@
 ---
 title: IPAD OS , IOS BEST APP - 내가 쓰는 아이패드 베스트 어플
 author: FlyingDeuk
-date: 2021-12-23 20:55:00 +0800
+date: 2021-12-22 20:55:00 +0800
 categories: [Living, APP]
 tags: [usefulapp, ipados, ios]
 pin:
