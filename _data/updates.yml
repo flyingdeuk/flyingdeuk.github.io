@@ -237,52 +237,55 @@
   lastmod: '2021-10-16 16:42:45 +0900'
 -
   filename: 'TSAT-TOBT-difference'
-  lastmod: '2021-11-29 23:59:46 -0800'
+  lastmod: '2021-12-20 22:30:58 +0900'
 -
   filename: 'arinc'
-  lastmod: '2021-11-30 08:33:59 -0800'
+  lastmod: '2021-12-20 22:30:58 +0900'
 -
   filename: 'AirForce'
-  lastmod: '2021-11-29 23:59:46 -0800'
+  lastmod: '2021-12-20 22:30:58 +0900'
+-
+  filename: 'trueheading'
+  lastmod: '2021-12-20 22:30:58 +0900'
 -
   filename: 'movement'
-  lastmod: '2021-11-29 23:59:46 -0800'
+  lastmod: '2021-12-20 22:30:58 +0900'
 -
   filename: 'FAA-ICAO-difference'
-  lastmod: '2021-11-29 23:59:46 -0800'
+  lastmod: '2021-12-20 22:30:58 +0900'
 -
   filename: 'time'
-  lastmod: '2021-11-29 23:59:46 -0800'
+  lastmod: '2021-12-20 22:30:58 +0900'
 -
   filename: 'upr'
-  lastmod: '2021-12-01 15:39:22 +0900'
+  lastmod: '2021-12-20 22:30:58 +0900'
 -
   filename: 'gander'
-  lastmod: '2021-12-18 08:45:01 +0000'
+  lastmod: '2021-12-20 22:30:58 +0900'
 -
   filename: 'FMS-effective-date'
-  lastmod: '2021-11-29 23:59:46 -0800'
+  lastmod: '2021-12-20 22:30:58 +0900'
 -
   filename: 'opspec'
-  lastmod: '2021-11-29 23:59:46 -0800'
+  lastmod: '2021-12-20 22:30:58 +0900'
 -
   filename: 'ATIS'
-  lastmod: '2021-11-29 23:59:46 -0800'
+  lastmod: '2021-12-20 22:30:58 +0900'
 -
   filename: 'speed'
-  lastmod: '2021-11-29 23:59:46 -0800'
+  lastmod: '2021-12-20 22:30:58 +0900'
 -
   filename: 'STAR-SID'
-  lastmod: '2021-11-29 23:59:46 -0800'
+  lastmod: '2021-12-20 22:30:58 +0900'
 -
   filename: 'braking'
-  lastmod: '2021-11-29 23:59:46 -0800'
+  lastmod: '2021-12-20 22:30:58 +0900'
 -
   filename: 'Air-Space'
-  lastmod: '2021-11-29 23:59:46 -0800'
+  lastmod: '2021-12-20 22:30:58 +0900'
 -
   filename: 'FMS-CruiseAltitude'
-  lastmod: '2021-11-29 23:59:46 -0800'
+  lastmod: '2021-12-20 22:30:58 +0900'
 -
   filename: 'VHHH-HKG'
   lastmod: '2021-07-30 14:25:14 +0900'
@@ -456,7 +459,7 @@
   lastmod: '2021-07-30 14:25:14 +0900'
 -
   filename: 'KSFO-SFO'
-  lastmod: '2021-07-30 14:25:14 +0900'
+  lastmod: '2021-12-23 15:14:24 +0900'
 -
   filename: 'EGLL-LHR'
   lastmod: '2021-12-19 17:14:16 +0000'
