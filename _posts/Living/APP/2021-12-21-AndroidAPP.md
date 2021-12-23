@@ -27,22 +27,25 @@ pin:
 
 ## INDEX
 
-| **메모 APP**          |                 |
+| **ONENOTE**          |                 |
 |:-------------------------|:-----------------|
 | ![onenote](/img/living/app/onenote.png) |**무료이며 이미지에서 텍스트 검색이 가능한 어플** <br> [포스트로 이동](/posts/onenote/)|
 
-| **파일관리 APP**          |                 |
+| **CX 파일 탐색기**          |                 |
 |:-------------------------|:-----------------|
 | ![cxfile](/img/living/app/cxfile.png) |**무료이며 네트워크 기능에 충실한 어플** <br> [포스트로 이동](/posts/cxfile/)|
 
-### 파일관리 APP
+| **FolderSync**          |                 |
+|:-------------------------|:-----------------|
+| ![foldersync](/img/living/app/foldersync.png) |**모든 종류의 Cloud에서 Autosync 가능** <br> [포스트로 이동](/posts/foldersync/)|
 
-### 사진관리 APP
+| **Autosync for Google Drive**          |                 |
+|:-------------------------|:-----------------|
+| ![drivesync](/img/living/app/drivesync.png) |**구글 드라이브 내 컴퓨터 Autosync가능** <br> [포스트로 이동](/posts/drivesync/)|
 
-### PDF APP
+| **SearchEverything**          |                 |
+|:-------------------------|:-----------------|
+| ![search](/img/living/app/search.png) |**기기내의 모든 파일을 간단하게 검색해줌 (IOS Spotlight Search 기능 구현)** <br> [포스트로 이동](/posts/search/)|
 
-### 메모 APP
-
-### 사전 APP
 
 ----
