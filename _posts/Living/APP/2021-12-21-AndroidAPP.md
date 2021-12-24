@@ -43,7 +43,7 @@ pin:
 |:-------------------------|:-----------------|
 | ![foldersync](/img/living/app/foldersync.png) |**모든 종류의 Cloud에서 Autosync 가능** <br> [포스트로 이동](/posts/foldersync/)|
 
-| **Autosync for Google Drive**          |                 |
+| **Autosync** for Google Drive          |                 |
 |:-------------------------|:-----------------|
 | ![drivesync](/img/living/app/drivesync.png) |**구글 드라이브 내 컴퓨터 Autosync가능** <br> [포스트로 이동](/posts/drivesync/)|
 
