@@ -61,11 +61,11 @@ pin:
 
 | **Best VPN Proxy OvpnSpider**          |                 |
 |:-------------------------|:-----------------|
-| ![search](/img/living/app/spider.png) |**안드로이드를 위한 무료사용가능 전자사전** <br> [포스트로 이동](/posts/spider/)|
+| ![search](/img/living/app/spider.png) |**안드로이드를 위한 무료사용가능 전자사전** <br> [포스트로 이동](/posts/AndVPN/)|
 
 | **OpenVPN for Android**          |                 |
 |:-------------------------|:-----------------|
-| ![search](/img/living/app/vpnconnect.png) |**안드로이드를 위한 무료사용가능 전자사전** <br> [포스트로 이동](/posts/polydict/)|
+| ![search](/img/living/app/vpnconnect.png) |**안드로이드를 위한 무료사용가능 전자사전** <br> [포스트로 이동](/posts/AndVPN/)|
 
 
 ----
