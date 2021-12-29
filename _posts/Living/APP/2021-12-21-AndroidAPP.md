@@ -57,6 +57,11 @@ pin:
 |:-------------------------|:-----------------|
 | ![search](/img/living/app/poly.png) |**안드로이드를 사용자를 위한 오프라인 무료 전자사전** <br> [포스트로 이동](/posts/polydict/)|
 
+| **Kiwix**          |                 |
+|:-------------------------|:-----------------|
+| ![search](/img/living/app/kiwix1.jpg) |**무료 오프라인 위키 백과사전** <br> [포스트로 이동](/posts/kiwix/)|
+
+
 ### 무료 VPN APP
 
 | **Best VPN Proxy OvpnSpider**          |                 |
