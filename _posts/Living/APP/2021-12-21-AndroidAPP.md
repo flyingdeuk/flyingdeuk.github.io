@@ -33,6 +33,12 @@ pin:
 |:-------------------------|:-----------------|
 | ![onenote](/img/living/app/onenote.png) |**무료이며 이미지에서 텍스트 검색이 가능한 어플** <br> [포스트로 이동](/posts/onenote/)|
 
+### 할일 APP
+| **TickTick**          |                 |
+|:-------------------------|:-----------------|
+| ![onenote](/img/living/app/ticktick1.jpg) |**할일 완료까지 알림을 제공하는 To Do 어플** <br> [포스트로 이동](/posts/ticktick/)|
+
+
 ### 파일 관리 APP
 
 | **CX 파일 탐색기**          |                 |
