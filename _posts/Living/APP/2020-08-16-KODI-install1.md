@@ -14,7 +14,7 @@ Revision : 자막 언어 설정법 추가(2021.03.02)
 기본적인 홈화면 구성등의 기본 설정법이다.
 
 ## KODI SETUP
-![kodi_main](/img/living/kodi/kodi_main.jpg)
+![kodi_main](/img/living/kodi/kodi19.jpg)
 > 현재 기준으로 포스팅함. 18.8 -> 19버전 정식나옴 다른 포스팅 참조
 
 ![kodi_set1](/img/living/kodi/kodi_set1.jpg)

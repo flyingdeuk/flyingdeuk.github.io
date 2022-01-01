@@ -25,7 +25,7 @@ FIRE TV는 Downloader라는 어플로 주소치고 Down가능함.
 모든 버전의 OS에서 설치 가능함.<br>
 윈도우, 맥북, 라즈베리파이까지도 설치 가능하나 IOS는 탈옥을 해야함.
 
-![kodi_3](/img/living/kodi/kodi_3.jpg)
+![kodi_3](/img/living/kodi/kodi19_2.jpg)
 > 본인의 사양에 맞는 버전을 선택<br>
 FIRE TV의 경우 32비트가 맞음. 세부 절차는 해당 링크 참고 [Fire TV Apps Install - 추천 어플 설치법](/posts/Fire-TV1/)
 

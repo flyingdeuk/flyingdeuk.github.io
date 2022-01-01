@@ -250,9 +250,7 @@ Opensource 즉 무료로 모든 것을 이용할 수 있다.
 >**Apps from Unknown Sources를 ON으로 변경**
 
 #### KODI 다운로드 (https://kodi.tv)
-
-Downloader 어플을 이용하면 된다. <br>
-일단 무료 영화와 미드를 제공하는 Addons를 설치하기 위해서 KODI 18.9를 먼저 설치해야 한다.
+Downloader 어플을 이용하면 된다. 최신 버전의 KODI 19.x를 설치한다.
 
 ![fire](/img/living/fire/down3.jpg)
 >KODI 주소 입력!! **kodi.tv** 만 입력하면 됨<br>
@@ -260,24 +258,19 @@ Downloader 어플을 이용하면 된다. <br>
 ![old](/img/living/kodi/kodi_old.jpg)
 > 상단의 **Download** Click!
 
-![old](/img/living/kodi/kodi_old1.jpg)
-> 아래 부분에 **OLD Release**가 있다. **download and old build** Click! (최신버전은 아직 호환성의 문제가 있어서 올드 버전을 먼저 설치한다.)
+![old](/img/living/kodi/kodi_2.jpg)
+> FireTV는 안드로이드이니.. Android 선택
 
-![old](/img/living/kodi/kodi_old2.jpg)
-> FireTV는 **android** 선택 <br>
-
-![old](/img/living/kodi/kodi_old3.jpg)
-> **ANDROID -> ARM -> kodi-18.9** <br>
-Fire TV는 32비트 `ARM`을 선택!!! **(ARM64는 안됨)**<br>
+![old](/img/living/kodi/kodi19_2.jpg)
+> 최신 버전 KODI 19.x 32 비트를 선택해 줘야한다.
 
 ![fire](/img/living/fire/down4.jpg)
 >Download 완료되면 자동으로 설치를 물어본다. 안되거나 문제가 생기면 **Files**에 저장이 된다.
 
-
 #### KODI 기본 설정
 설치를 완료하고 나면 실행한다.
 
-![kodi_main](/img/living/kodi/kodi_main.jpg)
+![kodi_main](/img/living/kodi/kodi19.jpg)
 > 첫화면은 위와 같다.
 
 ![kodi_set1](/img/living/kodi/kodi_set1.jpg)
@@ -340,83 +333,80 @@ Fire TV는 32비트 `ARM`을 선택!!! **(ARM64는 안됨)**<br>
 이름 **KODI**로 자동 들어가며 확인으로 완료!!!
 
 
-#### Kodibae 저장소 설치
-무료 영화, 미드, 자막 설정을 위한 저장소임.
+#### 압축 파일에서 설치
 
 ![kodi_addon](/img/living/kodi/kodi_setup_main_addon.jpg)
+
 >**설정** -> **에드온** <br>
+>저장소 설정을 다했으므로 에드온으로 바로 진입.
 
-![kodi_addon](/img/living/kodi/kodi_addon.jpg)
+![kodi_addon](/img/living/kodi/oath9.jpg)
 
-`압축화일에서 설치`부터 진행하야함. (압축파일 즉 xxx.zip파일은 에드온의 설치파일을 의미한다)
+**압축화일에서 설치**부터 진행하야함.
 
 - **저장소에서 설치** : 프로그래머가 작성한 저장소에서 설치
 - **압축화일에서 설치** : zip 화일(설치파일)로 직접 설치 <br>
 
+
 ![kodi_addon](/img/living/kodi/kodi_flyingdeuk1.jpg)
-> 저장소 이름 **kodi**로 진입 <br>
+> flyingdeuk addon 저장소 이름 **kodi**로 진입 <br>
 
-![kodi_addon](/img/living/kodi/kodi_flyingdeuk.jpg)
->**repository kodibae** : Exodus, Pressplay, a4kSubtitles를 설치하기 위한 저장소
+![kodi_addon](/img/living/kodi/oath8.jpg)
+- **repository host505** : The Oath 에드온을 설치하기 위한 저장소
+- **a4kSubtiles repository** : 자막 에드온을 설치하기 위한 저장소
 
-**일단 kodibae 저장소만 설치하면 된다.**
+두가지를 다 설치해준다.
 
 ------------
 
-#### PressPlay 저장소 설치
-kodibae 저장소를 zip(설치파일)로 설치했으니 저장소에서 설치로 들어간다.
+### 저장소에서 설치
 
-![kodi_addon](/img/living/kodi/kodi_addon.jpg)
+#### The Oath 설치
+host505 저장소를 설치했으니 저장소에서 설치로 들어간다.
+
+![kodi_addon](/img/living/kodi/oath10.jpg)
 > **저장소에서 설치** 선택 <br>
 
-![kodi_addon](/img/living/kodi/kodibae.jpg)
-> 설치된 **Kodi Bae Repository** 저장소를 선택한다. (상기 사진과는 조금 다를 것임.)
+![kodi_addon](/img/living/kodi/oath11.jpg)
+> **host505 repo** 저장소를 선택한다.
 
-![kodi_addon](/img/living/kodi/kodi_repo2.jpg)
-> **애드온 저장소**에 들어가면 또 다른 저장소가 있는 데.. 이를 설치해야 더 다양한 애드온들이 나온다.
+![kodi_addon](/img/living/kodi/oath12.jpg)
+> **비디오 에드온** 선택
 
-![kodi_addon](/img/living/kodi/kodibae1.jpg)
-- **TVADDONS CO Resolvers Repository**를 먼저 설치하면 위에 **PressPlay Repository**가 생성되고... <br>
-- **PressPlay Repository**를 다시 눌러 설치하면됨.
+![kodi_addon](/img/living/kodi/oath14.jpg)
+![kodi_addon](/img/living/kodi/oath15.jpg)
+> **TheOath**를 선택하고 설치를 진행한다.
 
-이렇게 하면 저장소 리스트에 **kodibae, pressplay, TVADDONS** 저장소가 생성된다. (kodi add-on 저장소는 기본 저장소)
+![kodi_addon](/img/living/kodi/oath16.jpg)
+> **확인**을 누르면 좌측에 있는 필요 프로그램들이 설치된다.
 
 ---------
 
-#### Exodus VPN, PressPlay 설치
-저장소를 설치했으니 다시 **저장소에서 설치**부터 시작하면됨.
+#### a4kSubtiles 설치
+a4kSubtiles 저장소를 설치했으니 다시 저장소에서 설치부터 시작하면됨.
 
-![kodi_addon](/img/living/kodi/kodi_addon.jpg)
-> **저장소에서 설치** 선택 <br>
+![kodi_addon](/img/living/kodi/oath10.jpg)
+> 다시 **저장소에서 설치** 부터 진행한다.
 
-![kodi_addon](/img/living/kodi/kodibae2.jpg)
->**PressPlay Repository**로 들어간다.
+![kodi_addon](/img/living/kodi/oath17.jpg)
+> **a4kSubtiles Repository** 를 선택
 
-![kodi_addon](/img/living/kodi/kodibae4.jpg)
->**비디오 에드온** 선택
+![kodi_addon](/img/living/kodi/oath18.jpg)
+> **자막** 선택
 
-![kodi_addon](/img/living/kodi/kodi_repo4.jpg)
->**ExodusVPN(ExodusTPN.com)** 과 **ExodusVPN(PressPlay)** 이 두가지 버전을 다 설치해준다.
+![kodi_addon](/img/living/kodi/oath19.jpg)
+![kodi_addon](/img/living/kodi/oath20.jpg)
+> **a4kSubtiles**을 선택해서 설치해주면 된다.
 
-- 현재 기준으로 둘다 잘 작동하며 이름은 동일하지만 제공되는 영화나 미드의 Provider가 조금씩 달라 둘중에 더 잘나오는 것을 선택해서 보기가 가능하다.
-- 해외에서와는 다르게 한국에서는 컨텐츠 제한이 많아 리스트가 적게 나오지만 여러개중에 나오는 영상을 시청하면 된다. (무료니 약간의 노력은 필요함.)
+![kodi_addon](/img/living/kodi/oath21.jpg)
+> **확인**을 눌러 설치
+
+이렇게 TheOath와 a4kSubtiles을 설치는 완료가 된다.
 
 ---------
 
-#### a4kSubtitles 설치
-통합 자막을 자동으로 찾아주는 에드온이다.
-
-![kodi_addon](/img/living/kodi/kodi_repo2.jpg)
-> 다시 뒤로 가서 **자막**에서 **a4kSubtiles**만 설치하면 이로써 무료 영화를 보는 설정은 끝이 난다.
-
-![kodi_addon](/img/living/kodi/kodibae5.jpg)
->설치하면 됨
-
-#### 한글 자동 자막 설정
-한글 자막을 설정해놓으면 자동으로 자막을 찾아서 보여준다.
-
-![kodi_sub](/img/living/kodi/kodi_sub.jpg)
->**설정 - 플레이어**
+##### 자막 설정 추가
+자막 서비스를 설정해주면 더 확실하게 자막을 찾아준다.
 
 ![kodi_addon](/img/living/kodi/kodi_a4k.jpg)
 > **설정** -> **플레이어** -> **언어**
@@ -425,60 +415,95 @@ kodibae 저장소를 zip(설치파일)로 설치했으니 저장소에서 설치
 - 첫번째 자막 자동 다운로드 : ON
 - TV 자막/영화 자막 기본 서비스 : **a4kSubtiles**
 
-`KODI 기본 설정에서 설정한 내용에 a4kSubtiles를 지정해 주면 거의 완벽하게 자막을 자동으로 찾아주게된다.`
+KODI 기본 설정에서 설정한 내용에 a4kSubtiles를 지정해 주면 거의 완벽하게 자막을 자동으로 찾아주게된다.
+
 
 -----------
 
-### EXODUS VPN / PRESS PLAY Addons 사용법
-두 에드온의 뿌리는 동일하나 지역에 따라 검색 결과가 조금씩 다른 경우가 있어서 둘다 포스팅함.
 
-#### 기본 설정법
-![kodi_addon](/img/living/kodi/exodus.jpg)
 
-**해당 EXODUS VPN, PressPlay ICON을 길게 누르면 설정이나 정보로 진입이 가능함!!!**
+### TheOath 설정 및 사용법
 
-![kodi_addon](/img/living/kodi/kodi_exodus_st1.jpg)
+## 설정 진입법 (공통)
+해당되는 Addon ICON위에서 리모컨의 **선택** 버튼을 길게 또는  키보드의 **엔터**를 길게 또는 **마우스 오른쪽 버튼** 길게 누르고 설정 누름.
+>에드온별 개별 설정이 있다는 거 자체를 몰랐었다... 진입 방법이 중요한 이유~~~
+
+------
+
+## The Oath Addons
+설정 방식은 과거의 EXODUSVPN과 유사하다. 느낌은 EXODUSVPN의 새로운 버전인 듯 하다.
+
+### 기본 설정법
+**해당 ICON 선택 버튼을 길게 눌러 진입!!!**
+
+![kodi_addon](/img/living/kodi/oath22.jpg)
+> **TheOath** 아이콘을 길게 누름
+
+![kodi_addon](/img/living/kodi/oath23.jpg)
 >**Genaral** - **Info Language** : Korean <br>
 영화의 기본 정보를 한국어로 제공해줌. 영화 기본정보, 배우, 인기도 등등...<br>
 TMDB(The Movies DataBase)라는 전세계 영화 정보 사이트에서 긁어온다.
 
-![kodi_addon](/img/living/kodi/kodi_exodus_st.jpg)
->**Subtitle**, **Primary/Secondary Language** korean으로 바꿔 주면 우선 검색으로 자동 적용된다.
+![kodi_addon](/img/living/kodi/oath24.jpg)
+> 마지막에 있는 **Subtitles** 에 설정을 위와 같이 해준다.
+- **Pri/Sec Language** : Korean으로 통일 또는 선택...
+- **Convert subtiles to UTF-8** : 한글의 깨짐을 방지하기 위해서 포멧 통일
+- **Show notification** : 자막 다운을 알려줌.
 
-**그 외의 설정들은 굳이 건드리지않아도 보는 데는 문제가 없다.**
+상기의 설정만 해주면 사용하는 데 문제가 없다. 다른 설정들은 한번 살펴보면됨.
 
-#### EXODUS VPN / PRESS PLAY 활용법
+### 기본 사용법
+사용법은 어렵지 않으나 옵션등을 잘 사용하면 원하는 영화를 검색이 가능하다.
+
+![kodi_addon](/img/living/kodi/oath2.jpg)
+> TheOath 에드온을 실행하자.
+
 첫화면은 여러가지 메뉴로 보이지만 결국은 Movies는 영화, Episode는 미드를 의미함. <br>
 
-![kodi_addon](/img/living/kodi/kodibae6.jpg)
+![kodi_addon](/img/living/kodi/oath25.jpg)
 - Movies : genre, year, language등의 분류로 개별 분류가 되어있음. (language에서 **Korean**선택하면 한국영화도 많이 있음)
 - TV Shows : TV 프로그램, 미드등의 genre, year, language등의 분류로 개별 분류가 되어있음.
 - **New Movies, Episodes : 새로 올라온 것들이나 위의 Movies, TV Shows의 year에서 2021을 선택하는 것이 최신 게시물을 더 쉽게 찾는 방법임.**
 - Search : 다양한 방법으로 검색이 가능하다. (영화, 배우, 장소 등등...)
 
-**자주 들어가는 위치 korean 을 길게 누르면 즐겨찾기 추가로 Home화면에서 바로 가기가 가능하다.** -> 즐겨찾기를 잘 이용하면 시간을 줄일 수 있음.
+![kodi_addon](/img/living/kodi/oath26.jpg)
+> **New Movies** 선택하면 인터넷 상에 있는 최신 영화들의 리스트를 긁어 온다.
 
 #### 보기 형식 전환법
 영화 리스트가 나오는 화면에서 왼쪽으로 화살표를 누르거나 왼쪽 아래 옵션을 눌러주면 보기형식을 바꾸어 줄 수 있다.
 
-![kodi_addon](/img/living/kodi/kodi_exodus3.jpg)
+![kodi_addon](/img/living/kodi/oath27.jpg)
+> **화살표**를 왼쪽으로 누르든지 **옵션**을 클릭하면 좌측에 옵션을 볼 수 있다.
 
-> **New Movies** 누르면 리스트가 나타나며 위의 화면과 다르다면 리스트에서 좌측 끝으로 이동하면 옵션이 나옴. <br>
-보기 형식을 여러가지로 바꿀 수 있음. (마치 Netflix와 유사하게 변경도 가능함)
+![kodi_addon](/img/living/kodi/oath28.jpg)
+> **보기 형식**을 변경하면 여러가지 다양한 방식으로 보여준다.
+
+마치 유료 서비스 넥플렉스등과 비슷한 화려한 화면...
+
+![kodi_addon](/img/living/kodi/oath29.jpg)
+> 보고 싶은 영화를 선택
+
+![kodi_addon](/img/living/kodi/oath30.jpg)
+> Scraper 긁어 온다!!! 화질 별 소스를 열심히 긁어 온다.
 
 #### 리스트의 의미
 인터넷에서 정보를 끌어오는 것이라 시간이 조금 걸림. (무료인 이유)
-![kodi_addon](/img/living/kodi/kodi_exodus2.jpg)
-> 영화선택하면 Provider 이름과 정보를 보이며 시간이 다소 걸림. (Torrent, 서버등을 기준으로 Streaming을 제공하는 사이트를 검색하는 데...) <br>
-`제공자 / 미디어 제공 사이트 / 화질/ 화일형식` 의 형태로 정보가 제공되고 잘 나오는 것을 선택
 
-`한국의 컨텐츠 제한으로 리스트가 해외에서 보다는 적다... 그중에 잘 나오는 Provider를 기억해 놓으면 나중에도 선택해서 시청이 가능하겠다.`
+![kodi_addon](/img/living/kodi/oath31.jpg)
+> 영화선택하면 Provider 이름과 정보를 보이며 시간이 다소 걸림. (Torrent, 서버등을 기준으로 Streaming을 제공하는 사이트를 검색하는 데...) <br>
+
+`화질 / 제공자 이름 / 미디어 제공 사이트` 의 형태로 정보가 제공되고 잘 나오는 것을 선택
 
 #### 재생 중 옵션 선택
-기본적으로 방향키를 누르면 10초에서 30초등으로 빨리감기가 가능하다.
+기본적으로 화살표를 누르면 10초에서 30초등으로 빨리감기가 가능하다. 선택 버튼을 한번 누르면
+![kodi_addon](/img/living/kodi/oath32.jpg)
+> 재생 시작과 동시에 자동으로 자막을 다운 받았다는 알람을 볼 수 있다.
+
+![kodi_addon](/img/living/kodi/oath3.jpg)
+> 화살표를 누르면 바로 이동 가능하다.
 
 ![kodi_addon](/img/living/kodi/kodi_exodus1.jpg)
-> **선택 버튼**을 누르면 아래의 옵션으로 정보, 즐겨찿기, 자막, 설정 선택가능
+> **선택 버튼 or Enter or Spacebar**을 누르면 아래의 옵션으로 정보, 즐겨찿기, 자막, 설정 선택가능
 - 자막 : 자막 선택 수동 설정 가능 (자막 싱크도 가능)
 - 설정 : 오디오 변경, 자막 변경 등 영상 출력에 관한 것 선택 가능
 
@@ -492,42 +517,6 @@ TMDB(The Movies DataBase)라는 전세계 영화 정보 사이트에서 긁어�
 
 ![kodi_addon](/img/living/kodi/kodi_subtitle.jpg)
 > 리스트에서 수동으로 자막을 선택 가능함. 너무 최신작의 경우 아직 자막 제작이 안되어 한글 자막이 없는 경우가 있음.
-
-`a4kSubtitles에서 잘 찾아주는 편이다.`
-
-**여기까지 설정하면 일단은 KODI 18.9의 역할은 끝이 난다.** 최신버전에는 위의 에드온이 설치가 안되기 때문에 일단 18.9에 설치를 진행하고 다시 19.x버전으로 버전업을 해줘야함.
-
-----------
-
-### KODI 19 마이그레이션(Migration)
-마이그레이션 말그대로 다음 버전으로 이전 버전의 기능을 그대로 가지고 이사가는 것임.
-
-![kodi19](/img/living/kodi/kodi19.jpg)
-
-#### KODI 19.x 다운로드 (https://kodi.tv)
-
-위에서 한 방법을 반복하면 된다. 최신버전으로 Downloader 어플을 이용하면 된다.
-
-![fire](/img/living/fire/down3.jpg)
->KODI 주소 입력!! **kodi.tv** 만 입력하면 됨<br>
-
-![old](/img/living/kodi/kodi_old.jpg)
-> 상단의 **Download** Click!
-
-![old](/img/living/kodi/kodi_old1-1.jpg)
-> **Android**를 선택해서 최신 버전으로 설치하면 된다.
-
-![kodi19](/img/living/kodi/kodi19_2.jpg)
->Fire TV의 경우 32BIT로 다운받으면 됨.
-
-이후 설치를 진행하면됨.
-
-![kodi19](/img/living/kodi/kodi19_1.jpg)
-> 기존의 18.9의 기능과 설정을 그대로 가져오는 데 시간이 많이 소요됨. <br>
- 기다려주면 완료되고 18버전에 있었던 Setting과 Addon들이 대부분 옮겨짐.
-
-일부 에드온과 저장소에서 에러를 보일 수는 있으나 사용에는 전혀 문제가 없다.
-
 
 ------------
 
