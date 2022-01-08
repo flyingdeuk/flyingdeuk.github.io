@@ -41,7 +41,7 @@ tags: [usefulapp, iphone, ringtone]
 --------
 
 ### 음원 편집 (Feat. 사진)
-사진앱에 저장된 음원을 조금더 정교하게 편진해준다.
+사진앱에 저장된 음원을 조금더 정교하게 편집해준다.
 
 ![bell](/img/living/ipad/iphonebell23.jpg)
 > 본인이 원하는 부분만을 정확하게 잘라내어 주면된다. <br>
