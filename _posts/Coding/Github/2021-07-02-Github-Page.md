@@ -19,7 +19,9 @@ pin:
 
 ## Github Pages
 
-### Github Pages 공식 테마 : <https://pages.github.com/themes/>
+### Github Pages 공식 테마
+<https://pages.github.com/themes/>
+
 공식 테마에서 선택이 가능하나 단순하고 간단한 형태만 있다.
 
 ### Github Pages Editor
