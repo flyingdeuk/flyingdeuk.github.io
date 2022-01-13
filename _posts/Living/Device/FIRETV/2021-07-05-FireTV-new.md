@@ -5,7 +5,6 @@ date: 2021-07-05 20:55:00 +0800
 categories: [Living]
 tags: [usefulthing, firetv]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 ![new](/img/living/fire/firetv_new.jpg)
