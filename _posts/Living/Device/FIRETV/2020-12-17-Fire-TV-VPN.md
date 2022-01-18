@@ -5,7 +5,6 @@ date: 2020-12-17 20:55:00 +0800
 categories: [Living]
 tags: [usefulthing, android, firetv]
 pin:
-typora-root-url: ../../../../../flyingdeuk.github.io
 ---
 
 ![fire](/img/living/fire/vpn/vpn.jpg)
@@ -17,7 +16,7 @@ Amazon App Store의 정식 App을 사용하는 방법이다. <br>
 다소 복잡할 수 있지만 live로 한국 방송을 본다는 건.... <br>
 **NETFLIX 역시 한국 조건으로 시청이 가능하다.**
 
-**여러가지 테스트 결과 무료 OPENVPN의 주소는 변동이 많아 다소 불편하다. 본인의 한국 공유기의 OPENVPN 설정이 가능한 기기가 있는 경우만 추천되는 방법이다.** 
+**여러가지 테스트 결과 무료 OPENVPN의 주소는 변동이 많아 다소 불편하다. 본인의 한국 공유기의 OPENVPN 설정이 가능한 기기가 있는 경우만 추천되는 방법이다.**
 
 ## 필수 App 설치
 
