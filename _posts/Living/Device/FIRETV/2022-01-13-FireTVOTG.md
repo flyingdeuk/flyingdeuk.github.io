@@ -40,7 +40,7 @@ pin:
 Fire TV의 OS인 안드로이드는 기본적으로 OTG 서비스를 제공한다. 즉 USB 저장소를 기본적으로 허용한다. (물론 애플도 요즘은...)
 
 ![otg](/img/living/fire/otg1.jpg)
->이전에 포스팅했던 ES File Explore가 필요하다. (FireTV Update 이후 제한됨)
+>이전에 포스팅했던 ES File Explore가 필요하다. (과거에는 자동인식 되었으나 최근 FireTV Update 이후 제한되어 이 어플만이 인식이 가능했다.)
 
 ### ES File Explorer
 Google Play Store에서는 보안이슈로 삭제되었으나 Amazon App Store에는 아직 있다. 활용도 높은 파일관리자이며 FireTV 유일하게 OTG를 인식하는 어플이다.
@@ -65,7 +65,7 @@ Google Play Store에서는 보안이슈로 삭제되었으나 Amazon App Store�
 `USB Storage Problem!!!`
 - FAT 32 : 안드로이드에 친화적이기는 하나 4GB의 용량 제한으로 고화질 영화는 인식을 못함.
 - exFAT : 고용량을 지원하나 안드로이드는 인식을 못함.
-- NTFS : 윈도우 고용량을 지원함....
+- NTFS : 윈도우 고용량을 지원함.... 제일 많이 사용하는 방식으로 인식이 가능하다. 
 
 > 위와 같이 CANCEL을 누르면 그냥 읽기는 가능해서 고용량화질을 그대로 볼 수 있음.
 
