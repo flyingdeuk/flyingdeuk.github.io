@@ -1,5 +1,5 @@
 ---
-title: Fire TV OpenVPN  - 해외에서 한국TV 보기 (Android)
+title: Fire TV OpenVPN  - 파이어티비 해외에서 한국TV 보기 (Android)
 author: FlyingDeuk
 date: 2020-12-17 20:55:00 +0800
 categories: [Living]

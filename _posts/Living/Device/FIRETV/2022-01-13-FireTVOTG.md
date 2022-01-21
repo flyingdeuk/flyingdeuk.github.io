@@ -1,5 +1,5 @@
 ---
-title: Fire TV Stick for OTG Cable - Fire TV에 개인 USB 메모리 연결법 (Feat. OTG 케이블)
+title: Fire TV Stick for OTG Cable - 파이어티비 Fire TV에 개인 USB 메모리 연결법 (Feat. OTG 케이블)
 author: FlyingDeuk
 date: 2022-01-13 20:55:00 +0800
 categories: [Living]
@@ -65,7 +65,7 @@ Google Play Store에서는 보안이슈로 삭제되었으나 Amazon App Store�
 `USB Storage Problem!!!`
 - FAT 32 : 안드로이드에 친화적이기는 하나 4GB의 용량 제한으로 고화질 영화는 인식을 못함.
 - exFAT : 고용량을 지원하나 안드로이드는 인식을 못함.
-- NTFS : 윈도우 고용량을 지원함.... 제일 많이 사용하는 방식으로 인식이 가능하다. 
+- NTFS : 윈도우 고용량을 지원함.... 제일 많이 사용하는 방식으로 인식이 가능하다.
 
 > 위와 같이 CANCEL을 누르면 그냥 읽기는 가능해서 고용량화질을 그대로 볼 수 있음.
 

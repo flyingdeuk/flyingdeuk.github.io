@@ -1,5 +1,5 @@
 ---
-title: KODI Movies Library AutoUpdate - 영화 라이브러리 자동 업데이트, 라이브러리 정리 사용법 (for Mac, Android, Windows)
+title: KODI Movies Library AutoUpdate - 코디 영화 라이브러리 자동 업데이트, 라이브러리 정리 사용법 (for Mac, Android, Windows)
 author: FlyingDeuk
 date: 2021-08-14 20:55:00 +0800
 categories: [Living]

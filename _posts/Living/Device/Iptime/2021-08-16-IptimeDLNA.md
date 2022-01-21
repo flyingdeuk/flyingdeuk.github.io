@@ -1,5 +1,5 @@
 ---
-title: IPTIME 공유기 DLNA, UPnP - 미디어 서버 사용하기(스마트 TV 활용)
+title: IPTIME 공유기 DLNA, UPnP - 아이피타임 미디어 서버 사용하기(스마트 TV 활용)
 author: FlyingDeuk
 date: 2021-08-16 20:55:00 +0800
 categories: [Living]

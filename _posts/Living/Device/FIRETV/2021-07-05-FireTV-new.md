@@ -1,5 +1,5 @@
 ---
-title: FIRE TV Brand-New UI - 새로운 디자인 UI
+title: FIRE TV Brand-New UI - 파이어티비 새로운 디자인 UI
 author: FlyingDeuk
 date: 2021-07-05 20:55:00 +0800
 categories: [Living]

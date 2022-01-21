@@ -1,5 +1,5 @@
 ---
-title: IPAD Jepp FD Pro X - Terminal Chart Freq 선택기능 활용하기
+title: IPAD Jepp FD Pro X - 아이패드 Terminal Chart Freq 선택기능 활용하기
 author: FlyingDeuk
 date: 2021-10-01 20:55:00 +0800
 categories: [Living]

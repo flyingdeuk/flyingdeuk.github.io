@@ -1,5 +1,5 @@
 ---
-title: MAC Book Terminal Theme by ohmyzsh - 터미널 테마 변경하기
+title: MAC Book Terminal Theme by ohmyzsh - 맥북 터미널 테마 변경하기
 date: 2021-07-14
 categories: [Living]
 tags: [mac, usefulthing]

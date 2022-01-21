@@ -1,5 +1,5 @@
 ---
-title: ChromeCast with Google TV - Downloader 활용법 (알 수 없는 출저 해결법)
+title: ChromeCast with Google TV - 크롬캐스트 Downloader 활용법 (알 수 없는 출저 해결법)
 author: FlyingDeuk
 date: 2021-09-29 20:55:00 +0800
 categories: [Living]

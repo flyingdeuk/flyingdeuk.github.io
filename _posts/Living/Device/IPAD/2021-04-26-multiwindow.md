@@ -1,11 +1,10 @@
 ---
-title: IPAD Safari/지원앱 - 윈도우 여러개로 나누어 사용하기
+title: IPAD Safari/지원앱 - 아이패드 윈도우 여러개로 나누어 사용하기
 author: FlyingDeuk
 date: 2021-04-26
 categories: [Living]
 tags: [usefulthing, ios, ipad]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 `FlyingDeuk's`

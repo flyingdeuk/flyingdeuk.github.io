@@ -4,7 +4,6 @@ date: 2021-01-04
 categories: [Flying, Airport]
 tags: [index, korea, japan, china]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 `FlyingDeuk's`

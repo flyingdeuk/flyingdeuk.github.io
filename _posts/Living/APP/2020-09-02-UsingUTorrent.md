@@ -1,5 +1,5 @@
 ---
-title: uTorrent - P2P 안전하게 활용하는 법 (for Mac, Android, Windows)
+title: uTorrent - 토렌트 P2P 안전하게 활용하는 법 (for Mac, Android, Windows)
 author: FlyingDeuk
 date: 2020-09-02 20:55:00 +0800
 categories: [Living, APP]

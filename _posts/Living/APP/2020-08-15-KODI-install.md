@@ -1,5 +1,5 @@
 ---
-title: KODI Install - 기본 설치법 (for Mac, Android, Windows, RaspberryPi)
+title: KODI Install - 코디 기본 설치법 (for Mac, Android, Windows, RaspberryPi)
 author: FlyingDeuk
 date: 2020-08-15 20:55:00 +0800
 categories: [Living]

@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi KODI VNC Control - KODI VNC로 Control하는 법 (모니터, 키보드없이 by Direct Capture Mode)
+title: Raspberry Pi KODI VNC Control - 라즈베리파이 KODI VNC로 Control하는 법 (모니터, 키보드없이 by Direct Capture Mode)
 author: FlyingDeuk
 date: 2021-08-30 20:55:00 +0800
 categories: [Living]

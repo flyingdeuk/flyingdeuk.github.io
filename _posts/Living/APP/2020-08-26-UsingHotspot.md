@@ -1,5 +1,5 @@
 ---
-title: Wifi Storage for Android - 휴대폰을 무선 저장소로 사용하기 (Feat. Hotspot, ftp)
+title: Wifi Storage for Android - 안드로이드 휴대폰을 무선 저장소로 사용하기 (Feat. Hotspot, ftp)
 author: FlyingDeuk
 date: 2020-08-26 20:55:00 +0800
 categories: [Living, APP]

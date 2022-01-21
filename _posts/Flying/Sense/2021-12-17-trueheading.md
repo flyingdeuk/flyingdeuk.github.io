@@ -23,7 +23,8 @@ pin:
 
 ### Key Hole Area
 - It is the Area of Magnetic Unreliability information stored in FMS Data. This region is named by the shape of keyhole that the boundary line of this region resembles. When aircraft enters this region, FMC convert to True Heading mode automatically.
-  > 항공기 FMS상에서 자북을 신뢰할 수 없는 지역으로 정의된 열쇠구멍형태의 구역으로 해당 구역으로 진입하면 FMC가 자동으로 True Heading으로 전환이 된다.
+  > 항공기 FMS상에서 자북을 신뢰할 수 없는 지역으로 정의된 열쇠구멍형태의 구역으로 해당 구역으로 진입하면 FMC가 자동으로 True Heading으로 전환이 된다. <br>
+  **항공기 제작사에 따라 다르다. Ex) Airbus, Boeing**
 
 
 ## CANADA AREA (NCA : Northern Control Area)

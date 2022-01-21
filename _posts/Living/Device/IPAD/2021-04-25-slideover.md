@@ -1,11 +1,10 @@
 ---
-title: IPAD MultiSlideOver - 멀티테스킹 화면전환법
+title: IPAD MultiSlideOver - 아이패드 멀티테스킹 화면전환법
 author: FlyingDeuk
 date: 2021-04-25
 categories: [Living]
 tags: [usefulthing, ios, ipad]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 `FlyingDeuk's`

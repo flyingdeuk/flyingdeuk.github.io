@@ -1,5 +1,5 @@
 ---
-title: IPTIME 공유기 Torrent - Torrent 머신으로 사용하기(영화 다운로드)
+title: IPTIME 공유기 Torrent - 아이피타임 Torrent 머신으로 사용하기(영화 다운로드)
 author: FlyingDeuk
 date: 2021-08-16 20:55:00 +0800
 categories: [Living]

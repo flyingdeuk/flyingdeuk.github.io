@@ -1,5 +1,5 @@
 ---
-title: FIRE TV Puffin TV Browser - 구글 크롬캐스트의 장점을 취하다. Puffin TV Browser 설치법
+title: FIRE TV Puffin TV Browser - 파이어티비 구글 크롬캐스트의 장점을 취하다. Puffin TV Browser 설치법
 author: FlyingDeuk
 date: 2021-10-10 20:55:00 +0800
 categories: [Living]
@@ -8,6 +8,8 @@ pin:
 ---
 
 ![new](/img/living/fire/puffin.jpg)
+
+Revision : 사용하다가 보니 용량제한이 걸려있다. 한참 드라마를 보던중 용량초과란다... 다른 방법을 찾는데로 포스팅 예정!! (2021.11)
 
 `FlyingDeuk's`
 > IOS 초기 애플의 특성상 Flash의 지원을 하지않았다. 당시는 Flash 기반의 컨텐츠가 많아서 불편함이 많았고 Flash를 지원하는 마지막 보루로 Puffin Browser를 사용했었었다. (그래서 알게된 유명해진 회사...) 그 이후 구글 및 여러 인터넷 회사들이 Flash를 사용하지 않으면서 조금씩 잊혀져가고 있었다.<br>

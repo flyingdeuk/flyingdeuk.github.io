@@ -1,5 +1,5 @@
 ---
-title: Android BEST APP - 내가 쓰는 안드로이드 베스트 어플 (with Xiaomi Mi A3)
+title: Android BEST APP - 내가 쓰는 안드로이드 베스트 추천 어플 (with Xiaomi Mi A3)
 author: FlyingDeuk
 date: 2021-12-21 20:55:00 +0800
 categories: [Living, APP]

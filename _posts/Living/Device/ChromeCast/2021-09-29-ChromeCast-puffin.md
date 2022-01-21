@@ -1,5 +1,5 @@
 ---
-title: ChromeCast with Google TV - Puffin Browser 활용법 (광고차단)
+title: ChromeCast with Google TV - 그롬캐스트 Puffin Browser 활용법 (광고차단)
 author: FlyingDeuk
 date: 2021-09-29 20:55:00 +0800
 categories: [Living]

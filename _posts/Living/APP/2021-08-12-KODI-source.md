@@ -1,5 +1,5 @@
 ---
-title: KODI Media Server DLNA, UPnP, SMB, FTP - 미디어 서버(소스) 연결하기 (for Mac, Android, Windows)
+title: KODI Media Server DLNA, UPnP, SMB, FTP - 코디 미디어 서버(소스) 연결하기 (for Mac, Android, Windows)
 author: FlyingDeuk
 date: 2021-08-12 20:55:00 +0800
 categories: [Living]

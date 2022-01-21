@@ -1,5 +1,5 @@
 ---
-title: ChromeCast with Google TV - FIRE TV처럼 활용하기 (Feat. Downloader, KODI, Puffin Browser)
+title: ChromeCast with Google TV - 크롬캐스트 FIRE TV처럼 활용하기 (Feat. Downloader, KODI, Puffin Browser)
 author: FlyingDeuk
 date: 2021-09-29 20:55:00 +0800
 categories: [Living, Device]

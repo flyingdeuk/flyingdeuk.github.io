@@ -1,5 +1,5 @@
 ---
-title: IPTIME 공유기 VPN - 한국 VPN(우리집) 접속하기
+title: IPTIME 공유기 VPN - 아이피타임 한국 VPN(우리집) 접속하기
 author: FlyingDeuk
 date: 2020-12-24 20:55:00 +0800
 categories: [Living]

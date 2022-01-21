@@ -1,5 +1,5 @@
 ---
-title: Fire TV Stick for Korea - 국내(한국) 사용자를 위한 Fire TV 한방 설정법 (Feat. Netflix, YOUTUBE, Internet, Downloader, KODI, 한국 OTT 서비스)
+title: Fire TV Stick for Korea - 파이어티비 국내(한국) 사용자를 위한 Fire TV 한방 설정법 (Feat. Netflix, YOUTUBE, Internet, Downloader, KODI, 한국 OTT 서비스)
 author: FlyingDeuk
 date: 2021-12-04 20:55:00 +0800
 categories: [Living]

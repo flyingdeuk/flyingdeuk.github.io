@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi transmission - Transmission-Daemon 소유권(권한) 문제 해결법
+title: Raspberry Pi transmission - 라즈베리파이 Transmission-Daemon 소유권(권한) 문제 해결법
 author: FlyingDeuk
 date: 2021-08-27 20:55:00 +0800
 categories: [Living]

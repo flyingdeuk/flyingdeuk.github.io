@@ -1,5 +1,5 @@
 ---
-title: FIRE TV Remote Controller Shortcut - 리모컨 단축키 모음
+title: FIRE TV Remote Controller Shortcut - 파이어티비 리모컨 단축키 모음
 author: FlyingDeuk
 date: 2021-10-20 20:55:00 +0800
 categories: [Living]

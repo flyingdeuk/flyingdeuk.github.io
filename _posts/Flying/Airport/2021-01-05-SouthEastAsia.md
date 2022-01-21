@@ -4,7 +4,6 @@ date: 2021-01-05
 categories: [Flying, Airport]
 tags: [index, southeastasia]
 pin:
-typora-root-url: ../../../../flyingdeuk.github.io
 ---
 
 `FlyingDeuk's`

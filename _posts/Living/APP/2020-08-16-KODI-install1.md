@@ -1,5 +1,5 @@
 ---
-title: KODI Setup - 기본 설정법 (for Mac, Android, Windows, RaspberryPi)
+title: KODI Setup - 코기 기본 설정법 (for Mac, Android, Windows, RaspberryPi)
 author: FlyingDeuk
 date: 2020-08-16 20:55:00 +0800
 categories: [Living]

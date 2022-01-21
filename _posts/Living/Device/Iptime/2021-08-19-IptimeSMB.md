@@ -1,5 +1,5 @@
 ---
-title: IPTIME 공유기 SAMBA - SMB 파일 관리 및 스트리밍(for MAC, IOS, Windows, Android)
+title: IPTIME 공유기 SAMBA - 아이피타임 SMB 파일 관리 및 스트리밍(for MAC, IOS, Windows, Android)
 author: FlyingDeuk
 date: 2021-08-19 20:55:00 +0800
 categories: [Living]

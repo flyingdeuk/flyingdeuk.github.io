@@ -1,5 +1,5 @@
 ---
-title: Windows uTorrent - P2P 안전하게 활용하는 법
+title: Windows uTorrent - 윈도우즈 토렌트 P2P 안전하게 활용하는 법
 author: FlyingDeuk
 date: 2021-12-10 20:55:00 +0800
 categories: [Living]

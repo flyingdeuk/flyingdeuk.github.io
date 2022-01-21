@@ -1,5 +1,5 @@
 ---
-title: IPTIME 공유기 DDNS - 외부/해외에서 접속하는 법
+title: IPTIME 공유기 DDNS - 아이피타임 외부/해외에서 접속하는 법
 author: FlyingDeuk
 date: 2020-12-24 20:55:00 +0800
 categories: [Living]

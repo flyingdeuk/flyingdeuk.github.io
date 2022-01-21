@@ -1,5 +1,5 @@
 ---
-title: IPAD OS , IOS BEST APP - 내가 쓰는 아이패드 베스트 어플
+title: IPAD OS , IOS BEST APP - 내가 쓰는 아이패드 베스트 추천 어플
 author: FlyingDeuk
 date: 2021-12-22 20:55:00 +0800
 categories: [Living, APP]
@@ -36,10 +36,14 @@ pin:
 |:-------------------------|:-----------------|
 | ![onenote](/img/living/app/onenote.png) |**무료이며 이미지에서 텍스트 검색이 가능한 어플** <br> [포스트로 이동](/posts/onenote/)|
 
-### 파일관리
+### PDF / 네트워크 파일관리 APP
 
-### 사진관리
+| **Document<br>PDF Expert** | 두 어플모두 같은 회사의 제품이나 기능상 약간의 차이가 있음|
+|:-------------------------|:-----------------|
+| ![onenote](/img/living/app/document.png) |**무료이며 네트워크 파일관리가 강력한 PDF 어플**<br> + 무료 VPN Browser 기능  <br> [Reserved](/posts/document/)|
+| ![onenote](/img/living/app/pdfexpert.png) |**무료이며 네트워크 파일관리가 강력한 PDF 어플** <br> [Reserved](/posts/pdfexpert/)|
 
-### PDF관리
+### Free VPN APP
+
 
 ----
