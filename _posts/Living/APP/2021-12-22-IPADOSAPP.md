@@ -1,5 +1,5 @@
 ---
-title: IPAD OS , IOS BEST APP - 내가 쓰는 아이패드 베스트 추천 어플
+title: IPAD OS, IOS BEST APP - 내가 쓰는 아이패드, 아이폰 베스트 추천 어플
 author: FlyingDeuk
 date: 2021-12-22 20:55:00 +0800
 categories: [Living, APP]
