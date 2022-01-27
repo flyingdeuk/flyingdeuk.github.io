@@ -10,9 +10,9 @@ pin:
 
 `FlyingDeuk's`
 > 교체공항이라함은 쉽게 말해서 계획된 목적지에 착륙하지 못하는 상황에서 고려되는 Plan B 공항을 말한다. <br>
-Plan B라는 의미에 맞게 Flight Plan에도 해당 상황에 대한 고려가 포함되어있다. (교체공항까지 가는 상황에서의 연료등등...)<br>
+Plan B라는 의미에 맞게 Flight Plan에도 해당 상황에 대한 보수적인 고려가 포함되어있다. (교체공항까지 가는 상황에서의 연료등등...)<br>
 
-모든 산업에 안전계수가 포함되듯 비행 계획의 단계에서 교체공항 선정에는 보수적인 고려가 포함된다. 이에 대한 고려사항이 아래에 있다.
+모든 산업에 안전계수가 포함되듯 비행 계획의 단계에서 교체공항 선정에는 법적인 Requirement 가 포함된다. 이에 대한 고려사항이 아래에 있다.
 
 `Jeppesen's`
 > **ALTERNATE AERODROME (ICAO)** — An aerodrome to which an aircraft may proceed when it becomes either impossible or inadvisable to proceed to or to land at the aerodrome of intended landing. Alternate aerodromes include the following:
@@ -23,7 +23,7 @@ Plan B라는 의미에 맞게 Flight Plan에도 해당 상황에 대한 고려�
 >- ETOPS En Route Alternate — A suitable and appropriate alternate aerodrome at which an aeroplane would be able to land after experiencing an engine shutdown or other abnormal or emergency condition while en route in an ETOPS operation.
 
 ## Alternate Airport IFR Weather Minima
-Dispatcher에 의해서 작성 및 고려가 되나 이는 조종사의 검토를 통해서 Corfirm되어야 한다.
+Dispatcher에 의해서 작성 및 고려가 되나 이는 조종사의 검토를 통해서 Corfirm 되어야 한다.
 > 항상 해석에 어려운 부분이 존재해서 정리해보고자 한다.
 
 ### 중요한 개념 이해
@@ -31,9 +31,11 @@ Dispatcher에 의해서 작성 및 고려가 되나 이는 조종사의 검토�
 
 #### for pre-flight and/or in-flight planning
 ![alternate](/img/flying/sense/alternate1.jpg)
+이 규정은 교체공항을 선정하는 규정이다. 즉 비행을 위한 계획 FlightPlan의 Requirement라고 생각하면 된다.
+- for pre-flight : 지상 계획 단계에서 역시 상기의 Requirement가 충족해야 Plan 즉 항로를 정할 수 있는 것이다.
+- in-flight planning : 공중에서도 마찬가지이다. 즉각적인 Divert가 요구되는 상황이 아니면 지속적으로 교체공항의 상기 규정을 충족하는지 여부를 모니터하고 항로 수정등의 고려가 요구된다.
 
-- 지상에서든 공중에서든 계획(Flight Plan)을 위한 규정이라는 의미임.
-- 즉, 실제 상황에서 해당 공항으로 Diver하기 위해서는 실제(Actual) Minima를 적용해야 한다.
+`실제 비상상황에 직면하면 Nearest Suitable Airport가 원칙이다. 즉 상기의 규정은 더이상 의미가 없어지고 실제 Actual Minima를 고려해서 Divert Airport를 정해야 하는 것이다.` -> ATL 거주 Delta 항공사 기장님의 조언
 
 #### Facility
 공항내에 설치되어 있는 계기접근 절차에 필요한 장비를 의미한다.
@@ -73,7 +75,7 @@ NOTE 사항을 하나씩 쉽게 이해해본다.
 
 #### Note 2
 ![alternate](/img/flying/sense/alternate6.jpg)
-> 위에서 설명한 대로 GPS는 과거 VOR접근과 유사하게 하나의 Facility로 봐야한다. 즉, VOR Rwy36, VOR Rwy18은 하나의 Facility로 운영되는 2개의 절차이나 하나로 봐야한다.
+> 위에서 설명한 대로 GPS는 과거 VOR접근과 유사하게 하나의 Facility로 봐야한다. 즉, VOR Rwy36, VOR Rwy18은 하나의 Facility로 운영되는 2개의 절차이나 하나로 봐야한다.
 
 #### Note 3, 4, 5
 ![alternate](/img/flying/sense/alternate7.jpg)
@@ -100,6 +102,7 @@ NOTE 사항을 하나씩 쉽게 이해해본다.
 
 
 ![alternate](/img/flying/sense/alternate3.jpg)
+
 적어도 2개의 작동가능한 항법 시설(Facility)에 different suitable runway 접근절차 Minima중 Higher를 선정한다... 어렵다~~~
 
 
