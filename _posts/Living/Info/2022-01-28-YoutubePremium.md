@@ -188,3 +188,23 @@ Chhatrapati Shivaji International Airport, IA Project Rd, Navpada, Vile Parle Ea
 하지만 지금의 MZ 세대이후의 우리 아이들은 궁금한 게 생기면 Naver, Daum, Google을 검색하지 않는단다... Youtube를 제일 먼저 검색하고 무언가를 배운단다... 세대차이 ㅠ.ㅠ...
 
 따라가 보자... 우리 아이들의 눈 높이를... Premium하게...
+
+#### PC (Windows, Mac)에서 도전하기
+추가로 Ipad가 없거나 핸드폰으로 진행이 어려운 경우 PC(Windows, Mac)에서도 진행이 가능하다.
+
+![premium](/img/living/info/premium23.jpg)
+> 인기가 가장 높은 **Chrome**에서 **앱** -> **앱 스토어** 로 들어가면 Plug-in 형태의 어플을 설치할 수 있다.
+
+![premium](/img/living/info/premium24.jpg)
+> **Tunnelbear**를 검색해서 **TunnelBear VPN** 을 설치해주면 된다.
+
+![premium](/img/living/info/premium25.jpg)
+> 크롬브라우져는 작은 OS와 같은 역할을 한다. 즉 윈도우든 맥이든 크롬 브라우져에 추가적인 아플을 설치하고 실행할 수 있다. -> 많은 확장 프로그램들이 많으니... 추가해 보길...
+
+![premium](/img/living/info/premium26.jpg)
+> 퍼즐모양의 그림을 누르면 설치된 **확장 프로그램**을 보여주며 **핀**으로 고정이 가능하다.
+
+![premium](/img/living/info/premium27.jpg)
+> **TunnelBear**를 누르고 지역을 **India**로 설정후 **ON**을 하면 위의 Ipad와 동일한 인도 VPN 환경에서 YOUTUBE Premium을 가입할 수 있다.
+
+------
