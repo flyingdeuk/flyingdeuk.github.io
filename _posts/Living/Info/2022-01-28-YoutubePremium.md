@@ -1,5 +1,5 @@
 ---
-title: Youtube Premium via INDIA - 유튜브 프리미엄 저렴하게 인도계정으로 가입하는 법 (Feat. Tunnelbear VPN, Gmail)
+title: Youtube Premium via INDIA or Argentina - 유튜브 프리미엄 저렴하게 인도 또는 아르헨티나 계정으로 가입하는 법 (Feat. Tunnelbear VPN, Gmail)
 author: FlyingDeuk
 date: 2022-01-28
 categories: [Living, Info]
@@ -7,6 +7,10 @@ tags: [living, info, youtube, premium]
 ---
 
 ![premium](/img/living/info/premium.jpg)
+
+`최근 들어 인도계정은 약관이 변경되어 3개월마다 갱신해야 된다는 경험담이 들린다... 더 저렴한 아르헨티나에 가입을 위해서는 아래 방법에서 인도 대신 아르헨티나를 선택하면 된다.`
+
+**또한 계정 막힘의 문제 역시 새로운 Premium 전용 계좌를 만들어 Youtube 전용으로 사용하면 문제가 생길 시 언제든 이동이 가능하겠다.**
 
 `FlyingDeuk's`
 > 요즘 한국에서 VPN을 이용한 인도 계정으로 저렴하게 YOUTUBE Premium을 이용하는 사람들이 많아졌고... 원래 유료 서비스가입을 좋아하지 않지만 YOUTUBE Music에 이끌리어 가입하게 되었다. 아래는 가장 간단한 방법으로 저렴하게 Premium가입하는 방법이다. <br>
