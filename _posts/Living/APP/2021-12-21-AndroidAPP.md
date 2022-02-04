@@ -27,6 +27,11 @@ pin:
 
 ## INDEX
 
+### Media Center APP
+| **KODI**          |                 |
+|:-------------------------|:-----------------|
+| ![kodi](/img/living/app/kodi_icon.png) |**무료이면서 모든 엔터테인먼트가 가능한 어플** <br> [포스트로 이동](/posts/KODI/)|
+
 ### 메모 APP
 
 | **ONENOTE**          |                 |
