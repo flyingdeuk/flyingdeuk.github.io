@@ -79,5 +79,6 @@ pin:
 |:-------------------------|:-----------------|
 | ![search](/img/living/app/vpnconnect.png) |**OPENVPN 형식의 주소값을 실제 연결시켜주는 어플** <br> [포스트로 이동](/posts/AndVPN/)|
 
-
 ----
+
+[INDEX로 돌아가기](/posts/Android/)
