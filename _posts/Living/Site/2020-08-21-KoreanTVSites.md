@@ -15,7 +15,7 @@ pin:
 
 ## 추천 영화 사이트
 
-#### 코리안즈 <https://koreanz1.xyz/>
+#### 코리안즈 <https://koreanz5.xyz/>
 ![site](/img/living/site/site1.jpg)
 
 최신영화 볼만한거 기준(캠버전 안올라옴)으로 잘 정리되어 있고 이용자의 평점도 잘 올라오는 편임. 가장 활용도가 높은 사이트
