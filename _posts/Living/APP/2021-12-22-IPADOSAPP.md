@@ -36,12 +36,16 @@ pin:
 |:-------------------------|:-----------------|
 | ![onenote](/img/living/app/onenote.png) |**무료이며 이미지에서 텍스트 검색이 가능한 어플** <br> [포스트로 이동](/posts/onenote/)|
 
+| **GoodNotes**          |                 |
+|:-------------------------|:-----------------|
+| ![goodnotes](/img/living/app/goodnotes.png) |**공유노트로 원격 과외, 이미지기반 텍스트 검색이 가능한 어플(유료)** <br> [포스트로 이동](/posts/goodnotes/)|
+
 ### PDF / 네트워크 파일관리 APP
 
 | **Document<br>PDF Expert** | 두 어플모두 같은 회사의 제품이나 기능상 약간의 차이가 있음|
 |:-------------------------|:-----------------|
-| ![onenote](/img/living/app/document.png) |**무료이며 네트워크 파일관리가 강력한 PDF 어플**<br> + 무료 VPN Browser 기능  <br> [Reserved](/posts/document/)|
-| ![onenote](/img/living/app/pdfexpert.png) |**무료이며 네트워크 파일관리가 강력한 PDF 어플** <br> [Reserved](/posts/pdfexpert/)|
+| ![onenote](/img/living/app/document.png) |**무료이며 네트워크 파일관리가 강력한 PDF 어플**<br> + 무료 VPN Browser 기능  <br> [포스트로 이동](/posts/documents/)|
+| ![onenote](/img/living/app/pdfexpert.png) |**무료이며 네트워크 파일관리가 강력한 PDF 어플** <br> [포스트로 이동](/posts/documents/)|
 
 ### 무료 VPN APP
 
