@@ -23,7 +23,7 @@ Plan B라는 의미에 맞게 Flight Plan에도 해당 상황에 대한 보수�
 >- ETOPS En Route Alternate — A suitable and appropriate alternate aerodrome at which an aeroplane would be able to land after experiencing an engine shutdown or other abnormal or emergency condition while en route in an ETOPS operation.
 
 ## Alternate Airport IFR Weather Minima
-Dispatcher에 의해서 작성 및 고려가 되나 이는 조종사의 검토를 통해서 Corfirm 되어야 한다.
+Dispatcher에 의해서 작성 및 고려가 되나 이는 조종사의 검토를 통해서 Confirm 되어야 한다.
 > 항상 해석에 어려운 부분이 존재해서 정리해보고자 한다.
 
 ### 중요한 개념 이해
