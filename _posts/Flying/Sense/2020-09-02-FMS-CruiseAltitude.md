@@ -1,5 +1,6 @@
 ---
 title: Cruise Altitude(Step Climb) 적용 기준
+author: FlyingDeuk
 date: 2020-09-02
 categories: [Flying, FlyingSense]
 tags: [flyingsense]

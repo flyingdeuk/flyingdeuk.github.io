@@ -1,5 +1,6 @@
 ---
 title: FMS Effective Date 변경 기준
+author: FlyingDeuk
 date: 2020-08-31
 categories: [Flying, FlyingSense]
 tags: [flyingsense]

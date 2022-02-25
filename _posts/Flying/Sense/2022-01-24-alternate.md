@@ -1,5 +1,6 @@
 ---
 title: Alternate Airport IFR Weather Minima - 교체공항 IFR 기상제한의 해석
+author: FlyingDeuk
 date: 2022-01-24
 categories: [Flying, FlyingSense]
 tags: [northamerica, edto, alternate, airport, flyingsense]

@@ -1,5 +1,6 @@
 ---
 title: POLAR Route True Course - 폴라 루트 True Course 사용시기에 대하여
+author: FlyingDeuk
 date: 2021-12-17
 categories: [Flying, FlyingSense]
 tags: [flyingsense]

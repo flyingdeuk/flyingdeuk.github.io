@@ -1,5 +1,6 @@
 ---
 title: FAA vs ICAO - 간단한 구별법
+author: FlyingDeuk
 date: 2020-12-1
 categories: [Flying, FlyingSense]
 tags: [flyingsense]

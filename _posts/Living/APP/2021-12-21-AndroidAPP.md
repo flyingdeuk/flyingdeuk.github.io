@@ -74,6 +74,9 @@ pin:
 |:-------------------------|:-----------------|
 | ![search](/img/living/app/kiwix1.jpg) |**무료 오프라인 위키 백과사전** <br> [포스트로 이동](/posts/kiwix/)|
 
+| **Google Translate**          |                 |
+|:-------------------------|:-----------------|
+| ![search](/img/living/app/translate.png) |**무료 오프라인 실시간 카메라 텍스트 인식기술을 적용한 오프라인 번역기** <br> [포스트로 이동](/posts/translate/)|
 
 ### 무료 VPN APP
 

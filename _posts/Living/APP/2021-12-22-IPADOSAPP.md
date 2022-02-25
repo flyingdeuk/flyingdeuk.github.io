@@ -40,6 +40,16 @@ pin:
 |:-------------------------|:-----------------|
 | ![goodnotes](/img/living/app/goodnotes.png) |**공유노트로 원격 과외, 이미지기반 텍스트 검색이 가능한 어플(유료)** <br> [포스트로 이동](/posts/goodnotes/)|
 
+### 사전 / 번역 APP
+
+| **Kiwix**          |                 |
+|:-------------------------|:-----------------|
+| ![search](/img/living/app/kiwix1.jpg) |**무료 오프라인 위키 백과사전** <br> [포스트로 이동](/posts/kiwix-ios/)|
+
+| **Google Translate**          |                 |
+|:-------------------------|:-----------------|
+| ![search](/img/living/app/translate.png) |**무료 오프라인 실시간 카메라 텍스트 인식기술을 적용한 오프라인 번역기** <br> [포스트로 이동](/posts/translate-ios/)|
+
 ### PDF / 네트워크 파일관리 APP
 
 | **Document<br>PDF Expert** | 두 어플모두 같은 회사의 제품이나 기능상 약간의 차이가 있음|

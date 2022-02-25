@@ -1,5 +1,6 @@
 ---
 title: TOBT, TSAT에 대한 다른 시점
+author: FlyingDeuk
 date: 2020-08-20
 categories: [Flying, FlyingSense]
 tags: [flyingsense]
