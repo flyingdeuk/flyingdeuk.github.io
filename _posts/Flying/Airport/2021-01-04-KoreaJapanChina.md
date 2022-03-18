@@ -25,6 +25,8 @@ pin:
 
 #### [RJFF(FUK) - 일본 후쿠오카(후쿠오카 공항)](/posts/RJFF-FUK/)
 
+#### [RJFR(KKJ) - 일본 기타큐슈(기타큐슈 공항)](/posts/RJFR-KKJ/)
+
 
 ## China
 
