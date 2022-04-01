@@ -38,6 +38,5 @@ pin:
 
 #### - [ChromeCast with Google TV - Downloader 활용법 (알 수 없는 출저 해결법)](/posts/ChromeCast-downloader/)
 
-#### - [KODI - 최고의 무료 Media Center 어플 (for Mac, Android, Windows, RaspberryPi)](/posts/KODI/)
+#### - [ChromeCast with Google TV - 크롬캐스트 KODI 설치법 (Feat. Downloader)](/posts/ChromeCast-kodi/)
 >상기의 방법으로 설치된 **Downloader**앱을 이용해서 설치가능하다.
-**KODI 18.x** 버전이 아직은 추천됨.

@@ -1,5 +1,5 @@
 ---
-title: ChromeCast with Google TV - 그롬캐스트 Puffin Browser 활용법 (광고차단)
+title: ChromeCast with Google TV - 그롬캐스트 Puffin Browser 활용법 (Feat. 광고차단)
 author: FlyingDeuk
 date: 2021-09-29 20:55:00 +0800
 categories: [Living]
@@ -13,12 +13,13 @@ pin:
 `FlyingDeuk's`
 >Puffin Browser는 과거 애플 제품의 flash player로 거의 유일한 어플로 인기가 있던 브라우져 였는데... 여기서 다시 보게 될 줄은 몰랐다... 사용해보니 FIRE TV Silk 브라우져를 보완한 점이 있어 편리한 거 같다.
 
+`해당 앱에는 조금의 문제가 있다. 하루 용량 제한으로 돈을 요구한다. 아직까지 FireTV의 SILK Internet Browser 같은 브라우져가 구글에 필요한 듯하다...`
 
-### Puffin Browser 활용법 (광고차단)
+## Puffin Browser 활용법 (광고차단)
 FIRE TV Silk Browser의 강력한 기능중에 하나인 POPUP 차단 기능을 동일하게 갖고 있는 브라우져임... 더 편리한 기능이 추가됨... 사용하기 편하다.
 ![chrome](/img/living/chromecast/chromecast2.jpg)
 
-#### 설치방법
+### 설치방법
 구글 앱스토어에서 설치가 가능하다.
 
 ![chrome](/img/living/chromecast/chromecast3.jpg)
@@ -29,7 +30,7 @@ FIRE TV Silk Browser의 강력한 기능중에 하나인 POPUP 차단 기능을 
 
 설치를 눌러 설치를 진행하면됨... 간단하다.
 
-#### 활용방법 (광고차단)
+### 활용방법 (광고차단)
 옵션 메뉴의 활용법과 POPUP차단의 방법을 포함한다.
 
 ![chrome](/img/living/chromecast/chromecast5.jpg)
@@ -65,7 +66,7 @@ TV browser의 가장 중요한 기능은 역시나 리모컨으로 모든 것을
 ENJOY~~~ FREE ADS CITY!!!
 >또 다른 광고를 막기위해서는 전체화면 모드로 가는 것을 추천한다. 그래도 나오는 경우도 있음... 악날함...
 
-#### 추가기능 (멀티테스킹)
+### 추가기능 (멀티테스킹)
 아마존 FIRE TV에는 없는 기능으로 뒤로가기 버튼을 누르면 이전 history를 보여준다. 즉 여러개의 이전 창을 선택할 수 있다. (아마존도 배웠으면...)
 
 ![chrome](/img/living/chromecast/chromecast12.jpg)
@@ -74,7 +75,9 @@ ENJOY~~~ FREE ADS CITY!!!
 ![chrome](/img/living/chromecast/chromecast13.jpg)
 >북마크는 당연히 기본 기능이다.
 
-#### PostScript
+---------
+
+### PostScript
 TV OS가 날로 발전하고 있는 느낌이다. 점점 더 많아지고 있으니 서로 경쟁을 할 것이고... 우린 그저 편하게 사용하면 된다.
 >예전 초기 FIRE TV Stick 1세대(지금도 가지고 있는..) 때는 인터넷하려고 블루투스 마우스를 들고 다녔다. -> 리모컨으로 포인터를 조절할 수 없었다....
 
