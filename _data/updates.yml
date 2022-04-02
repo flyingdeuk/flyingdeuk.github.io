@@ -122,6 +122,9 @@
   filename: 'tuxera'
   lastmod: '2022-02-05 20:01:13 +0900'
 -
+  filename: 'whykodi'
+  lastmod: '2022-04-02 01:15:33 -0700'
+-
   filename: 'UsingVPN'
   lastmod: '2021-12-09 09:59:36 +0900'
 -
@@ -136,6 +139,9 @@
 -
   filename: 'cycle'
   lastmod: '2021-12-23 19:03:31 +0900'
+-
+  filename: 'breville'
+  lastmod: '2022-04-02 01:15:33 -0700'
 -
   filename: 'ir-remote'
   lastmod: '2021-08-07 19:37:26 +0900'
@@ -290,8 +296,11 @@
   filename: 'Fire-TV'
   lastmod: '2022-01-20 23:43:32 -0500'
 -
+  filename: 'FireTV-captain'
+  lastmod: '2022-04-02 02:02:40 -0700'
+-
   filename: 'FireTV-friend'
-  lastmod: '2022-04-02 01:07:02 -0700'
+  lastmod: '2022-04-02 02:02:40 -0700'
 -
   filename: 'FireHDMI'
   lastmod: '2022-01-20 23:43:32 -0500'
@@ -306,7 +315,7 @@
   lastmod: '2022-01-20 23:43:32 -0500'
 -
   filename: 'FireTV'
-  lastmod: '2022-03-18 13:02:01 -0300'
+  lastmod: '2022-04-02 01:10:50 -0700'
 -
   filename: 'FireTV-pilot'
   lastmod: '2022-01-20 23:43:32 -0500'
@@ -450,7 +459,7 @@
   lastmod: '2022-02-19 18:06:59 -0500'
 -
   filename: 'VVNB-HAN'
-  lastmod: '2022-02-19 18:06:59 -0500'
+  lastmod: '2022-04-02 02:21:26 -0700'
 -
   filename: 'KJFK-JFK'
   lastmod: '2022-02-25 06:08:30 -0800'
