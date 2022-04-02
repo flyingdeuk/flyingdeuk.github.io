@@ -1,5 +1,5 @@
 ---
-title: Fire TV Stick - 친구에게 setting해서 선물한 Fire TV 사용법
+title: Fire TV Stick - 친구에게 setting해서 선물한 Fire TV 사용 설명서
 author: FlyingDeuk
 date: 2021-11-09 20:55:00 +0800
 categories: [Living]
