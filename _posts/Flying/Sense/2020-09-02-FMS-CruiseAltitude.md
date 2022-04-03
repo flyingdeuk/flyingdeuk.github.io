@@ -21,7 +21,7 @@ pin:
 - Wind and temperature deviations from standard day are not used in the calculation.
 - The optimum altitude is not calculated during an RTA cruise segment.
 
-`즉 항공기 무게, CG, Cost Index에 따른 최적의 고도임. 바람과 온도는 고려하지 않는다.`
+`즉 항공기 무게, CG, Cost Index에 따른 최적의 고도임. 표준대기에서 벗어나는 바람과 온도는 고려하지 않는다.`
 
     Cost Index : 시간과 연료를 고려한 수.
 
