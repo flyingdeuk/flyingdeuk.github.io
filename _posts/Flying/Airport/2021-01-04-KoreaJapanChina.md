@@ -15,6 +15,8 @@ pin:
 
 #### [RKSS(GMP) - 한국 서울(김포 공항)](/posts/RKSS-GMP/)
 
+-------
+
 ## Japan
 
 #### [RJTT(HND) - 일본 도쿄(하네다 공항)](/posts/RJTT-HND/)
@@ -27,6 +29,7 @@ pin:
 
 #### [RJFR(KKJ) - 일본 기타큐슈(기타큐슈 공항)](/posts/RJFR-KKJ/)
 
+--------
 
 ## China
 

@@ -20,8 +20,12 @@ pin:
 
 - #### [POLAR Route True Course - 폴라 루트 True Course 사용시기에 대하여](/posts/trueheading/)
 
+---------
+
 ## 알래스카
 #### [PANC(ANC) - 미국 알레스카(테드 스티븐스 공항)](/posts/PANC-ANC/)
+
+-------
 
 ## 미국
 #### [KATL(ATL) - 미국 애틀란타(하츠필드 잭슨 공항)](/posts/KATL-ATL/)
@@ -47,6 +51,8 @@ pin:
 #### [KSEA(SEA) - 미국 시애틀(타코마 공항)](/posts/KSEA-SEA/)
 
 #### [KSFO(SFO) - 미국 샌프란시스코(샌프란시스코 공항)](/posts/KSFO-SFO/)
+
+---------
 
 ## 캐나다
 
