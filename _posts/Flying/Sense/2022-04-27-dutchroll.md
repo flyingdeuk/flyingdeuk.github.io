@@ -7,7 +7,7 @@ tags: [flyingsense, dutchroll]
 pin:
 ---
 
-![dutch](/img/flying/sense/dutchroll.gif)
+![dutch](/img/flying/sense/dutchroll.gif/)
 
 `FlyingDeuk's`
 > 항공 역학은 일반인이 이해하기는 어려운 단어와 이론들이 즐비하다. 내가 찾아본 내용중 도움이 되는 내용들을 정리할 예정이다.
