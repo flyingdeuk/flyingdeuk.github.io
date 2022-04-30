@@ -1,7 +1,7 @@
 ---
 title: KODI 19.x ThePromise Addons (Old. TheOath) Install - TheOath 대체 에드온 ThePromise 설정 및 사용법 (Feat. ThePromise, a4kSubtitles)
 author: FlyingDeuk
-date: 2022-04-30 20:55:00 +0800
+date: 2022-04-29 20:55:00 +0800
 categories: [Living]
 tags: [usefulapp, mac, android, windows, linux, kodi]
 pin:
