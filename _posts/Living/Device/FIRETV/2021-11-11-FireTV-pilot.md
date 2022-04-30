@@ -7,6 +7,8 @@ tags: [usefulapp, android, firetv]
 pin:
 ---
 
+`Revision : TheOath서비스가 종료되어 새로운 에드온 ThePromise를 설치하는 방법으로 대체(2022.4)`
+
 ![pilot](/img/living/fire/firetvpilot.jpg)
 
 `FlyingDeuk's`
@@ -340,8 +342,9 @@ Downloader 어플을 이용하면 된다. 최신 버전의 KODI 19.x를 설치�
 ![kodi_addon](/img/living/kodi/kodi_flyingdeuk1.jpg)
 > flyingdeuk addon 저장소 이름 **kodi**로 진입 <br>
 
-![kodi_addon](/img/living/kodi/oath8.jpg)
-- **repository host505** : The Oath 에드온을 설치하기 위한 저장소
+
+![kodi_addon](/img/living/kodi/promise1.jpg)
+- **repository Hacker** : ThePromise 에드온을 설치하기 위한 저장소
 - **a4kSubtiles repository** : 자막 에드온을 설치하기 위한 저장소
 
 두가지를 다 설치해준다.
@@ -350,21 +353,21 @@ Downloader 어플을 이용하면 된다. 최신 버전의 KODI 19.x를 설치�
 
 ### 저장소에서 설치
 
-#### The Oath 설치
-host505 저장소를 설치했으니 저장소에서 설치로 들어간다.
+#### ThePromise 설치
+Hacker 저장소를 설치했으니 저장소에서 설치로 들어간다.
 
 ![kodi_addon](/img/living/kodi/oath10.jpg)
 > **저장소에서 설치** 선택 <br>
 
-![kodi_addon](/img/living/kodi/oath11.jpg)
-> **host505 repo** 저장소를 선택한다.
+![kodi_addon](/img/living/kodi/Promise2.jpg)
+> **Hacker repo** 저장소를 선택한다.
 
 ![kodi_addon](/img/living/kodi/oath12.jpg)
 > **비디오 에드온** 선택
 
-![kodi_addon](/img/living/kodi/oath14.jpg)
-![kodi_addon](/img/living/kodi/oath15.jpg)
-> **TheOath**를 선택하고 설치를 진행한다.
+![kodi_addon](/img/living/kodi/Promise3.jpg)
+![kodi_addon](/img/living/kodi/Promise4.jpg)
+> **ThePromise**를 선택하고 설치를 진행한다.
 
 ![kodi_addon](/img/living/kodi/oath16.jpg)
 > **확인**을 누르면 좌측에 있는 필요 프로그램들이 설치된다.
@@ -390,7 +393,7 @@ a4kSubtiles 저장소를 설치했으니 다시 저장소에서 설치부터 시
 ![kodi_addon](/img/living/kodi/oath21.jpg)
 > **확인**을 눌러 설치
 
-이렇게 TheOath와 a4kSubtiles을 설치는 완료가 된다.
+이렇게 ThePromise와 a4kSubtiles을 설치는 완료가 된다.
 
 ---------
 
@@ -407,11 +410,12 @@ a4kSubtiles 저장소를 설치했으니 다시 저장소에서 설치부터 시
 KODI 기본 설정에서 설정한 내용에 a4kSubtiles를 지정해 주면 거의 완벽하게 자막을 자동으로 찾아주게된다.
 
 
+
 -----------
 
 
 
-### TheOath 설정 및 사용법
+### ThePromise 설정 및 사용법
 
 ## 설정 진입법 (공통)
 해당되는 Addon ICON위에서 리모컨의 **선택** 버튼을 길게 또는  키보드의 **엔터**를 길게 또는 **마우스 오른쪽 버튼** 길게 누르고 설정 누름.
@@ -419,14 +423,14 @@ KODI 기본 설정에서 설정한 내용에 a4kSubtiles를 지정해 주면 거
 
 ------
 
-## The Oath Addons
-설정 방식은 과거의 EXODUSVPN과 유사하다. 느낌은 EXODUSVPN의 새로운 버전인 듯 하다.
+## ThePromise Addons
+설정 방식은 과거의 TheOath와 유사하다. TheOath의 새로운 버전인 듯 하다.
 
 ### 기본 설정법
 **해당 ICON 선택 버튼을 길게 눌러 진입!!!**
 
 ![kodi_addon](/img/living/kodi/oath22.jpg)
-> **TheOath** 아이콘을 길게 누름
+> **ThePromise** 아이콘을 길게 누름
 
 ![kodi_addon](/img/living/kodi/oath23.jpg)
 >**Genaral** - **Info Language** : Korean <br>
@@ -444,8 +448,8 @@ TMDB(The Movies DataBase)라는 전세계 영화 정보 사이트에서 긁어�
 ### 기본 사용법
 사용법은 어렵지 않으나 옵션등을 잘 사용하면 원하는 영화를 검색이 가능하다.
 
-![kodi_addon](/img/living/kodi/oath2.jpg)
-> TheOath 에드온을 실행하자.
+![kodi_addon](/img/living/kodi/promise6.jpg)
+> ThePromise 에드온을 실행하자.
 
 첫화면은 여러가지 메뉴로 보이지만 결국은 Movies는 영화, Episode는 미드를 의미함. <br>
 
@@ -507,6 +511,7 @@ TMDB(The Movies DataBase)라는 전세계 영화 정보 사이트에서 긁어�
 
 ![kodi_addon](/img/living/kodi/kodi_subtitle.jpg)
 > 리스트에서 수동으로 자막을 선택 가능함. 너무 최신작의 경우 아직 자막 제작이 안되어 한글 자막이 없는 경우가 있음.
+
 
 ------------
 

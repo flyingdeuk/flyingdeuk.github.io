@@ -1,22 +1,17 @@
 ---
-title: KODI 19.x BEST Movie Addons Install - 코디 인기(베스트) 에드온 설치법 (Feat. The Oath, a4kSubtitles)
+title: KODI 19.x ThePromise Addons (Old. TheOath) Install - TheOath 대체 에드온 ThePromise 설치법 (Feat. ThePromise, a4kSubtitles)
 author: FlyingDeuk
-date: 2021-12-30 20:55:00 +0800
+date: 2022-04-29 20:55:00 +0800
 categories: [Living]
 tags: [usefulapp, mac, android, windows, linux, kodi]
 pin:
 ---
 
-![oath](/img/living/kodi/oath1.jpg)
-
-### [KODI 19.x ThePromise Addons (Old. TheOath) Install - TheOath 대체 에드온 ThePromise 설치법 (Feat. ThePromise, a4kSubtitles)](/posts/promise/)
-  - TheOath의 대체 에드온 ThePromise의 설치법
-
-`TheOath가 서비스를 종료했다. 위의 링크로 새로운 에드온을 설치가 가능하다.`
+![oath](/img/living/kodi/promise5.jpg)
 
 `FlyingDeuk's`
-> KODI 18.x에서 잘 작동하던 EXODUSVPN의 신규설치가 막혔다. 개발자가 막은 건지는 모르겠으나 기본 설치한 것들은 잘 작동하는 데 새롭게 설치하는 것들엔 작동을 하지않는다. <br>
-그래서 새롭게 유사한 형식으로 작동하는 (소스가 거의 동일한 듯) 그리고 KODI 19.x에서도 작동하는 에드온을 소개한다.
+> KODI 베스트에드온이던 TheOath가 4월 중순부터 서비스가 중단되었다. 그래서 같은 기능의 최신 버전인 ThePromise를 소개한다. <br>
+이유는 모르겠으나 같은 기능과 형태를 갖는 이름만 바뀌는 이유는 잘 모르겠다.
 
 **광고 없이 무료 영화와 미드를 볼 수 있는 에드온이 되겠다.**
 
@@ -46,8 +41,8 @@ pin:
 ![kodi_addon](/img/living/kodi/kodi_flyingdeuk1.jpg)
 > flyingdeuk addon 저장소 이름 **kodi**로 진입 <br>
 
-![kodi_addon](/img/living/kodi/oath8.jpg)
-- **repository host505** : The Oath 에드온을 설치하기 위한 저장소
+![kodi_addon](/img/living/kodi/promise1.jpg)
+- **repository Hacker** : ThePromise 에드온을 설치하기 위한 저장소
 - **a4kSubtiles repository** : 자막 에드온을 설치하기 위한 저장소
 
 두가지를 다 설치해준다.
@@ -56,21 +51,21 @@ pin:
 
 ### 저장소에서 설치
 
-#### The Oath 설치
-host505 저장소를 설치했으니 저장소에서 설치로 들어간다.
+#### ThePromise 설치
+Hacker 저장소를 설치했으니 저장소에서 설치로 들어간다.
 
 ![kodi_addon](/img/living/kodi/oath10.jpg)
 > **저장소에서 설치** 선택 <br>
 
-![kodi_addon](/img/living/kodi/oath11.jpg)
-> **host505 repo** 저장소를 선택한다.
+![kodi_addon](/img/living/kodi/Promise2.jpg)
+> **Hacker repo** 저장소를 선택한다.
 
 ![kodi_addon](/img/living/kodi/oath12.jpg)
 > **비디오 에드온** 선택
 
-![kodi_addon](/img/living/kodi/oath14.jpg)
-![kodi_addon](/img/living/kodi/oath15.jpg)
-> **TheOath**를 선택하고 설치를 진행한다.
+![kodi_addon](/img/living/kodi/Promise3.jpg)
+![kodi_addon](/img/living/kodi/Promise4.jpg)
+> **ThePromise**를 선택하고 설치를 진행한다.
 
 ![kodi_addon](/img/living/kodi/oath16.jpg)
 > **확인**을 누르면 좌측에 있는 필요 프로그램들이 설치된다.
@@ -96,7 +91,7 @@ a4kSubtiles 저장소를 설치했으니 다시 저장소에서 설치부터 시
 ![kodi_addon](/img/living/kodi/oath21.jpg)
 > **확인**을 눌러 설치
 
-이렇게 TheOath와 a4kSubtiles을 설치는 완료가 된다.
+이렇게 ThePromise와 a4kSubtiles을 설치는 완료가 된다.
 
 ---------
 
@@ -115,14 +110,15 @@ KODI 기본 설정에서 설정한 내용에 a4kSubtiles를 지정해 주면 거
 ----------
 
 #### Postscript
-KODI 18.x의 최고의 영화 에드온인 EXODUSVPN을 대체하는 유사한 형태의 에디온이 되겠다. <br>
-소스 검색이 더 다양하고 속도 및 안정성도 좋은 듯하다.
-
-**이제는 KODI 19.x에 정착해야 할듯**
+일부 스크린 캡쳐는 TheOath가 있는 이유는 이름만 바뀐 같은 에드온이기 때문에 설정등 모든 면에서 동일하다...
 
 상기의 과정을 하다가 보면 저장소에서의 설치와 압축파일에서의 설치의 의미를 조금은 이해가 된다. <br>
 추후 구글링으로 다른 필요한 에드온 설치시 많은 도움이 될 거라 생각이 됨 .
 > 압축파일(zip)에서의 설치는 윈도우의 exe나 안드로이드의 apk같은 설치 파일로 설치하는 것이고 저장소에서의 설치는 프로그래머가 작성한 작은 저장소 즉 Addons Store에서 설치한다고 생각하면됨. <br>
 즉 압축파일에서의 설치는 최신 업데이트가 되지않음.
+
+
+- ### [KODI 19.x ThePromise Addons (Old. TheOath) Install - TheOath 대체 에드온 ThePromise 설정 및 사용법 (Feat. ThePromise, a4kSubtitles)](/posts/promise1/)
+  - TheOath의 대체 에드온 ThePromise의 설정 및 사용법
 
 [INDEX로 돌아가기](/posts/KODI/)
