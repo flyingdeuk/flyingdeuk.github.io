@@ -118,7 +118,7 @@ KODI 기본 설정에서 설정한 내용에 a4kSubtiles를 지정해 주면 거
 즉 압축파일에서의 설치는 최신 업데이트가 되지않음.
 
 
-- ### [KODI 19.x ThePromise Addons (Old. TheOath) Install - TheOath 대체 에드온 ThePromise 설정 및 사용법 (Feat. ThePromise, a4kSubtitles)](/posts/promise1/)
+- ### [KODI 19.x ThePromise Addons (Old. TheOath) Install - TheOath 대체 에드온 ThePromise 설정 및 사용법 (Feat. ThePromise, a4kSubtitles)](/posts/KODI-promise1/)
   - TheOath의 대체 에드온 ThePromise의 설정 및 사용법
 
 [INDEX로 돌아가기](/posts/KODI/)
