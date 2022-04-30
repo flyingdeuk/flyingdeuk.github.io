@@ -359,14 +359,14 @@ Hacker 저장소를 설치했으니 저장소에서 설치로 들어간다.
 ![kodi_addon](/img/living/kodi/oath10.jpg)
 > **저장소에서 설치** 선택 <br>
 
-![kodi_addon](/img/living/kodi/Promise2.jpg)
+![kodi_addon](/img/living/kodi/promise2.jpg)
 > **Hacker repo** 저장소를 선택한다.
 
 ![kodi_addon](/img/living/kodi/oath12.jpg)
 > **비디오 에드온** 선택
 
-![kodi_addon](/img/living/kodi/Promise3.jpg)
-![kodi_addon](/img/living/kodi/Promise4.jpg)
+![kodi_addon](/img/living/kodi/promise3.jpg)
+![kodi_addon](/img/living/kodi/promise4.jpg)
 > **ThePromise**를 선택하고 설치를 진행한다.
 
 ![kodi_addon](/img/living/kodi/oath16.jpg)
