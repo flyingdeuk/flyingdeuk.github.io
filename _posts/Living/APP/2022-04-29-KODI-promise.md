@@ -7,6 +7,9 @@ tags: [usefulapp, mac, android, windows, linux, kodi]
 pin:
 ---
 
+## 긴급 ThePromise도 현재 Repo가 막혀 설치가 안되게 되었다.
+> TheOath의 Fork판인 ThePromise도 분쟁으로 접근이 안됨.
+ 
 ![oath](/img/living/kodi/promise5.jpg)
 
 `FlyingDeuk's`

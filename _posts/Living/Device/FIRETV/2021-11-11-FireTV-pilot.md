@@ -7,6 +7,9 @@ tags: [usefulapp, android, firetv]
 pin:
 ---
 
+## 긴급 ThePromise도 현재 Repo가 막혀 설치가 안되게 되었다. 
+> TheOath의 Fork판인 ThePromise도 분쟁으로 접근이 안됨.
+
 `Revision : TheOath서비스가 종료되어 새로운 에드온 ThePromise를 설치하는 방법으로 대체(2022.4)`
 
 ![pilot](/img/living/fire/firetvpilot.jpg)
