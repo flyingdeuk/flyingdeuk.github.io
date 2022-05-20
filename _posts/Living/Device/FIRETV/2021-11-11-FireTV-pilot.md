@@ -7,8 +7,7 @@ tags: [usefulapp, android, firetv]
 pin:
 ---
 
-## 긴급 ThePromise도 현재 Repo가 막혀 설치가 안되게 되었다. 
-> TheOath의 Fork판인 ThePromise도 분쟁으로 접근이 안됨.
+## 긴급 다른 경로를 지인분이 찾아주어 다시 UPDATE함. 아직까지는 설치가능함.
 
 `Revision : TheOath서비스가 종료되어 새로운 에드온 ThePromise를 설치하는 방법으로 대체(2022.4)`
 
@@ -347,7 +346,7 @@ Downloader 어플을 이용하면 된다. 최신 버전의 KODI 19.x를 설치�
 
 
 ![kodi_addon](/img/living/kodi/promise1.jpg)
-- **repository Hacker** : ThePromise 에드온을 설치하기 위한 저장소
+- **repository.loonaticsasylum** : ThePromise 에드온을 설치하기 위한 저장소
 - **a4kSubtiles repository** : 자막 에드온을 설치하기 위한 저장소
 
 두가지를 다 설치해준다.
@@ -363,7 +362,7 @@ Hacker 저장소를 설치했으니 저장소에서 설치로 들어간다.
 > **저장소에서 설치** 선택 <br>
 
 ![kodi_addon](/img/living/kodi/promise2.jpg)
-> **Hacker repo** 저장소를 선택한다.
+> **repository.loonaticsasylum** 저장소를 선택한다.
 
 ![kodi_addon](/img/living/kodi/oath12.jpg)
 > **비디오 에드온** 선택
