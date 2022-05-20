@@ -54,7 +54,7 @@ pin:
 ### 저장소에서 설치
 
 #### ThePromise 설치
-Hacker 저장소를 설치했으니 저장소에서 설치로 들어간다.
+loonaticsasylum 저장소를 설치했으니 저장소에서 설치로 들어간다.
 
 ![kodi_addon](/img/living/kodi/oath10.jpg)
 > **저장소에서 설치** 선택 <br>
