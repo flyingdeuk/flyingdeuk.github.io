@@ -1,7 +1,7 @@
 ---
 title: Fire TV Stick for IPTV SMARTERS - 해외 월드컵 16강 시청을 위한 한국 IPTV 설정법
 author: FlyingDeuk
-date: 2022-12-05 
+date: 2022-12-04 
 categories: [Living]
 tags: [usefulthing, android, firetv, smarter]
 pin:
