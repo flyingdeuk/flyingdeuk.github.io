@@ -50,6 +50,8 @@ Downloader가 설치하기 전이라면 설치한다. 정식 Amazon Store에 있
 
 > 16강까지의 시간이 없는 관계로 unknown app이 안보이는 경우는 각자 구글링으로...
 
+------------
+
 ## IPTV SMARTERS APP 설치
 찾아본 결과 정식 구글 Store에는 있는 어플인데 Amazon에는 아직 Update가 안된 어플이다. 다른 경로로 설치가 가능하다.
 
