@@ -15,23 +15,27 @@ pin:
 
 ## 추천 영화 사이트
 
-#### 코리안즈 <https://a1.koreanz.xyz/>
+#### 코리안즈 <https://a36.koreanz.xyz/>
 ![site](/img/living/site/site1.jpg)
 
 최신영화 볼만한거 기준(캠버전 안올라옴)으로 잘 정리되어 있고 이용자의 평점도 잘 올라오는 편임. 가장 활용도가 높은 사이트
-> k20, k21... 주소가 지속적으로 바뀌고 있으니 접속이 안될시 숫자를 늘리거나 해외에서 접속 또는 VPN 사용후 접속하면 자동으로 바뀐 사이트로 연결됨<br>
+> a20, a21... 주소가 지속적으로 바뀌고 있으니 접속이 안될시 숫자를 늘리거나 해외에서 접속 또는 VPN 사용후 접속하면 자동으로 바뀐 사이트로 연결됨<br>
+- 최근 토렌트 서비스도 추가되었다.
+
 
 ## 추천 재방송 사이트
+
+#### 솜사탕 TV <https://www.somsatangv.com>
+![site](/img/living/site/site4.jpg)
+
+> 여러 소스를 선택하지 않고 간단하게 한번에 연결되는 게 장점임.
 
 #### 링크 천국  <https://www.hotword.site>
 ![site](/img/living/site/site3.jpg)
 
 > 여러 가지 다시 보기 사이트들을 모아놓은 사이트이다. 여기에서 본인에게 맞는 사이트로 들어가서 북마크 하면 되겠다.
 
-#### 솜사탕 TV <https://www.somsatangv.com>
-![site](/img/living/site/site4.jpg)
 
-> 여러 소스를 선택하지 않고 간단하게 한번에 연결되는 게 장점임.
 
 #### 타키 TV <https://t1.takitv.net/>
 ![site](/img/living/site/site2.jpg)

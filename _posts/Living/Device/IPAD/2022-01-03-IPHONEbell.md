@@ -1,5 +1,5 @@
 ---
-title: IPHONE Free Ringtone - 아이폰 순정 어플로만 벨소리 무료 변경법(feat. 화면저장, 사진, 단축어, GarageBand)
+title: iPhone Free Ringtone - 아이폰 순정 어플로만 벨소리 무료 변경법(feat. 화면저장, 사진, 단축어, GarageBand)
 author: FlyingDeuk
 date: 2022-01-03
 categories: [Living]
