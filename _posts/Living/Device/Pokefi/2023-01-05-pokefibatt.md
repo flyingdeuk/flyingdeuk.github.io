@@ -1,5 +1,5 @@
 ---
-title: Pokefi Battery Replacement by DIY - 포케파이 배터리 자가교체 (Feat. Lithium Polymer Battery, SY300-1)
+title: Pokefi Battery Replacement by DIY - 포켓파이 배터리 자가교체 (Feat. Lithium Polymer Battery, SY300-1)
 author: FlyingDeuk
 date: 2023-01-05
 categories: [Living]
@@ -13,6 +13,10 @@ pin:
 > 정말 잘 사용했다. USIM이 아니라 Wifi Router 방식으로 동시에 여러명이 같이 사용할 수 있는 장점이 있다. 문제는 배터리였다. 이제는 배터리가 뚱뚱해지다가 못해 켜지고 바로 꺼진다.
 
 공홈에서는 터무니없이 비싼 가격이다. 8만원정도... 공동구매도 안되고 배터리만 구매도 안된다. 충전기 팩만 구매가 가능하단다...
+
+### `무엇보다 중요한 것은 정품배터리가 아닌 경우 모든 책임은 본인에게 있다는 것이다. 개인적으로 해본 것에 대한 내용을 경험차원에서 적는 것이니 만큼 선택은 개인의 몫이다. 내 포켓파이에 대한 책임은 내게 있듯이...`
+
+---------
 
 ### Li-Polymer 배터리 구매
 알리 판매자와도 이야기해보고 여러 경로를 통해서 유사한 배터리 팩을 구매하려고 했지만 없었다. 그래서 가장 원초적인 방법으로 전선연결이라도 해보자는 마음으로 도전~~~
