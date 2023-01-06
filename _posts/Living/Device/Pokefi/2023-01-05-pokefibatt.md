@@ -1,0 +1,88 @@
+---
+title: Pokefi Battery Replacement by DIY - 포케파이 배터리 자가교체 (Feat. Lithium Polymer Battery, SY300-1)
+author: FlyingDeuk
+date: 2023-01-05
+categories: [Living]
+tags: [usefulthing, pokefi, wifi, battery]
+pin:
+---
+
+![Pokefi](/img/living/pokefi/pokefibatt1.jpg)
+
+`FlyingDeuk's`
+> 정말 잘 사용했다. USIM이 아니라 Wifi Router 방식으로 동시에 여러명이 같이 사용할 수 있는 장점이 있다. 문제는 배터리였다. 이제는 배터리가 뚱뚱해지다가 못해 켜지고 바로 꺼진다.
+
+공홈에서는 터무니없이 비싼 가격이다. 8만원정도... 공동구매도 안되고 배터리만 구매도 안된다. 충전기 팩만 구매가 가능하단다...
+
+### Li-Polymer 배터리 구매
+알리 판매자와도 이야기해보고 여러 경로를 통해서 유사한 배터리 팩을 구매하려고 했지만 없었다. 그래서 가장 원초적인 방법으로 전선연결이라도 해보자는 마음으로 도전~~~
+
+![Pokefi](/img/living/pokefi/pokefibatt2.jpg)
+- 3.8V, 3850mAh, Li-Polymer 이 조건만 충족하는 넘으로 검색...
+- 사실 GB 31241-2014 등등 다 해봤지만... 없다...
+
+**규격도 중요했다. 75 x 55 x 7 mm의 사이즈가 맞아야 커버를 닫을 수 있으니...**
+
+![Pokefi](/img/living/pokefi/pokefibatt9.jpg)
+- 규격 : 74 x 44.5 x 9.1 (약간 뚱뚱하다)
+- 3000mAh 이하는 용량이 너무 작고 이상은 들어가지 않는다. 최선의 사이즈
+- 배송비 포함 13500원!!!
+
+**알리에서도 같은 넘을 구매가 가능하다. 하지만 배터리 특성상 배송비 때문에 가격차이도 없고 KC 인증이 있고 없고는 중요한 문제이니 쿠*에서 구매함**
+
+----------
+
+### 배터리 장착
+배터리에는 접점이 3개 있다. 이 배터리는 선이 2개 뿐... 알리제품은 3개... 문제없단다... 하나는 온도측정 정도의 용도.. +,- 두개만 연결하면 문제없을 듯하여 도전...
+
+![Pokefi](/img/living/pokefi/pokefibatt11.jpg)
+- 커넥터를 잘라내고 피복을 벗기고 집에서 놀고 있던 압축 튜브를 사용해 본다. -> 압축튜브 사이즈가 켜서 도움은 안되지만 어쨌든 너무 작은 공간에 절연테이프는 너무 어려울 것같아서...
+
+![Pokefi](/img/living/pokefi/pokefibatt3.jpg)
+- 빨간색 : +
+- 검정색 : - (GND)
+- 가능하면 고리 안쪽에서 바깥쪽으로 빼서 합선을 방지한다.
+
+![Pokefi](/img/living/pokefi/pokefibatt4.jpg)
+- 일단은 테스트... 켜지는지... 잘된다...!!!
+
+![Pokefi](/img/living/pokefi/pokefibatt5.jpg)
+- 50% 배터리를 지시한다.
+
+![Pokefi](/img/living/pokefi/pokefibatt8.jpg)
+- 잘 작동하니 마무리한다. 라이터 불로 압축튜브를 압축시켜 합선이 안되게 잘 정리한다.
+
+![Pokefi](/img/living/pokefi/pokefibatt7.jpg)
+- 왼쪽에 배치 : 뚜껑 한쪽이 안 닫힌다.
+- 중앙에 배치 : 간신히 닫힌다.
+
+![Pokefi](/img/living/pokefi/pokefibatt10.jpg)
+- 배터리 교체전 부푼 배터리만큼 부푼듯한 모습...
+- 하지만 잘 켜지고 문제없다. 충전만 잘 된다면...
+
+-------
+
+### 작동 테스트
+마지막 테스트만 통과하면 될 듯... 배터리 사용시간과 충전이 잘되면 끝이다.
+
+![Pokefi](/img/living/pokefi/pokefibatt6.jpg)
+- 잘 켜지고 배터리는 50%를 지시한다. 이제 충전만 잘 되면 된다.
+
+![Pokefi](/img/living/pokefi/pokefibatt12.jpg)
+- 블로그 작성하면서 거의 한시간정도 충전해 놓았다...
+- 충전량이 50%에서 늘지 않는다... 이런...
+
+**그래서 찾아봤다**
+
+![Pokefi](/img/living/pokefi/pokefibatt13.jpg)
+- 배터리 잔량 표시는 정해진 Voltage를 기준으로 산정한다. 즉 3.8V의 배터리에 3.7V 배터리를 연결했으니 지시치는 50%정도로 지시할 수 있다.
+
+**그래서 방전까지의 시간도 측정해보고 충전 테스트도 해볼 생각이다** -> 현재 2시간째 사용중인데 아직도 50%이다.
+
+
+--------------
+
+#### PostScript
+수년간의 가족과의 해외여행, 부모님의 12일짜리 유럽여행에서 정말 잘 사용해왔던 기기이다. 테스트가 완료되고나면 코로나의 종식과 함께 여행을 같이하게 되기를 기원하며...
+
+[INDEX로 돌아가기](/posts/pokefi/)
