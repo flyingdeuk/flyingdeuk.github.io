@@ -43,7 +43,11 @@ M3U 파일은, 하나, 또는 여러 개의 미디어 파일의 패스를 플레
 
 ![nplayer](/img/living/ipad/nplayer5.jpg)
 - 기존에 포스틍했던 IPTV의 주소를 넣어준다. 이름은 알아서
-- #### https://iptv-org.github.io/iptv/countries/kr.m3u
+- 내가 관리하는 백업 주소 : https://flyingdeuk.github.io/kodi/deuktv.m3u
+
+- 해당 포스팅 : [Korean IPTV m3u File - 한국 IPTV m3u 백업 파일](/posts/IPTVm3u)
+
+- 과거 주소 : https://iptv-org.github.io/iptv/countries/kr.m3u
 
 ![nplayer](/img/living/ipad/nplayer6.jpg)
 - 입력된 주소를 확인이 가능하며 누르면 재생이 된다.

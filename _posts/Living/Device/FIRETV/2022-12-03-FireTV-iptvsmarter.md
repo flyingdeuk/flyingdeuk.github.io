@@ -86,8 +86,14 @@ Downloader가 설치하기 전이라면 설치한다. 정식 Amazon Store에 있
 
 ![fire](/img/living/fire/smarter14.jpg)
 - 이전에 포스팅했던 IPTV 목록의 URL을 적어준다. -> 채널 리스트가 바뀔때마다 업데이트 되는지 여부는 아직 Test 못해봤다. (KODI는 잘 되는데...)
+- 내가 관리하는 백업 주소 : https://flyingdeuk.github.io/kodi/deuktv.m3u
+
+- 해당 포스팅 : [Korean IPTV m3u File - 한국 IPTV m3u 백업 파일](/posts/IPTVm3u)
+
+> 과거 주소 : https://iptv-org.github.io/iptv/countries/kr.m3u
 
 ![fire](/img/living/fire/smarter15.jpg)
+
 - 위와 같이 정보를 다 넣어주고나서 **ADD USER**
 
 ![fire](/img/living/fire/smarter16.jpg)
