@@ -320,7 +320,11 @@ KODI Official Repository에서 지원되는 Addon이라 다른 경로 설정은 
 ![iptv](/img/living/kodi/kodi_iptv7.jpg)
 > **원격 경로**로 둔 상태로 주소입력 <br>
 m3u는 특성상 자주 변경되며 느려지거나 끊길 수 있음... <br>
-현재 잘 되는 주소 : **https://iptv-org.github.io/iptv/countries/kr.m3u**
+내가 관리하는 백업 주소 : https://flyingdeuk.github.io/kodi/deuktv.m3u
+
+- 해당 포스팅 : [Korean IPTV m3u File - 한국 IPTV m3u 백업 파일](/posts/IPTVm3u)
+
+> 과거 주소 : https://iptv-org.github.io/iptv/countries/kr.m3u
 
 #### PVR Simple Client 사용법
 
