@@ -169,8 +169,7 @@ KODI 기본 설정에서 설정한 내용에 a4kSubtiles를 지정해 주면 거
 
 ------
 
-## The Oath Addons
-설정 방식은 과거의 EXODUSVPN과 유사하다. 느낌은 EXODUSVPN의 새로운 버전인 듯 하다.
+## The Crew Addons
 
 ## 설정 진입법 (공통)
 해당되는 Addon ICON위에서 리모컨의 **선택** 버튼을 길게 또는  키보드의 **엔터**를 길게 또는 **마우스 오른쪽 버튼** 길게 누르고 설정 누름.
