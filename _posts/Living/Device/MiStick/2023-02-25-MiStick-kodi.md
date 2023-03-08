@@ -71,24 +71,10 @@ Opensource 즉 무료로 모든 것을 이용할 수 있다.
 
 ----------
 
-### KODI 에드온 설치 (flyingdeuk 저장소 연결)
+### 통합 저장소에서 압축 파일 설치(flyingdeuk)
+이전 포스팅에서 저장해 놓은 flyingdeuk Repository에서 필요한 압축 파일들을 한번에 설치가 가능하다. <br>
 
-![kodi_addsrc0](/img/living/kodi/kodi_addsrc0.jpg)
-> **설정** 화면에서 **파일관리자**로 이동 <br>
-
-![kodi_addsrc](/img/living/kodi/kodi_addsrc.jpg)
-> **소스추가**를 눌러서 경로를 추가한다.
-
-![kodi_addsrc1](/img/living/kodi/kodi_addsrc1.jpg)
-> **없음**을 눌러 경로를 수기로 입력한다. <br>
-
-![kodi_addsrc2](/img/living/kodi/kodi_addsrc2.jpg)
-
-저장소 주소 : **https://flyingdeuk.github.io/kodi**
-
-이름 **KODI**로 자동 들어가며 확인으로 완료!!!
-
-### 압축 파일에서 설치
+- **[KODI Addons flyingdeuk Repository Setup - 에드온 내 저장소 연결법](/posts/KODI-addon/)** 참조
 
 ![kodi_addon](/img/living/kodi/kodi_setup_main_addon.jpg)
 
@@ -106,8 +92,8 @@ Opensource 즉 무료로 모든 것을 이용할 수 있다.
 ![kodi_addon](/img/living/kodi/kodi_flyingdeuk1.jpg)
 > flyingdeuk addon 저장소 이름 **kodi**로 진입 <br>
 
-![kodi_addon](/img/living/kodi/oath8.jpg)
-- **repository host505** : The Oath 에드온을 설치하기 위한 저장소
+![kodi_addon](/img/living/kodi/thecrew1.jpg)
+- **repository.thecrew** : thecrew 에드온을 설치하기 위한 저장소
 - **a4kSubtiles repository** : 자막 에드온을 설치하기 위한 저장소
 
 두가지를 다 설치해준다.
@@ -116,21 +102,20 @@ Opensource 즉 무료로 모든 것을 이용할 수 있다.
 
 ### 저장소에서 설치
 
-#### The Oath 설치
-host505 저장소를 설치했으니 저장소에서 설치로 들어간다.
+#### TheCrew 설치
+TheCrew 저장소를 설치했으니 저장소에서 설치로 들어간다.
 
 ![kodi_addon](/img/living/kodi/oath10.jpg)
 > **저장소에서 설치** 선택 <br>
 
-![kodi_addon](/img/living/kodi/oath11.jpg)
-> **host505 repo** 저장소를 선택한다.
+![kodi_addon](/img/living/kodi/thecrew13.jpg)
+> **THECREW REPO** 저장소를 선택한다.
 
-![kodi_addon](/img/living/kodi/oath12.jpg)
+![kodi_addon](/img/living/kodi/thecrew14.jpg)
 > **비디오 에드온** 선택
 
-![kodi_addon](/img/living/kodi/oath14.jpg)
-![kodi_addon](/img/living/kodi/oath15.jpg)
-> **TheOath**를 선택하고 설치를 진행한다.
+![kodi_addon](/img/living/kodi/thecrew15.jpg)
+> **Thethecrew**를 선택하고 설치를 진행한다.
 
 ![kodi_addon](/img/living/kodi/oath16.jpg)
 > **확인**을 누르면 좌측에 있는 필요 프로그램들이 설치된다.
@@ -139,6 +124,7 @@ host505 저장소를 설치했으니 저장소에서 설치로 들어간다.
 
 #### a4kSubtiles 설치
 a4kSubtiles 저장소를 설치했으니 다시 저장소에서 설치부터 시작하면됨.
+> 기존에 설치한 적이 있는 경우는 PASS~~~
 
 ![kodi_addon](/img/living/kodi/oath10.jpg)
 > 다시 **저장소에서 설치** 부터 진행한다.
@@ -156,12 +142,13 @@ a4kSubtiles 저장소를 설치했으니 다시 저장소에서 설치부터 시
 ![kodi_addon](/img/living/kodi/oath21.jpg)
 > **확인**을 눌러 설치
 
-이렇게 TheOath와 a4kSubtiles을 설치는 완료가 된다.
+이렇게 thecrew와 a4kSubtiles을 설치는 완료가 된다.
 
 ---------
 
-#### 자막 설정 추가
+##### 자막 설정 추가
 자막 서비스를 설정해주면 더 확실하게 자막을 찾아준다.
+> 과거 한번이라도 설정해 주었다면 PASS~~~
 
 ![kodi_addon](/img/living/kodi/kodi_a4k.jpg)
 > **설정** -> **플레이어** -> **언어**
@@ -185,41 +172,50 @@ KODI 기본 설정에서 설정한 내용에 a4kSubtiles를 지정해 주면 거
 ## The Oath Addons
 설정 방식은 과거의 EXODUSVPN과 유사하다. 느낌은 EXODUSVPN의 새로운 버전인 듯 하다.
 
+## 설정 진입법 (공통)
+해당되는 Addon ICON위에서 리모컨의 **선택** 버튼을 길게 또는  키보드의 **엔터**를 길게 또는 **마우스 오른쪽 버튼** 길게 누르고 설정 누름.
+![thecrew](/img/living/kodi/thecrew7.jpg)
+
+>에드온별 개별 설정이 있다는 거 자체를 몰랐었다... 진입 방법이 중요한 이유~~~
+
+## TheCrew Addons
+설정 방식은 과거의 ThePromise와 유사하다.
+
 ### 기본 설정법
 **해당 ICON 선택 버튼을 길게 눌러 진입!!!**
 
-![kodi_addon](/img/living/kodi/oath22.jpg)
-> **TheOath** 아이콘을 길게 누름
+![kodi_addon](/img/living/kodi/thecrew2.jpg)
+> **Thethecrew** 아이콘을 길게 누름
 
-![kodi_addon](/img/living/kodi/oath23.jpg)
+![kodi_addon](/img/living/kodi/thecrew8.jpg)
 >**Genaral** - **Info Language** : Korean <br>
 영화의 기본 정보를 한국어로 제공해줌. 영화 기본정보, 배우, 인기도 등등...<br>
 TMDB(The Movies DataBase)라는 전세계 영화 정보 사이트에서 긁어온다.
 
-![kodi_addon](/img/living/kodi/oath24.jpg)
+![kodi_addon](/img/living/kodi/thecrew10.jpg)
 > 마지막에 있는 **Subtitles** 에 설정을 위와 같이 해준다.
 - **Pri/Sec Language** : Korean으로 통일 또는 선택...
 - **Convert subtiles to UTF-8** : 한글의 깨짐을 방지하기 위해서 포멧 통일
-- **Show notification** : 자막 다운을 알려줌.
 
 상기의 설정만 해주면 사용하는 데 문제가 없다. 다른 설정들은 한번 살펴보면됨.
 
 ### 기본 사용법
 사용법은 어렵지 않으나 옵션등을 잘 사용하면 원하는 영화를 검색이 가능하다.
 
-![kodi_addon](/img/living/kodi/oath2.jpg)
-> TheOath 에드온을 실행하자.
+![kodi_addon](/img/living/kodi/thecrew6.jpg)
+> TheCrew 에드온을 실행하자.
 
-첫화면은 여러가지 메뉴로 보이지만 결국은 Movies는 영화, Episode는 미드를 의미함. <br>
+첫화면은 여러가지 메뉴로 보이지만 결국은 Movies는 영화, TV Shows는 드라마등등을 의미함. <br>
 
-![kodi_addon](/img/living/kodi/oath25.jpg)
+![kodi_addon](/img/living/kodi/thecrew5.jpg)
 - Movies : genre, year, language등의 분류로 개별 분류가 되어있음. (language에서 **Korean**선택하면 한국영화도 많이 있음)
 - TV Shows : TV 프로그램, 미드등의 genre, year, language등의 분류로 개별 분류가 되어있음.
-- **New Movies, Episodes : 새로 올라온 것들이나 위의 Movies, TV Shows의 year에서 2021을 선택하는 것이 최신 게시물을 더 쉽게 찾는 방법임.**
+- **New Movies, Episodes : 새로 올라온 것들이나 위의 Movies, TV Shows의 year에서 2022을 선택하는 것이 최신 게시물을 더 쉽게 찾는 방법임.**
 - Search : 다양한 방법으로 검색이 가능하다. (영화, 배우, 장소 등등...)
 
-![kodi_addon](/img/living/kodi/oath26.jpg)
+![kodi_addon](/img/living/kodi/thecrew4.jpg)
 > **New Movies** 선택하면 인터넷 상에 있는 최신 영화들의 리스트를 긁어 온다.
+- 얼마전 향수를 느낄 수 있었던 탑건을....
 
 #### 보기 형식 전환법
 영화 리스트가 나오는 화면에서 왼쪽으로 화살표를 누르거나 왼쪽 아래 옵션을 눌러주면 보기형식을 바꾸어 줄 수 있다.
@@ -241,10 +237,11 @@ TMDB(The Movies DataBase)라는 전세계 영화 정보 사이트에서 긁어�
 #### 리스트의 의미
 인터넷에서 정보를 끌어오는 것이라 시간이 조금 걸림. (무료인 이유)
 
-![kodi_addon](/img/living/kodi/oath31.jpg)
+![kodi_addon](/img/living/kodi/thecrew3.jpg)
 > 영화선택하면 Provider 이름과 정보를 보이며 시간이 다소 걸림. (Torrent, 서버등을 기준으로 Streaming을 제공하는 사이트를 검색하는 데...) <br>
 
 `화질 / 제공자 이름 / 미디어 제공 사이트` 의 형태로 정보가 제공되고 잘 나오는 것을 선택
+
 
 #### 재생 중 옵션 선택
 기본적으로 화살표를 누르면 10초에서 30초등으로 빨리감기가 가능하다.
