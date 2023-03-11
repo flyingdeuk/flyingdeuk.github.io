@@ -29,6 +29,8 @@ pin:
 
 - #### [Github - Atom Editor 사용하기](/posts/Github-Atom/)
 
+- #### [Github Pages - Visual Studio Code Editor로 이사하기 (새로운 컴에 설정하기)](/posts/Github-vscode/)
+
 ### Typora Editor
 간단한 Markdown Editor를 사용해 보기도 했다.
 
