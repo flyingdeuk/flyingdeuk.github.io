@@ -15,6 +15,8 @@ pin:
 
 #### [RKSS(GMP) - 한국 서울(김포 공항)](/posts/RKSS-GMP/)
 
+#### [RKPK(PUS) - 한국 부산(김해 공항)](/posts/RKPK-PUS/)
+
 -------
 
 ## Japan
