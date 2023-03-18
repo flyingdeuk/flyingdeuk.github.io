@@ -55,6 +55,8 @@ pin:
 
 - #### [Raspberry Pi FTP - 라즈베리파이 ftp 파일서버로 사용하기(by vsftpd)](/posts/Pi-ftp/)
 
+- #### [Raspberry Pi SAMBA - 라즈베리파이 SAMBA 파일서버로 사용하기(by samba)](/posts/Pi-samba/)
+
 - #### [Raspberry Pi transmission - 라즈베리파이 토렌트(Torrent) 머신으로 사용하기(by transmission-daemon)](/posts/Pi-trans/)
   ##### - [Raspberry Pi transmission - Transmission-Daemon 소유권(권한) 문제 해결법](/posts/Pi-trans-own/)
 
