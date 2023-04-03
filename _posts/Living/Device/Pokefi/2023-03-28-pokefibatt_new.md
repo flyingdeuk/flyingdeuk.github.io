@@ -1,5 +1,6 @@
 ---
-title: Pokefi Battery Replacement by DIY - 포켓파이 배터리 자가교체 성공기 (Feat. wifi batt)author: FlyingDeuk
+title: Pokefi Battery Replacement by DIY - 포켓파이 배터리 자가교체 성공기 (Feat. wifi batt)
+author: FlyingDeuk
 date: 2023-03-28
 categories: [Living]
 tags: [usefulthing, pokefi, wifi, battery, succeed]
