@@ -9,7 +9,7 @@ pin:
 
 ![Pokefi](/img/living/pokefi/pokefibatt1.jpg)
 
-### 실패기는 [Pokefi Battery Replacement by DIY - 포켓파이 배터리 자가교체 성공기 (Feat. wifi batt)](/posts/pokefibatt/) 에서 있다...
+### 실패기는 [Pokefi Battery Replacement by DIY - 포켓파이 배터리 자가교체 실패기 (Feat. Lithium Polymer Battery, SY300-1)](/posts/pokefibatt/) 에서 있다...
 
 
 `FlyingDeuk's`
