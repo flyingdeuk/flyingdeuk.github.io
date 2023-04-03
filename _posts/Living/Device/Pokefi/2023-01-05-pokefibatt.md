@@ -1,5 +1,5 @@
 ---
-title: Pokefi Battery Replacement by DIY - 포켓파이 배터리 자가교체 (Feat. Lithium Polymer Battery, SY300-1)
+title: Pokefi Battery Replacement by DIY - 포켓파이 배터리 자가교체 실패기 (Feat. Lithium Polymer Battery, SY300-1)
 author: FlyingDeuk
 date: 2023-01-05
 categories: [Living]
@@ -8,6 +8,9 @@ pin:
 ---
 
 ![Pokefi](/img/living/pokefi/pokefibatt1.jpg)
+
+### 성공기는 [Pokefi Battery Replacement by DIY - 포켓파이 배터리 자가교체 성공기 (Feat. wifi batt)](/posts/pokefibatt_new/) 에서 확인시길...
+ 
 
 `FlyingDeuk's`
 > 정말 잘 사용했다. USIM이 아니라 Wifi Router 방식으로 동시에 여러명이 같이 사용할 수 있는 장점이 있다. 문제는 배터리였다. 이제는 배터리가 뚱뚱해지다가 못해 켜지고 바로 꺼진다.
