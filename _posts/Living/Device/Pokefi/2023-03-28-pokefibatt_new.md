@@ -1,33 +1,27 @@
 ---
-title: Pokefi Battery Replacement by DIY - 포켓파이 배터리 자가교체 (Feat. Lithium Polymer Battery, SY300-1)
-author: FlyingDeuk
-date: 2023-01-05
+title: Pokefi Battery Replacement by DIY - 포켓파이 배터리 자가교체 성공기 (Feat. wifi batt)author: FlyingDeuk
+date: 2023-03-28
 categories: [Living]
-tags: [usefulthing, pokefi, wifi, battery]
+tags: [usefulthing, pokefi, wifi, battery, succeed]
 pin:
 ---
 
 ![Pokefi](/img/living/pokefi/pokefibatt1.jpg)
 
 `FlyingDeuk's`
-> 정말 잘 사용했다. USIM이 아니라 Wifi Router 방식으로 동시에 여러명이 같이 사용할 수 있는 장점이 있다. 문제는 배터리였다. 이제는 배터리가 뚱뚱해지다가 못해 켜지고 바로 꺼진다.
+> 이전 포스팅에서 실패한 이후에 성공을 했다. 어떻게 보면 당연히 될 방법으로 테스트후 성공했다... 정품 배터리의 조금은 다른 설정이 있지 않을까...
 
-공홈에서는 터무니없이 비싼 가격이다. 8만원정도... 공동구매도 안되고 배터리만 구매도 안된다. 충전기 팩만 구매가 가능하단다...
+너무나 비싼 공홈의 가격에서 시작해서 조금은 저렴한 방법이 되겠다. 
 
 ### `무엇보다 중요한 것은 정품배터리가 아닌 경우 모든 책임은 본인에게 있다는 것이다. 개인적으로 해본 것에 대한 내용을 경험차원에서 적는 것이니 만큼 선택은 개인의 몫이다. 내 포켓파이에 대한 책임은 내게 있듯이...`
 
 ------
 
-## 테스트 결과
-
-### 보호 회로 때문인지 충전이 안된다... ㅠ.ㅠ 다른 방법 찾았다. !!!
-
-`충전이 안되는 이유가 보호회로가 아니라... 접지로 알고 있던 3극 연결이 안된 이유인 듯하다.`
+## 또 다른 방법
+`향수의 비법을 유명 브랜드에서 공개하지 안듯이 기기 회사도 그러지 않을까했지만... 비슷하다. `
 
 
-~~테스트 결과 사용에는 문제가 없는 듯하다.~~
-
-![Pokefi](/img/living/pokefi/pokefibatt18.jpg)
+![Pokefi](/img/living/pokefi/batt_new1.jpg)
 - 테스트를 위해서 계속 켜놓았다... 데이터 사용은 거의하지 않았지만 핸드폰하나는 연결해놓고 계속 켜놓았다.
 - 10시간까지 50% 배터리 그대로 켜놓아도 변화가 없다.
 - 17시간 경과 LTE가 꺼지긴 했지만 계속 켜진 상태를 유지한다. - 재부팅후 다시 데이터 사용에 문제가 없다.
