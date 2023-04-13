@@ -31,6 +31,8 @@ pin:
 
 #### [RJFR(KKJ) - 일본 기타큐슈(기타큐슈 공항)](/posts/RJFR-KKJ/)
 
+#### [RJGG(NGO) - 일본 나고야(주부 공항)](/posts/RJGG-NGO/)
+
 --------
 
 ## China
