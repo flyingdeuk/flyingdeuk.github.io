@@ -18,7 +18,7 @@ pin:
 <iframe width="640" height="360" src="https://flyingdeuk.github.io/img/living/review/ppress1.mp4"></iframe>
 
 
-<iframe width="640" height="360" src="/img/living/review/ppress1.mp4"></iframe>
+<iframe src="/img/living/review/ppress1.mp4"></iframe>
 
 
 `FlyingDeuk's`
