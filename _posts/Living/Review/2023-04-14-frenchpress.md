@@ -9,11 +9,11 @@ pin:
 
 ![press](/img/living/review/ppress1.jpg)
 
-![press](/img/living/review/ppress4.mov)
+![press](/img/living/review/ppress1.mp4)
 
-<iframe width="640" height="360" src="/img/living/review/ppress4.mov" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="/img/living/review/ppress1.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="640" height="360" src="https://flyingdeuk.github.io/img/living/review/ppress4.mov" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://flyingdeuk.github.io/img/living/review/ppress1.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 `FlyingDeuk's`
 > 지금까지 여러대의 에스프레소 머신을 경험해봤다. 드롱기, 일리 등등... 그중에 최근에 구매해서 2년 정도 사용중인 브레빌 870 머신이 베스트이다... 아마도 업소용 보일러 방식이 아닌 펌프식으론 이만한 제품이 없을 듯하다.
