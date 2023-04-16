@@ -13,6 +13,8 @@ pin:
 
 ![press](/img/living/review/ppress1.mov)
 
+![press](/img/living/review/ppress1.gif)
+
 `FlyingDeuk's`
 > 지금까지 여러대의 에스프레소 머신을 경험해봤다. 드롱기, 일리 등등... 그중에 최근에 구매해서 2년 정도 사용중인 브레빌 870 머신이 베스트이다... 아마도 업소용 보일러 방식이 아닌 펌프식으론 이만한 제품이 없을 듯하다.
 
