@@ -1,5 +1,5 @@
 ---
-title: French Press - 꾸덕꾸덕한 생크림같은 차가운 우유 거품으로 아인슈페너 홈카페 만드는 법 (Feat. Breville 870, 프렌치 프레스, 홈카페)
+title: French Press - 꾸덕꾸덕 밀도높은 생크림같은 우유 거품으로 아인슈페너 홈카페 만드는 법 (Feat. Breville 870, 프렌치 프레스, 홈카페)
 author: FlyingDeuk
 date: 2023-04-14
 categories: [Living, Review]
