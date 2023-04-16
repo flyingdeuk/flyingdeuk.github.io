@@ -1,5 +1,5 @@
 ---
-title: French Press - 꾸덕꾸덕한 생크림같은 차가운 우유 거품으로 아인스페너 홈카페 만드는 법 (Feat. Breville 870, 프렌치 프레스, 홈카페)
+title: French Press - 꾸덕꾸덕한 생크림같은 차가운 우유 거품으로 아인슈페너 홈카페 만드는 법 (Feat. Breville 870, 프렌치 프레스, 홈카페)
 author: FlyingDeuk
 date: 2023-04-14
 categories: [Living, Review]
@@ -16,7 +16,7 @@ pin:
 ![press](/img/living/review/ppress1-1.mov)
 
 
-<iframe width="640" height="360" src="https://flyingdeuk.github.io/img/living/review/ppress1.mp4" title="french press1" frameborder="0" allow="autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://flyingdeuk.github.io/img/living/review/ppress1.mp4" title="french press1" allowfullscreen></iframe>
 
 `FlyingDeuk's`
 > 지금까지 여러대의 에스프레소 머신을 경험해봤다. 드롱기, 일리 등등... 그중에 최근에 구매해서 2년 정도 사용중인 브레빌 870 머신이 베스트이다... 아마도 업소용 보일러 방식이 아닌 펌프식으론 이만한 제품이 없을 듯하다.
