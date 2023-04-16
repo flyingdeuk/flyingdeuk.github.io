@@ -13,6 +13,8 @@ pin:
 
 ![press](/img/living/review/ppress1.mov)
 
+![press](/img/living/review/ppress1-1.mov)
+
 ![press](/img/living/review/ppress1.gif)
 
 `FlyingDeuk's`
