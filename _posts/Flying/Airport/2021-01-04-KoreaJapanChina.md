@@ -39,6 +39,8 @@ pin:
 
 #### [ZSPD(PVG) - 중국 상하이(푸동 공항)](/posts/ZSPD-PVG/)
 
+#### [ZSSS(SHA) - 중국 상하이(홍차오 공항)](/posts/ZSSS-SHA/)
+
 #### [VHHH(HKG) - 중국 홍콩(홍콩 공항)](/posts/VHHH-HKG/)
 
 #### [ZGGG(CAN) - 중국 광저우(바이윈 공항)](/posts/ZGGG-CAN/)
