@@ -50,6 +50,11 @@ FAA, Canada 는 0900 UTC 기준 local time 0100 - 0600 사이를 기준으로하
 
 그래서 결론은 기술부서의 문의 결과와 동일하다고 하겠다. 
 
+-----------
+
+[AIRAC FMS Effective Date 변경 기준 쉽게 확인하고 적용하는 법 (Feat. JEPP FD Pro)](/posts/airac/)
+- FD PRO를 이용한 간단한 확인 및 적용법이 되겠다. 
+
 -------
 
 [INDEX로 돌아가기](/categories/flyingsense/)
