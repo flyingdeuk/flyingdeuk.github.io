@@ -1,5 +1,5 @@
 ---
-title: FMS Effective Date 변경 기준
+title: FMS Effective Date 변경 기준 (Feat. 대한항공 기술부서, Jeppesen)
 author: FlyingDeuk
 date: 2020-08-31
 categories: [Flying, FlyingSense]
@@ -7,12 +7,20 @@ tags: [flyingsense]
 pin:
 ---
 
+![ident](/img/flying/sense/ident.jpg)
+
 `FlyingDeuk's`
 > 항상 비행전 FMS Effective Date를 확인한다. <br>
 조종사마다 의견이 분분하나 기술부서의 문의 결과이다. <br>
 어디에서도 찾을 수 없었음. AIM, Jeppesen등등...
 
-![ident](/img/flying/sense/ident.jpg)
+`Namu Wiki's`
+> **Aeronautical Information Regulation And Control** <br>
+AIRAC 은 비행시 필요로 하는 데이터이다. 이 데이터 안에는 SID 와 STAR가 있다. 또한 활주로에 대한 정보도 포함되어있으며 ILS 주파수 또는 VORDME 도 포함되어있다. 이 정보들은 공항 또는 국가에서 항로 변경 또는 항로 수정, VOR포인트를 수정 했을경우 AIRAC에 정보가 올라간다. <br>
+이 데이터는 비행기 내부에있는 FMC (Flight Manager Computer)에서 사용이 된다. 구형 AIRAC Cycle를 쓰고 있는 항공기는 없지만 만약 있으면 분명히 차트에는 나오는 way point가 시현이 안 될수도 있다. <br>
+또한 이 데이터는 유효기간이 있으며 이 유효기간이 지났을 경우에는 사용이 불가능하며 비행경로계획에 문제가 생긴다. 실제 항공기에서는 AIRAC Cycle이 만료되기 전에 새로운 Cycle이 올라오게 되며 이 AIRAC Cycle을 비행기 FMC에 덮어쓰인다. AIRAC 이 만료되면 기내에 FMC에서 비행기 위치를 설정할때 nav data out of date라는 문구가 하단에 나타난다. 
+
+-----------
 
 ## AIRAC 당일 FMS NDB 변경 기준
 - 대부분의 국가는 AIRAC 당일 00 UTC 기준으로 항로 및 절차 변경을 적용 중이나,
