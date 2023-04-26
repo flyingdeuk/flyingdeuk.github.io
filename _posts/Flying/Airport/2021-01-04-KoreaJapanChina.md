@@ -41,6 +41,8 @@ pin:
 
 #### [ZSSS(SHA) - 중국 상하이(홍차오 공항)](/posts/ZSSS-SHA/)
 
+#### [ZSNJ(NKG) - 중국 난징(루커우 공항)](/posts/ZSNJ-NKG/)
+
 #### [VHHH(HKG) - 중국 홍콩(홍콩 공항)](/posts/VHHH-HKG/)
 
 #### [ZGGG(CAN) - 중국 광저우(바이윈 공항)](/posts/ZGGG-CAN/)
