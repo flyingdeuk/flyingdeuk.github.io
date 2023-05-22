@@ -48,3 +48,5 @@ pin:
 #### [ZGGG(CAN) - 중국 광저우(바이윈 공항)](/posts/ZGGG-CAN/)
 
 #### [ZHCC(CGO) - 중국 정저우(신정 공항)](/posts/ZHCC-CGO/)
+
+#### [ZSQD(TAO) - 중국 칭다오(자오동 공항)](/posts/ZSQD-TAO/)
