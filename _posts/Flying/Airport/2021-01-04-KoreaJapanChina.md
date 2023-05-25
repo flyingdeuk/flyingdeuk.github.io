@@ -11,13 +11,17 @@ pin:
 
 ## Korea
 
-#### [RKSI(ICN) - 한국 서울(인천 공항)](/posts/RKSI-ICN/)
+#### [RKSI(ICN) - 한국 서울(인천 국제공항)](/posts/RKSI-ICN/)
 
-#### [RKPC(CJU) - 한국 제주(제주 공항)](/posts/RKPC-CJU/)
+#### [RKPC(CJU) - 한국 제주(제주 국제공항)](/posts/RKPC-CJU/)
 
-#### [RKSS(GMP) - 한국 서울(김포 공항)](/posts/RKSS-GMP/)
+#### [RKSS(GMP) - 한국 서울(김포 국제공항)](/posts/RKSS-GMP/)
 
-#### [RKPK(PUS) - 한국 부산(김해 공항)](/posts/RKPK-PUS/)
+#### [RKPK(PUS) - 한국 부산(김해 국제공항)](/posts/RKPK-PUS/)
+
+#### [RKJJ(KWJ) - 한국 광주(광주 공항)](/posts/RKJJ-KWJ/)
+
+#### [RKTU(CJJ) - 한국 청주(청주 국제공항)](/posts/RKTU-CJJ/)
 
 -------
 
