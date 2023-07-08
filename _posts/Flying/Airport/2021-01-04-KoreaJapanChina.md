@@ -56,3 +56,5 @@ pin:
 #### [ZHCC(CGO) - 중국 정저우(신정 공항)](/posts/ZHCC-CGO/)
 
 #### [ZSQD(TAO) - 중국 칭다오(자오동 공항)](/posts/ZSQD-TAO/)
+
+#### [ZSQD(TAO) - 중국 선양(탸오쎈 공항)](/posts/ZYTX-SHE/)
