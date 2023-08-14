@@ -39,9 +39,13 @@ pin:
 
 #### [RJGG(NGO) - 일본 나고야(주부 공항)](/posts/RJGG-NGO/)
 
+#### [RJCC(CTS) - 일본 삿포로(뉴 치토세 공항)](/posts/RJCC-CTS/)
+
 --------
 
 ## China
+
+#### [ZBAA(PEK) - 중국 베이징(캐피털 공항)](/posts/ZBAA-PEK/)
 
 #### [ZSPD(PVG) - 중국 상하이(푸동 공항)](/posts/ZSPD-PVG/)
 
@@ -57,4 +61,7 @@ pin:
 
 #### [ZSQD(TAO) - 중국 칭다오(자오동 공항)](/posts/ZSQD-TAO/)
 
-#### [ZSQD(TAO) - 중국 선양(탸오쎈 공항)](/posts/ZYTX-SHE/)
+#### [ZYTX(SHE) - 중국 선양(탸오쎈 공항)](/posts/ZYTX-SHE/)
+
+#### [ZYYJ(YNJ) - 중국 옌지(옌지 공항)](/posts/ZYYJ-YNJ/)
+
