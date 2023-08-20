@@ -1,5 +1,5 @@
 ---
-title: Youtube Premium via PHILIPPINES (INDIA/Argentina/Turkey-결재 막힘) (Feat. OR-REH-05 한방 해결방법) <Updated 2023.8.20>
+title: Youtube Premium via PHILIPPINES (INDIA/Argentina/Turkey-결재 막힘) (Feat. OR-REH-05 한방 해결방법) <2023.8.19 Updated>
 author: FlyingDeuk
 date: 2023-08-19
 categories: [Living, Info]
