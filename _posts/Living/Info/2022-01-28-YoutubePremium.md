@@ -1,5 +1,5 @@
 ---
-title: Youtube Premium via INDIA or Argentina - 유튜브 프리미엄 저렴하게 인도 또는 아르헨티나 계정으로 가입하는 법 (Feat. Tunnelbear VPN, Gmail)
+title: Youtube Premium via INDIA or Argentina - 유튜브 프리미엄 저렴하게 인도 또는 아르헨티나 계정으로 가입하는 법 (Feat. Tunnelbear VPN, Gmail) -> 필리핀 가능 <Updated 2023.8.19>
 author: FlyingDeuk
 date: 2022-01-28
 categories: [Living, Info]
@@ -8,9 +8,11 @@ tags: [living, info, youtube, premium]
 
 ![premium](/img/living/info/premium.jpg)
 
-`최근 들어 인도계정은 약관이 변경되어 3개월마다 갱신해야 된다는 지인분의 조언으로... 더 저렴한 아르헨티나에 가입을 위해서는 아래 방법에서 인도 대신 아르헨티나를 선택하면 된다.`
+`최근 들어 가장저렴한 3개의 국가 인도, 아르헨티나, 투르키예는 결재카드가 해당국가 발행이 아닌 경우 결재가 안된다... 해결 방법은 아래 포스트로...`
 
-**또한 계정 막힘의 문제 역시 새로운 Premium 전용 계정를 만들어 Youtube 전용으로 사용하면 문제가 생길 시 언제든 이동이 가능하겠다.**
+### [Youtube Premium via PHILIPPINES (INDIA/Argentina/Turkey-결재 막힘) (Feat. OR-REH-05 한방 해결방법)](/posts/YoutubeProblem/)
+
+최초 시도인 분들은 아래의 방법으로 하되 국가를 필리핀으로 하면 된다.!!! 
 
 `FlyingDeuk's`
 > 요즘 한국에서 VPN을 이용한 인도 계정으로 저렴하게 YOUTUBE Premium을 이용하는 사람들이 많아졌고... 원래 유료 서비스가입을 좋아하지 않지만 YOUTUBE Music에 이끌리어 가입하게 되었다. 아래는 가장 간단한 방법으로 저렴하게 Premium가입하는 방법이다. <br>
@@ -114,6 +116,9 @@ VPN은 Virtual Protocol Network의 줄임말로 내 위치를 숨겨준다던지
 > **곰**이 땅굴을 파서 인도에 도착하면 연결 끝~~~!!! 귀엽게 잘 만들었다...ㅎㅎㅎ
 
 **이제 나는 인도 사람이요... 나는 인도에 있는 것이다...**
+
+### - [OpenVPN OvpnSpider - 전세계 VPN 무료로 사용하기 (for Mac, IOS, Android, Windows)](/posts/UsingVPN/) 
+- 다른 무료 VPN을 이용하고 싶다면 해당 포스팅 참조
 
 --------
 
