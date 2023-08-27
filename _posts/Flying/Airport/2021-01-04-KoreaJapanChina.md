@@ -65,3 +65,5 @@ pin:
 
 #### [ZYYJ(YNJ) - 중국 옌지(옌지 공항)](/posts/ZYYJ-YNJ/)
 
+#### [ZSHC(HGH) - 중국 황저우(샤오산 공항)](/posts/ZSHC-HGH/)
+
