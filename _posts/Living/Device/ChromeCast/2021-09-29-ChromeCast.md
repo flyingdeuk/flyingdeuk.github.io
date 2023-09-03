@@ -27,9 +27,12 @@ pin:
 - Puffin Browser : FIRE TV Silk browser와 거의 동일한 기능
 - Downloader : APP Store이외의 어플을 설치하기 위한 어플(KODI 설치를 위해...)
 - KODI : 무료의 완벽에 가까운 미디어 센터 (사실은 KODI설치가 핵심이라 하겠다. )
+- Silk Browser : 돌고돌아 다시 SilkBrowser로 왔다. 제일 추천되는 브라우져
 
 ![chrome](/img/living/chromecast/chromecast2.jpg)
->Downloader와 Puffin 의 설치에 대한 내용이 주임.
+>Downloader와 Puffin 의 설치에 대한 내용이 주임. 최근 도전한 Silk Browser가 제일 좋은 듯함. 
+
+--------
 
 ### INDEX
 기본적으로 YOUTUBE, Netflix의 설치 및 사용법은 생략했음
@@ -39,4 +42,7 @@ pin:
 #### - [ChromeCast with Google TV - Downloader 활용법 (알 수 없는 출저 해결법)](/posts/ChromeCast-downloader/)
 
 #### - [ChromeCast with Google TV - 크롬캐스트 KODI 설치법 (Feat. Downloader)](/posts/ChromeCast-kodi/)
->상기의 방법으로 설치된 **Downloader**앱을 이용해서 설치가능하다.
+- 상기의 방법으로 설치된 **Downloader**앱을 이용해서 설치가능하다.
+
+#### - [Xiaomi Mi TV Stick & ChromeCast with Google TV - 강력한 POPUP 차단 Silk Browser 설치 및 사용법 (Feat. Downloader, CX 파일탐색기)](/posts/Silk/)
+- 제일 강력한 FireTV 브라우져를 가져와 사용하기...
