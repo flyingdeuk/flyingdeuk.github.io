@@ -1,5 +1,5 @@
 ---
-title: Korean TV Movie Site - 한국 방송 영화 사이트 모음 <2023.10.10 Upadates>
+title: Korean TV Movie Site - 한국 방송 영화 사이트 모음 <2023.10.23 Updated>
 author: FlyingDeuk
 date: 2020-08-16 20:55:00 +0800
 categories: [Living, Site]
@@ -15,7 +15,7 @@ pin:
 
 ## 추천 영화 사이트
 
-#### 코리안즈 <https://a78.koreanz.org/>
+#### 코리안즈 <https://koreanz5.fun/>
 ![site](/img/living/site/site1.jpg)
 
 최신영화 볼만한거 기준(캠버전 안올라옴)으로 잘 정리되어 있고 이용자의 평점도 잘 올라오는 편임. 가장 활용도가 높은 사이트
