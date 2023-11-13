@@ -1,5 +1,5 @@
 ---
-title: Korean TV Movie Site - 한국 방송 영화 사이트 모음 <2023.10.23 Updated>
+title: Korean TV Movie Site - 한국 방송 영화 사이트 모음 <2023.11.13 Updated>
 author: FlyingDeuk
 date: 2020-08-16 20:55:00 +0800
 categories: [Living, Site]
@@ -15,7 +15,7 @@ pin:
 
 ## 추천 영화 사이트
 
-#### 코리안즈 <https://koreanz5.fun/>
+#### 코리안즈 <https://koreanz7.fun/>
 ![site](/img/living/site/site1.jpg)
 
 최신영화 볼만한거 기준(캠버전 안올라옴)으로 잘 정리되어 있고 이용자의 평점도 잘 올라오는 편임. 가장 활용도가 높은 사이트
@@ -26,7 +26,7 @@ pin:
 
 ## 추천 재방송 사이트
 
-#### 솜사탕 TV <https://www.somsatangv.us>
+#### 솜사탕 TV <https://www.somsatangv.net>
 ![site](/img/living/site/site4.jpg)
 
 > 여러 소스를 선택하지 않고 간단하게 한번에 연결되는 게 장점임. 성인 광고가 없어서 현재는 한국 방송 재방송 보는 데 가장 많이 이용하는 사이트 (단점은 화질이 좋지는 않다.)
