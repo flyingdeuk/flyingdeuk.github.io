@@ -68,3 +68,8 @@ pin:
 #### [ZSHC(HGH) - 중국 황저우(샤오산 공항)](/posts/ZSHC-HGH/)
 
 #### [ZLXY(XIY) - 중국 시안(시엔양 공항)](/posts/ZLXY-XIY/)
+
+#### [ZLXY(WEH) - 중국 웨이하이(따쉐이푸오 공항)](/posts/ZSWH-WEH/)
+
+#### [ZGHA(CSX) - 중국 창사(후앙후아 공항)](/posts/ZGHA-CSX/)
+
