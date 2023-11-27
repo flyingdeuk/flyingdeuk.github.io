@@ -32,6 +32,7 @@ Dispatcher에 의해서 작성 및 고려가 되나 이는 조종사의 검토�
 
 #### for pre-flight and/or in-flight planning
 ![alternate](/img/flying/sense/alternate1.jpg)
+
 이 규정은 교체공항을 선정하는 규정이다. 즉 비행을 위한 계획 FlightPlan의 Requirement라고 생각하면 된다.
 - for pre-flight : 지상 계획 단계에서 역시 상기의 Requirement가 충족해야 Plan 즉 항로를 정할 수 있는 것이다.
 - in-flight planning : 공중에서도 마찬가지이다. 즉각적인 Divert가 요구되는 상황이 아니면 지속적으로 교체공항의 상기 규정을 충족하는지 여부를 모니터하고 항로 수정등의 고려가 요구된다.
