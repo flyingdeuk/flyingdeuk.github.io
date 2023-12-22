@@ -1,5 +1,5 @@
 ---
-title: Fire TV Stick for Pilot - 파이어티비 조종사(해외거주자)를 위한 Fire TV 한방 설정법 (Feat. Netflix, YOUTUBE, Internet, Downloader, KODI)
+title: Fire TV Stick for Pilot - 파이어티비 조종사(해외거주자)를 위한 Fire TV 한방 설정법 (Feat. Netflix, YOUTUBE, Internet, Downloader, KODI) <2023.12.21 Updated>
 author: FlyingDeuk
 date: 2021-11-11 20:55:00 +0800
 categories: [Living]

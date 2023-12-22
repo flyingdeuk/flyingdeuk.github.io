@@ -1,5 +1,5 @@
 ---
-title: Fire TV Stick for Korea - 파이어티비 국내(한국) 사용자를 위한 Fire TV 한방 설정법 (Feat. Netflix, YOUTUBE, Internet, Downloader, KODI, 한국 OTT 서비스)
+title: Fire TV Stick for Korea - 파이어티비 국내(한국) 사용자를 위한 Fire TV 한방 설정법 (Feat. Netflix, YOUTUBE, Internet, Downloader, KODI, 한국 OTT 서비스) <2023.12.20 Updated>
 author: FlyingDeuk
 date: 2021-12-04 20:55:00 +0800
 categories: [Living]
@@ -637,7 +637,11 @@ Tving, Wavve, WATCHA, SPOTV, CoupangPlay 모두 동일한 방법
 Netflix 어플을 사용해도 되나 자막 자동 찾기등의 기능을 사용하기 위해서는 KODI 에드온을 사용해도 된다.
 
 #### 로그인
-계정에 로그인 정보 넣어서 사용하면됨.
+계정에 로그인 정보 넣어서 사용하면됨. 안되는 경우 아래 포스팅 참조
+
+- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 아이폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/post/KODI-netflixkey/) -> 아이폰은 해당 링크를 클릭하면된다. 
+
+- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 안드로이드폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/post/KODI-netflixkey1/) -> 안드로이드폰은 해당 링크를 클릭하면된다. 
 
 ![kodi_addon](/img/living/kodi/netflix_set.jpg)
 

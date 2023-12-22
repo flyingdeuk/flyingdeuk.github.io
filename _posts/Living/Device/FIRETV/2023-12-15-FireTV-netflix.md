@@ -25,12 +25,19 @@ pin:
 ## FireTV Netflix 계정공유 사용법
 해당 내용은 이미 FireTV를 사용하고 있다는 가정에서 시작한다. 그렇지 않는 경우는 해당 블로그에서 초기 사용법을 찾아보길 바란다. 
 
-- ### KODI 에드온 Netflix를 설치한 사용자라면 인증키 인증법만 보면됨. 
+### FireTV KODI Netflix 에드온을 이미 사용하고 있는 경우
+이전 포스팅들로 이미 한국 OTT 에드온을 설치한 사람이라면 아래의 포스팅만 보면 된다. 
 
-## 필수 어플 설치법
+- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 아이폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/post/KODI-netflixkey/) -> 아이폰은 해당 링크를 클릭하면된다. 
+
+- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 안드로이드폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/post/KODI-netflixkey1/) -> 안드로이드폰은 해당 링크를 클릭하면된다. 
+
+--------------
+
+## KODI 섪치를 위한 필수 어플 설치법
 Downloader와 KODI, KODI내 Netflix만 설치하면 된다. 
 
-### DOWNLOADER
+### DOWNLOADER 설치
 **KODI** 설치를 위해서는 반드시 필요한 프로그램 <br>
 INTERNET은 기본적으로 다운로드 기능이 없음. 그래서 파일을 다운받고 싶을 때는 이 어플을 이용해야함.
 
@@ -47,7 +54,7 @@ kodi뿐 아니라 인터넷 상에서 모든 형식의 파일을 다운로드하
 
 ------------
 
-## KODI
+## KODI 설치 
 한국 실시간 TV, 모든 회사의 무료 영화나 드라마 시리즈를 보기위해서는 KODI의 설치가 필요하다. <br>
 Opensource 즉 무료로 모든 것을 이용할 수 있다.
 
@@ -75,7 +82,7 @@ Opensource 즉 무료로 모든 것을 이용할 수 있다.
 -----------
 
 ### KODI 다운로드 (https://kodi.tv)
-Downloader 어플을 이용하면 된다. 최신 버전의 KODI 19.x를 설치한다.
+Downloader 어플을 이용하면 된다. 최신 버전의 KODI 20.x를 설치한다.
 
 ![fire](/img/living/fire/down3.jpg)
 >KODI 주소 입력!! **kodi.tv** 만 입력하면 됨<br>
@@ -87,10 +94,10 @@ Downloader 어플을 이용하면 된다. 최신 버전의 KODI 19.x를 설치�
 > FireTV는 안드로이드이니.. Android 선택
 
 ![old](/img/living/kodi/kodi19_2.jpg)
-> 최신 버전 KODI 19.x 32 비트를 선택해 줘야한다.
+> 최신 버전은 KODI 20.x로 **32 비트**를 선택해 줘야한다. (예전 포스팅 사진을 그대로 사용함.)
 
 ![fire](/img/living/fire/down4.jpg)
->Download 완료되면 자동으로 설치를 물어본다. 안되거나 문제가 생기면 **Files**에 저장이 된다.
+>Download 완료되면 자동으로 설치를 물어본다. 자동으로 **Files**에 저장이 된다.
 
 ----------
 
@@ -98,7 +105,7 @@ Downloader 어플을 이용하면 된다. 최신 버전의 KODI 19.x를 설치�
 설치를 완료하고 나면 실행한다.
 
 ![kodi_main](/img/living/kodi/kodi19.jpg)
-> 첫화면은 위와 같다.
+> 첫화면은 위와 같다. (19.xx 의 버전이나 최신은 20.xx이다.)
 
 ![kodi_set1](/img/living/kodi/kodi_set1.jpg)
 > **Home**화면... 초기에는 영어로 표시된다. <br>
@@ -158,13 +165,64 @@ Downloader 어플을 이용하면 된다. 최신 버전의 KODI 19.x를 설치�
 
 ----------
 
+### 저장소에서 압축 파일 설치
+위에서 설정한 flyingdeuk 저장소에서 압축 파일을 설치한다. 
+
+![kodi_addon](/img/living/kodi/kodi_setup_main_addon.jpg)
+
+>**설정** -> **에드온** <br>
+>저장소 설정을 다했으므로 에드온으로 바로 진입.
+
+![kodi_addon](/img/living/kodi/kodi_addon.jpg)
+
+- **저장소에서 설치** : 프로그래머가 작성한 저장소에서 설치
+- **압축화일에서 설치** : zip 화일(설치파일)로 직접 설치 <br>
+
+**압축화일에서 설치**로 진입
+
+![kodi_addon](/img/living/kodi/kodi_flyingdeuk1.jpg)
+> flyingdeuk addon 저장소 이름 **kodi**로 진입 <br>
+
+![kodi_addon](/img/living/kodi/kodi_flyingdeuk.jpg)
+>**repository nightrain_v19_public.zip** : KODI 19,20 모두 사용이 가능하다. 
+
+
+------------
+
+### 저장소에서 설치
+압축파일에서 zip를 설치하면 저장소에 해당 저장소가 설치된다.
+
+#### Korea OTT Package Addons 설치
+NightRain님이 작성해주신 저장소로 최신 업데이트가 잘 되고 있다.
+**한번에 모두 설치가 가능하다.**
+
+![kodi_addon](/img/living/kodi/kodi_addon.jpg)
+> **저장소에서 설치** 선택 <br>
+
+![kodi_addon](/img/living/kodi/ott.jpg)
+> **Korea OTT Package for KODI 19** -> **비디오 에드온** 으로 진입 <br> 한국 OTT 모두 설정후 사용이 가능하나 이번은 Netflix에 관련된 포스팅이니... 다른 OTT는 KODI 포스팅 참조
+
+![kodi_addon](/img/living/fire/kodinetflix1.jpg)
+> 넥플릭스를 설치한다. 
+
+
 -------
 
-#### PostScript
-COVID-19으로 호텔방에만 있다가 보니... FireTV의 인기가 좋다. 요즘엔 뉴욕이나 LA 타겟에도 SOLD OUT되는 경우가 많다. <br>
-오프라인이든 온라인이든 구매후 상기의 과정을 하나씩 따라하면 보고 싶은 영화나 미드등을 무료로 시청이가능하다. <br>
-더이상 다운로드해서 영상을 보는 시대는 끝난듯하다.
+### KODI Netflix 로그인 및 사용방법 
+아래의 링크로 본인의 핸드폰 기종에 따라 이후 로그인을 수행하면 된다. 
 
-많은 해외에서 고생하는 조종사들에게 조금이나마 도움이 되었으면 하는 맘으로 마무리한다.
+- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 아이폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/post/KODI-netflixkey/) -> 아이폰은 해당 링크를 클릭하면된다. 
+
+- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 안드로이드폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/post/KODI-netflixkey1/) -> 안드로이드폰은 해당 링크를 클릭하면된다. 
+
+---------
+
+#### PostScript
+본인은 직업의 특성상 해외에 체류를 많이 하는 것도 있고... 부모님에게 드린 공유계정이 막히게 되어 방법을 알아보았다. 추후 넷플릭스에서 또 어떤 방법을 사용할 지는 모르겠으나 일단 FireTV에서는 해당 방법으로 시청이 가능하다. 물론 Mobile Device는 공유계정의 제한을 받지않으니 문제가 없다...
+
+`테스트 결과 FireTV는 해당 방법으로 계정공유의 아이디로 사용이 가능하고 Xiaomi Mi Stick의 경우는 불가능하다. `
+
+>예전부터 우리나라 가전의 스마트기능이 성능도 좋지않고 해서 일반 비 스마트 TV (패널만 좋은...)를 구매후 FireTV를 스마트 기능으로 사용해왔다... 다시한번 이게 더 좋은 방법이라는 것이 입증된 듯... 스마트 TV에서는 상기의 방법이 불가능하기 때문이다...
+
 
 [INDEX로 돌아가기](/posts/FireTV/)

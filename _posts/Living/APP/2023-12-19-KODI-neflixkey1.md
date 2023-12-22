@@ -1,5 +1,5 @@
 ---
-title: KODI Netflix Addon 인증키로 로그인하는 법 By 아이폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey) <2023.12.19 Updated>
+title: KODI Netflix Addon 인증키로 로그인하는 법 By 안드로이드폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey) <2023.12.19 Updated>
 author: FlyingDeuk
 date: 2023-12-19 
 categories: [Living]
@@ -10,13 +10,13 @@ pin:
 ![netlfix](/img/living/kodi/netflixkey.jpg)
 
 `FlyingDeuk's`
-> FireTV에 KODI 설치후 Netflix 에드온을 사용시 로그인 문제 해결을 위한 인증키로 로그인하는 방법이다. 아이폰을 활용한 방법!!! 
+> FireTV에 KODI 설치후 Netflix 에드온을 사용시 로그인 문제 해결을 위한 인증키로 로그인하는 방법이다. 삼성등의 안드로이드폰을 활용한 방법!!! 
 
 >Xiaomi Mi Stick에도 설치해봤으나 되지 않는다. FireTV만 가능한 방법이다.
 
 `이는 FireTV에서 Netflix 계정공유 제한을 무력화시키는 방법이다.`
 
-- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 안드로이드폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/post/KODI-netflixkey1/) -> 안드로이드폰은 해당 링크를 클릭하면된다. 
+- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 아이폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/post/KODI-netflixkey/) -> 아이폰은 해당 링크를 클릭하면된다. 
 
 -----------------
 
@@ -94,39 +94,38 @@ Netflix에 아이디를 이메일 대신 인증키의 형식으로 저장하는 
 
 -----------------
 
-## 아이폰 -> FireTV 인증키 전송법
+## 안드로이드폰 -> FireTV 인증키 전송법
 두가지 기기에 대해서 테스트를 완료했다. 본인이 가지고 있는 기종 것만 참고하면 된다.
 
 -----------
 
-### Documents 어플 활용
+### CX 파일 탐색기 어플 활용
 
-![netlfix](/img/living/kodi/netflixkey22.jpg)
+![netlfix](/img/living/kodi/netflixkey1-1.jpg)
 - 다른 어플도 있을 수 있으나 파일관리 및 서버기능을 포함하는 추천 어플로 해 보았다. 
 
-![netlfix](/img/living/kodi/netflixkey17.jpg)
-- 아이폰으로 옮긴 NFAuthenticationKey 파일을 공유로 Documents 어플로 열어 저장해준다. 설정에 따라 다르겠지만 통상은 Download 폴더에 저장이 된다. 
+![netlfix](/img/living/kodi/netflixkey1-2.jpg)
+- 안드로이드폰내의 다운로드 폴더에 NFAuthenticationKey 파일을 저장해 준다.  
 
-![netlfix](/img/living/kodi/netflixkey18.jpg)
-- 해당 폴더에 옮겨진 파일을 볼수 있다. 
+![netlfix](/img/living/kodi/netflixkey1-3.jpg)
+- 다운로드에 파일을 확인해 준뒤...
 
-![netlfix](/img/living/kodi/netflixkey16.jpg)
-- 화면 상단에 점으로 표시된 설정 버튼을 눌러준다. 
 
-![netlfix](/img/living/kodi/netflixkey19.jpg)
-- 설정 중에 아이폰을 웹 서버로 활용할 수 있는 "Start WebDAV Server"를 눌러준다. 
+![netlfix](/img/living/kodi/netflixkey1-4.jpg)
+- 네트워크 기능중에 "네트워크 액세스"를 눌러준다. 
 
-![netlfix](/img/living/kodi/netflixkey20.jpg)
-- ID/Password를 아무거나 정해주고 "Start WebDAV Server"를 눌러서 시작해준다. 
+![netlfix](/img/living/kodi/netflixkey1-5.jpg)
+- 포트나 비밀번호는 알아서 정해준 뒤 시작을 눌러준다. 
+
 
 `이는 가정내에서 같은 공유기를 사용하는 경우 가능하다.`
 
-![netlfix](/img/living/kodi/netflixkey21.jpg)
-- 웹서버 방식은 WebDAV라는 방식이고 주소는 아래와 같다. 통상 아이폰이 공유기로 부터 받은 IP 주소가 서버주소가 된다.
+![netlfix](/img/living/kodi/netflixkey1-6.jpg)
+- FTP서버 방식에 주소는 위와 같다. 통상 안드로이드폰이 공유기로 부터 받은 IP 주소가 서버주소가 된다.
 
 ------------
 
-### 아이폰 -> FireTV 전송법
+### 안드로이드폰 -> FireTV 전송법
 FireTV에서 파일에 접근하는 방법이다. 
 
 ![netlfix](/img/living/kodi/netflixkey23.jpg)
@@ -144,17 +143,17 @@ FireTV에서 파일에 접근하는 방법이다.
 ![netlfix](/img/living/kodi/netflixkey27.jpg)
 - "네트워크 위치 추가"를 눌러주고 확인을 눌러준다. 
 
-![netlfix](/img/living/kodi/netflixkey28.jpg)
-- 오른쪽의 작은 화살표를 눌러 아이폰의 네트워크 형식에 맞는 WebDAV를 선택해주고 아이폰의 Documents의 주소와 암호를 넣어준다. 
+![netlfix](/img/living/kodi/netflixkey30.jpg)
+- 오른쪽의 작은 화살표를 눌러 안드로이드폰의 네트워크 형식에 맞는 FTP서버를 선택해주고 위의 주소와 암호를 넣어준다. 
 
 ![netlfix](/img/living/kodi/netflixkey29.jpg)
 - 주소는 숫자만을 입력해주면 된다. http://는 생략!!!
-    - 사용자명, 비밀번호를 넣어주면 된다. 
+    - 사용자명, 비밀번호, 포트번호를 넣어주면 된다. 
 
-![netlfix](/img/living/kodi/netflixkey33.jpg)
+![netlfix](/img/living/kodi/netflixkey31.jpg)
 - 저장된 방식을 확인해주고...
 
-![netlfix](/img/living/kodi/netflixkey34.jpg)
+![netlfix](/img/living/kodi/netflixkey32.jpg)
 - 이름을 지정해주면 네트워크 소스가 추가된다. 
 
 --------------
@@ -167,13 +166,16 @@ FireTV에서 파일에 접근하는 방법이다.
 ![netlfix](/img/living/kodi/netflixkey5.jpg)
 - 인증키 로그인을 선택.
 
-![netlfix](/img/living/kodi/netflixkey40.jpg)
-- 위에서 설정한 WebDAV 방식의 주소를 선택
+![netlfix](/img/living/kodi/netflixkey36.jpg)
+- 위에서 설정한 FTP 방식의 주소를 선택
 
-![netlfix](/img/living/kodi/netflixkey41.jpg)
-- Key를 받은 Documents 어플에 연결되어 폴더가 포시된다. 
+![netlfix](/img/living/kodi/netflixkey37.jpg)
+- Key를 받은 핸드폰 기본 저장소 device를 선택. 
 
-![netlfix](/img/living/kodi/netflixkey42.jpg)
+![netlfix](/img/living/kodi/netflixkey38.jpg)
+- 여러 폴더중에서 Download를 선택. 
+
+![netlfix](/img/living/kodi/netflixkey39.jpg)
 - NFAuthencation Key를 선택해준다. 
 
 ![netlfix](/img/living/kodi/netflixkey43.jpg)
