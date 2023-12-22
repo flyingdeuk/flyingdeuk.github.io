@@ -16,7 +16,7 @@ pin:
 
 `이는 FireTV에서 Netflix 계정공유 제한을 무력화시키는 방법이다.`
 
-- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 아이폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/post/KODI-netflixkey/) -> 아이폰은 해당 링크를 클릭하면된다. 
+- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 아이폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/posts/KODI-netflixkey/) -> 아이폰은 해당 링크를 클릭하면된다. 
 
 -----------------
 

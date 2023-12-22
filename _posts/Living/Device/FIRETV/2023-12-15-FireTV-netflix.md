@@ -28,9 +28,9 @@ pin:
 ### FireTV KODI Netflix 에드온을 이미 사용하고 있는 경우
 이전 포스팅들로 이미 한국 OTT 에드온을 설치한 사람이라면 아래의 포스팅만 보면 된다. 
 
-- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 아이폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/post/KODI-netflixkey/) -> 아이폰은 해당 링크를 클릭하면된다. 
+- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 아이폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/posts/KODI-netflixkey/) -> 아이폰은 해당 링크를 클릭하면된다. 
 
-- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 안드로이드폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/post/KODI-netflixkey1/) -> 안드로이드폰은 해당 링크를 클릭하면된다. 
+- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 안드로이드폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/posts/KODI-netflixkey1/) -> 안드로이드폰은 해당 링크를 클릭하면된다. 
 
 --------------
 
@@ -211,9 +211,9 @@ NightRain님이 작성해주신 저장소로 최신 업데이트가 잘 되고 �
 ### KODI Netflix 로그인 및 사용방법 
 아래의 링크로 본인의 핸드폰 기종에 따라 이후 로그인을 수행하면 된다. 
 
-- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 아이폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/post/KODI-netflixkey/) -> 아이폰은 해당 링크를 클릭하면된다. 
+- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 아이폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/posts/KODI-netflixkey/) -> 아이폰은 해당 링크를 클릭하면된다. 
 
-- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 안드로이드폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/post/KODI-netflixkey1/) -> 안드로이드폰은 해당 링크를 클릭하면된다. 
+- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 안드로이드폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/posts/KODI-netflixkey1/) -> 안드로이드폰은 해당 링크를 클릭하면된다. 
 
 ---------
 
