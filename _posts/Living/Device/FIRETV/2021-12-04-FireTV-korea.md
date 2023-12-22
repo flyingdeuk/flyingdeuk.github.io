@@ -639,9 +639,9 @@ Netflix 어플을 사용해도 되나 자막 자동 찾기등의 기능을 사�
 #### 로그인
 계정에 로그인 정보 넣어서 사용하면됨. 안되는 경우 아래 포스팅 참조
 
-- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 아이폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/post/KODI-netflixkey/) -> 아이폰은 해당 링크를 클릭하면된다. 
+- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 아이폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/posts/KODI-netflixkey/) -> 아이폰은 해당 링크를 클릭하면된다. 
 
-- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 안드로이드폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/post/KODI-netflixkey1/) -> 안드로이드폰은 해당 링크를 클릭하면된다. 
+- #### [KODI Netflix Addon 인증키로 로그인하는 법 By 안드로이드폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/posts/KODI-netflixkey1/) -> 안드로이드폰은 해당 링크를 클릭하면된다. 
 
 ![kodi_addon](/img/living/kodi/netflix_set.jpg)
 
