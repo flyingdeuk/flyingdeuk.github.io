@@ -248,6 +248,8 @@ Opensource 즉 무료로 모든 것을 이용할 수 있다.
 ![fire](/img/living/fire/unknown1.jpg)
 >**Developer options**
 
+`Developer options가 보이지 않는 경우는 "About"를 7번 눌러주면 나타난다. 일종의 트릭. 모든 안드로이드 기기들은 해당 방법으로 가능하다.`
+
 ![fire](/img/living/fire/unknown2.jpg)
 >**Apps from Unknown Sources를 ON으로 변경**
 
