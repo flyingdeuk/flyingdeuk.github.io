@@ -34,7 +34,7 @@ pin:
 
 --------------
 
-## KODI 섪치를 위한 필수 어플 설치법
+## KODI 설치를 위한 필수 어플 설치법
 Downloader와 KODI, KODI내 Netflix만 설치하면 된다. 
 
 ### DOWNLOADER 설치
