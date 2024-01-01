@@ -606,6 +606,8 @@ NightRain님이 작성해주신 저장소로 최신 업데이트가 잘 되고 �
 ### Tving, Wavve, WATCHA, SPOTV, CoupangPlay Addon
 회원 로그인 정보가 있어야 유/무료로 사용이 가능하다.
 
+- [KODI TVING mini 에드온 로그인 문제 해결법 (Feat. FireTV, Xiaomi Stick, KODI, TVING)](/posts/tvinglogin/)
+
 #### 로그인
 사용하기 위해서는 로그인을 해야함. <br>
 해당 에드온 아이콘에서 **길게 누르기!!** -> **설정**
