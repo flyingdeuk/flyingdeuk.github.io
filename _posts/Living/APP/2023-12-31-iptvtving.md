@@ -12,6 +12,8 @@ pin:
 `FlyingDeuk's`
 > 위의 그림과 같이 기존에 쓰던 모니터를 스탠드에 올려 스탠바이미 처럼 그리고 오래된 맥을 이용해서 iMac처럼 사용중이다. Xiaomi Stick을 스마트TV로 사용하고 있어 IPTV는 KODI를 활용해서 실시간무료로 보던 중...
 
+- ### [DIY StandByMe/iMac - 셀프 스탠바이미/아이맥 만들기 (Feat. AOC, Xiaomi Mi-Stick, Aliexstandby)](/posts/standbyyou/) -> 포스팅 참조
+
 ![iptvtving](/img/living/kodi/iptvtving1.jpg)
 
 > TVING이 다시 무료화되었다는 소식을 듣고 TVN을 시청하기 위해서 세팅을 추가해 봤다. 
@@ -77,13 +79,13 @@ pin:
 ![iptvtving](/img/living/kodi/iptvtving7.jpg)
 - iptv의 원본이 되는 소스는 채널이 너무 많아서 현재는 내가 편집한 소스만 사용중이지만 만일을 대비해서 사용안함으로 설정
 
-> https://iptv.org.github.io/iptv/countries/kr.m3u
+    > https://iptv.org.github.io/iptv/countries/kr.m3u
 
 
 ![iptvtving](/img/living/kodi/iptvtving8.jpg)
 - 내가 보기 좋게 잘나오는 채널들만 편진에 놓은 구성도 이름과 함께 추가하고 사용함으로 설정
 
-> https://flyingdeuk.github.io/kodi/deuktv.m3u
+    > https://flyingdeuk.github.io/kodi/deuktv.m3u
 
 ![iptvtving](/img/living/kodi/iptvtving4.jpg)
 - EPG는 TVING만 지원이 됨
