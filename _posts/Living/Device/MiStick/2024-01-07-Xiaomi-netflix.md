@@ -1,9 +1,9 @@
 ---
-title: Fire TV Netflix 한 가구 제한 무력화 방법 (Feat. 계정공유, KODI, NFAuthenticationKey_Windows) <2023.12.15 Updated>
+title: Xiaomi Stick Netflix 한 가구 제한 무력화 방법 (Feat. 계정공유, KODI, NFAuthenticationKey_Windows) <2024.01.07 Updated>
 author: FlyingDeuk
-date: 2023-12-15 
+date: 2024-01-07 
 categories: [Living]
-tags: [usefulapp, android, firetv, netflix, kodi]
+tags: [usefulapp, xiaomi, android, firetv, netflix, kodi]
 pin:
 ---
 
@@ -11,21 +11,21 @@ pin:
 
 `FlyingDeuk's`
 > Netflix가 2023년 11월부터 한가구에 해당하지않는 계정에 대해서 제한을 걸기 시작했다. 이로 인해서 지인 및 가족들과 계정을 공유해서 사용하기 위해서는 5000원을 더 납부해야만 한다. <br>
-이에 방법을 모색하던 중 알아낸 방법을 공유한다. 모바일 기기의 경우는 제외가 되어 문제가 없으나 FireTV와 같은 TV OS 계열은 모두가 제한의 대상이 된다. 
+이에 방법을 모색하던 중 알아낸 방법을 공유한다. 모바일 기기의 경우는 제외가 되어 문제가 없으나 Xiaomi와 같은 TV OS 계열은 모두가 제한의 대상이 된다. 
 
 한 가구 인정의 조건은 다음과 같다. 대략...
 - 한 가구내에서 같은 인터넷을 사용해야한다. 
 - Portable Device의 경우 한달에 한번은 한 가구내 인터넷에 접속해야한다. 
 - 여행중 임을 증명해야한다.
 
-`아래의 방법으로 FireTV의 경우 KODI를 사용해서 위의 제한을 회피할 수 있다.`
+`아래의 방법으로 Xiaomi의 경우 KODI를 사용해서 위의 제한을 회피할 수 있다.`
 
 -----------
 
-## FireTV Netflix 계정공유 사용법
-해당 내용은 이미 FireTV를 사용하고 있다는 가정에서 시작한다. 그렇지 않는 경우는 해당 블로그에서 초기 사용법을 찾아보길 바란다. 
+## Xiaomi Stick Netflix 계정공유 사용법
+해당 내용은 이미 Xiaomi Stick를 사용하고 있다는 가정에서 시작한다. 그렇지 않는 경우는 해당 블로그에서 초기 사용법을 찾아보길 바란다. 
 
-### FireTV KODI Netflix 에드온을 이미 사용하고 있는 경우
+### Xiaomi Stick KODI Netflix 에드온을 이미 사용하고 있는 경우
 이전 포스팅들로 이미 한국 OTT 에드온을 설치한 사람이라면 아래의 포스팅만 보면 된다. 
 
 - #### [KODI Netflix Addon 인증키로 로그인하는 법 By 아이폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/posts/KODI-netflixkey/) -> 아이폰은 해당 링크를 클릭하면된다. 
@@ -34,70 +34,9 @@ pin:
 
 --------------
 
-## KODI 설치를 위한 필수 어플 설치법
-Downloader와 KODI, KODI내 Netflix만 설치하면 된다. 
-
-### DOWNLOADER 설치
-**KODI** 설치를 위해서는 반드시 필요한 프로그램 <br>
-INTERNET은 기본적으로 다운로드 기능이 없음. 그래서 파일을 다운받고 싶을 때는 이 어플을 이용해야함.
-
-![fire](/img/living/fire/down.jpg)
->**Home - Apps - Categories - UTILITY** 또는 **Search** 에서 **"Downloader"** 검색해서 설치하면 됨.
-
-![fire](/img/living/fire/down1.jpg)
->설치후 실행하면됨
-
-![fire](/img/living/fire/down2.jpg)
->주소입력창에 사이트 주소입력후 어떤 파일이든 다운로드가 가능하고 apk의 설치파일의 경우 설치도 가능함.
-
-kodi뿐 아니라 인터넷 상에서 모든 형식의 파일을 다운로드하는 데는 Downloader를 사용해야 파일을 저장할 수 있다.
-
-------------
-
 ## KODI 설치 
 한국 실시간 TV, 모든 회사의 무료 영화나 드라마 시리즈를 보기위해서는 KODI의 설치가 필요하다. <br>
-Opensource 즉 무료로 모든 것을 이용할 수 있다.
-
-### KODI 설치전 사전 작업 - Apps from Unkown Sources
-일반적으로 요즘 기기들은 모두 APP STORE를 경유하도록 한다. 하지만 APP STORE에 올리지 않는 좋은 어플도 많다. <br>
-신뢰할 수 있는 사이트의 경우는 허용해도 전혀 문제가 없다.
-
-![fire](/img/living/fire/unknown3.jpg)
->기본적으로 모든 안드로이드 디바이스는 공식 APP STORE를 거치치않는 어플에 대해서 설치는 가능하나 옵션을 선택해줘야한다. <br>
-여기에서 설정으로 자동 연결되나 안되는 경우는 아래의 방법으로 설정을 변경해 주면 된다.
-
-이점이 안드로이드가 애플보다 확장성이 좋은 이유이나 불법 소프트웨어를 조심해야 되는 이유가 되기도 한다.
-
-![fire](/img/living/fire/unknown.jpg)
->**Home - Settings - My Fire TV**
-
-![fire](/img/living/fire/unknown1.jpg)
->**Developer options**
-
-`Developer options가 보이지 않는 경우는 "About"를 7번 눌러주면 나타난다. 일종의 트릭. 모든 안드로이드 기기들은 해당 방법으로 가능하다.`
-
-![fire](/img/living/fire/unknown2.jpg)
->**Apps from Unknown Sources를 ON으로 변경**
-
------------
-
-### KODI 다운로드 (https://kodi.tv)
-Downloader 어플을 이용하면 된다. 최신 버전의 KODI 20.x를 설치한다.
-
-![fire](/img/living/fire/down3.jpg)
->KODI 주소 입력!! **kodi.tv** 만 입력하면 됨<br>
-
-![old](/img/living/kodi/kodi_old.jpg)
-> 상단의 **Download** Click!
-
-![old](/img/living/kodi/kodi_2.jpg)
-> FireTV는 안드로이드이니.. Android 선택
-
-![old](/img/living/kodi/kodi19_2.jpg)
-> 최신 버전은 KODI 20.x로 **32 비트**를 선택해 줘야한다. (예전 포스팅 사진을 그대로 사용함.)
-
-![fire](/img/living/fire/down4.jpg)
->Download 완료되면 자동으로 설치를 물어본다. 자동으로 **Files**에 저장이 된다.
+Xiaomi Stick의 경우 앱스토어에서 바로 설치 및 업데이트가 가능하다. 
 
 ----------
 
@@ -215,14 +154,46 @@ NightRain님이 작성해주신 저장소로 최신 업데이트가 잘 되고 �
 
 - #### [KODI Netflix Addon 인증키로 로그인하는 법 By 안드로이드폰 (Feat. FireTV, KODI, Neflix, NFAuthenticationKey)](/posts/KODI-netflixkey1/) -> 안드로이드폰은 해당 링크를 클릭하면된다. 
 
+
+-----------
+
+## KODI Netflix Addon MSL Error 해결법
+로그인 완료후 영상을 보려고 하며 아래와 같은 오류가 발생한다. 
+
+![msl](/img/living/mistick/msl1.jpg)
+
+
+### Xiaomi Stick ESN 넘버
+요즘 휴대기기든 단말기든 넷플릭스 시청을 위해서는 인가 받은 ESN 식별 번호로 인증하는 듯하다. 
+
+![msl](/img/living/mistick/msl2.jpg)
+- 설정 - 기기 환경설정 - 정보 에 해당 내용이 있다. (적을 필요없이 사진 한장만 찍어놓으면 된다. 스마트한 시대~~~)
+
 ---------
 
-#### PostScript
-본인은 직업의 특성상 해외에 체류를 많이 하는 것도 있고... 부모님에게 드린 공유계정이 막히게 되어 방법을 알아보았다. 추후 넷플릭스에서 또 어떤 방법을 사용할 지는 모르겠으나 일단 FireTV에서는 해당 방법으로 시청이 가능하다. 물론 Mobile Device는 공유계정의 제한을 받지않으니 문제가 없다...
+### KODI Netflix Addon ESN 수정
+이유는 모르겠지만 FireTV와는 다르게 다른 ESN 번호가 에드온에 자동으로 저장되는 것이 문제였다. 
 
-`테스트 결과 FireTV는 해당 방법으로 계정공유의 아이디로 사용이 가능하고 Xiaomi Mi Stick의 경우는 추가적인 작업이 더 필요하다. 해당 포스팅 참조 `
+![msl](/img/living/mistick/msl5.jpg)
+- 에드온들중에 Netflix 에드온을 꾹 눌러 설정으로 진입한다. 
 
->예전부터 우리나라 가전의 스마트기능이 성능도 좋지않고 해서 일반 비 스마트 TV (패널만 좋은...)를 구매후 FireTV를 스마트 기능으로 사용해왔다... 다시한번 이게 더 좋은 방법이라는 것이 입증된 듯... 스마트 TV에서는 상기의 방법이 불가능하기 때문이다...
+![msl](/img/living/mistick/msl4.jpg)
+- 좌측하단의 "표준"으로되어 있는 기본 값을 고급으로 변경해주고 "고급설정"에서 "ESN/Widevine 설정"을 눌러준다. 
+
+![msl](/img/living/mistick/msl3.jpg)
+- ESN 변경을 눌러 나오는 팝업창에서 위에서 찍어든 ESN 넘버를 넣어주면 된다. 
+- ESN 넘버가 엄청 길지만 앞부분의 일부만 변경해주면 된다. 
+
+
+![msl](/img/living/mistick/msl7.jpg)
+> 이제 샤오미 미스틱도 한가구 제한 없이 시청이 가능하다. 
+
+--------
+
+### PostScript
+본인은 직업의 특성상 해외에 체류를 많이 하는 것도 있고... 부모님에게 드린 공유계정이 막히게 되어 방법을 알아보았다. 추후 넷플릭스에서 또 어떤 방법을 사용할 지는 모르겠으나 일단 Xiaomi Stick에서는 해당 방법으로 시청이 가능하다. 물론 Mobile Device는 공유계정의 제한을 받지않으니 문제가 없다...
+
+>예전부터 우리나라 가전의 스마트기능이 성능도 좋지않고 해서 일반 비 스마트 TV (패널만 좋은...)를 구매후 FireTV/Xiaomi Stick을 스마트 기능으로 사용해왔다... 다시한번 이게 더 좋은 방법이라는 것이 입증된 듯... 스마트 TV에서는 상기의 방법이 불가능하기 때문이다...
 
 
 [INDEX로 돌아가기](/posts/FireTV/)

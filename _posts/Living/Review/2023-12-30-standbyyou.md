@@ -82,7 +82,9 @@ pin:
 **Xiaomi Stick**
 - 장점
     - 리모컨으로 Stick 자체의 전원/볼륨 조절이됨. 
-    - 구글 TV 스토어를 사용해서 어플 종류가 더 많음. KODI를 스토어에서 바로 설치할 수 있음.     
+    - 구글 TV 스토어를 사용해서 어플 종류가 더 많음. KODI를 스토어에서 바로 설치할 수 있음.
+    - Netflix 한가구 무력화 방법이 통함. 
+      => [Xiaomi Stick Netflix 한 가구 제한 무력화 방법 (Feat. 계정공유, KODI, NFAuthenticationKey_Windows)](/posts/Xiaomi-netflix/) (링크 참고)     
 - 단점
     - Performance가 FireStick 보다는 떨어짐. 
     - 쿠팡 플레이 설치가 안됨. (KODI에서는 가능함.)
