@@ -15,7 +15,7 @@ pin:
 
 ## 추천 영화 사이트
 
-#### 코리안즈 <https://koreanz16.fun/>
+### 코리안즈 <https://koreanz16.fun/>
 ![site](/img/living/site/site1.jpg)
 
 최신영화 볼만한거 기준(캠버전 안올라옴)으로 잘 정리되어 있고 이용자의 평점도 잘 올라오는 편임. 가장 활용도가 높은 사이트
@@ -26,13 +26,19 @@ pin:
 
 ## 추천 재방송 사이트
 
-#### 솜사탕 TV <https://www.somsatangv.net>
+### 솜사탕 TV <https://www.somsatangv.net>
 ![site](/img/living/site/site4.jpg)
 
 > 여러 소스를 선택하지 않고 간단하게 한번에 연결되는 게 장점임. 성인 광고가 없어서 현재는 한국 방송 재방송 보는 데 가장 많이 이용하는 사이트 (단점은 화질이 좋지는 않다.)
 
+### 노루티비 TV <https://www.norutv.com>
 
-#### 링크 천국  <https://www.hotword.site>
+![site](/img/living/site/site5.jpg)
+
+> 솜사탕 TV에서 연결되는 사이트로 썸네일로 정리가 잘 되어있어 정주행이 가능한 사이트(장점은 성인광고가 없고 단점은 화질이 좋지는 않다.)
+
+
+### 링크 천국  <https://www.hotword.site>
 ![site](/img/living/site/site3.jpg)
 
 > 여러 가지 다시 보기 사이트들을 모아놓은 사이트이다. 여기에서 본인에게 맞는 사이트로 들어가서 북마크 하면 되겠다.
