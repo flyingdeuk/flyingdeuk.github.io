@@ -2,7 +2,7 @@
 title: Flight Plan - FMS DATA 검증 Part 1. (Total Distance 확인법) <2024.1.14 Updated>
 author: FlyingDeuk
 date: 2024-01-14
-categories: [Flying]
+categories: [Flying, FlyingSense]
 tags: [flyingsense, flightplan, fms, total, distance]
 pin:
 
