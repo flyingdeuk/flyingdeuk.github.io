@@ -48,7 +48,7 @@ Flight Plan의 총 거리는 크게 3개로 나눠 생각할 수 있다.
 
 > B777의 경우 OSPOT을 Progress Destination에 붙이면 자동으로 현재 들어가있는 SID의 거리를 보여주나... B737에는 이 기능이 없다. 
 
-`Plan 대비 FMS가 77-58=19NM 더 길다.`
+`FMS 대비 Plan이 77-58=19NM 더 길다.`
 
 -----------
 
@@ -65,7 +65,7 @@ Flight Plan의 총 거리는 크게 3개로 나눠 생각할 수 있다.
 ![totaldistance](/img/flying/sense/totaldistance3.jpg)
 - 위왁 같이 UNZ - PGUM으로 STAR를 넣지않았다면 그냥 보면되나... STAR를 넣었다면 다 더하는 것보다는 위와 같이 RWY를 올려주면 PGUM과 같다. 거리는 3.3NM이다. 
 
-`Plan 대비 FMS가 15-3.3=11.7NM 더 길다.`
+`FMS 대비 Plan이 15-3.3=11.7NM 더 길다.`
 
 ----------------
 
@@ -81,9 +81,9 @@ Flight Plan의 총 거리는 크게 3개로 나눠 생각할 수 있다.
 ![totaldistance](/img/flying/sense/totaldistance4.jpg)
 - 이전에 SID에서 OSPOT을 제일 위로 STAR에서 UNZ - RW06L로 Modify 해 놓은 상태에서의 총 거리는 1768NM이다. 
 
-`Plan 대비 FMS가 1799-1768=31NM 더 길다.`
+`FMS 대비 Plan이 1799-1768=31NM 더 길다.`
 
-### `즉 SID 거리차이(19NM) + STAR 거리차이(11.7NM=12NM) = 31NM 로 Flight Plan과 FMS입력값에는 오류가 없다.`
+### `즉 SID 거리차이(19NM) + STAR 거리차이(11.7NM=12NM) = 31NM 로 Flight Plan과 FMS 입력값에는 오류가 없다.`
 
 ---------
 
