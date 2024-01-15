@@ -67,7 +67,13 @@ pin:
 |:-------------------------|:-----------------|
 | ![search](/img/living/app/openvpn.png) |**OPENVPN 형식의 주소값을 실제 연결시켜주는 어플** <br> [포스트로 이동](/posts/IpadVPN/)|
 
-
 ----
 
-[INDEX로 돌아가기](/posts/Ipad/)
+### 이탈리아 여행 유용한 어플
+
+- ### [Italia Travel APP - 이태리 여행 유용한, 내가 사용한 어플들 (Feat. 로마, 토스카나, 친퀘테레, 피렌체)](/posts/italyapp/)
+
+-------------
+
+### [< iPad로 돌아가기 >](/posts/Ipad/) 
+### [< iPhone로 돌아가기 >](/posts/iphone/)
