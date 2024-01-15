@@ -8,7 +8,7 @@ pin:
 
 ---
 
-![totaldistance](/img/flying/sense/totaldistance.PNG)
+![totaldistance](/img/flying/sense/totaldistance.png)
 
 
 `FlyingDeuk's`
