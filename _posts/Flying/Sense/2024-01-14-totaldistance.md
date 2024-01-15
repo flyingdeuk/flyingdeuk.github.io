@@ -115,4 +115,6 @@ Flight Plan의 총 거리는 크게 3개로 나눠 생각할 수 있다.
 ## Postscript
 코로나로 인해서 국제선 비행을 경험하지 못한 상태에서 교육을 받은 후배들이 위와 같은 내용을 잘 이해하지 못하는 것 같아서 포스팅을 하기로 맘을 먹었다. Flight Plan과 실제 항공기의 FMS 데이터에 오류가 있다면 계획한 대로 비행을 하지 못하는 상황이 될 수도 있다. 물론 여러가지 장치들로 이상함을 감지할 수는 있지만 기초부터 차근차근 알고 적용하는 것이 더욱 중요한 듯하다. 
 
-[INDEX로 돌아가기](/categories/flyingsense/)
+----------
+
+### [< Back to FlyingSense >](/categories/flyingsense/)

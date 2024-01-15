@@ -145,4 +145,6 @@ EDTO Airport의 +400ft 조건을 고려하더라도 대략 1000ft정도 이상�
 
 **즉 Ceiling이 1000ft 보다 낮거나 시정이 많이 떨어지는 날씨가 예보된다면 EDTO Alternate Airport의 면밀한 Check가 필요하지만 VFR이상의 날씨라면 전혀 문제가 없겠다.**
 
-[INDEX로 돌아가기](/categories/flyingsense/)
+---------
+
+### [< Back to FlyingSense >](/categories/flyingsense/)

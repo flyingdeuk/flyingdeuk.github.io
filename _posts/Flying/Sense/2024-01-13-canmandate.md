@@ -29,5 +29,6 @@ Jeppesen FD Pro에서 **CANMANDATE**로 검색한 결과이다.
 
 >캐나다 국내선 Domestic Area에서 사용하던 기준이 전세계에 적용되는 것 같음. 
 
+-------
 
-[INDEX로 돌아가기](/posts/ats/)
+### [< Back to ATS Flight Plan >](/posts/ats/)

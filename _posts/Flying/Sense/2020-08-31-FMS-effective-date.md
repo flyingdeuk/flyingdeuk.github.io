@@ -57,4 +57,4 @@ FAA, Canada 는 0900 UTC 기준 local time 0100 - 0600 사이를 기준으로하
 
 -------
 
-[INDEX로 돌아가기](/categories/flyingsense/)
+### [< Back to FlyingSense >](/categories/flyingsense/)

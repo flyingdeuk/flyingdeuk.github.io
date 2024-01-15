@@ -63,4 +63,4 @@ Polar를 경유해서 러시아 Magadan으로 주로 한국으로 들어옴.
 
 -------
 
-[INDEX로 돌아가기](/categories/flyingsense/)
+### [< Back to FlyingSense >](/categories/flyingsense/)

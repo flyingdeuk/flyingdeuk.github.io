@@ -24,4 +24,6 @@ pin:
 쉽게 풀면 Roll에 대한 안정성과 Yaw에 대한 안정성의 문제로 인해서 Roll에 의한 날개면에 발생하는 양력과 항력의 변화로 인해서 Yaw가 일어나는 현상을 말한다. 이를 상쇄하기 위해서 현대의 모든 항공기에는 YawDamper가 장착된다.
 
 
-[INDEX로 돌아가기](/categories/flyingsense/)
+--------
+
+### [< Back to FlyingSense >](/categories/flyingsense/)

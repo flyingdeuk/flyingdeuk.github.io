@@ -14,5 +14,6 @@ pin:
 
 ### RESERVED
 
+-------
 
-[INDEX로 돌아가기](/posts/ats/)
+### [< Back to FlyingSense >](/categories/flyingsense/)
