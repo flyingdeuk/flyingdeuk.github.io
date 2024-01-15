@@ -20,3 +20,11 @@ pin:
 - Cloud의 작은 컴퓨터 단위를 빌려서 서버를 운영하는 방법임.
 - 서버의 프로그램을 설치 운영 백업 보안을 관리해준다. (직접운영보다는 비싸나 안전함)
 - 개인이 하기에는 복잡하고 전문적인 관리가 필요함.
+
+
+
+
+
+---------
+
+### [< Back to CodingEveryBody INDEX >](/categories/codingeverybody/)
