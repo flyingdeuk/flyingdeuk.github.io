@@ -74,4 +74,6 @@ KODI에서 기본적으로 제공하는 Addon이다. 찾아서 설치하면 됨.
 
 다음 포스팅에서 계속 된다...
 
-[INDEX로 돌아가기](/posts/KODI/)
+---------
+
+### [< Back to KODI INDEX >](/posts/KODI/)

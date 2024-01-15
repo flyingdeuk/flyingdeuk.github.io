@@ -87,4 +87,6 @@ PDF는 컴퓨터 환경에 관계없이 같은 표현을 하기 위한 목적으
 
 **지금까지 사용해본 PDF 어플중에는 제일 좋은 듯하다.**
 
-[INDEX로 돌아가기](/posts/MACAPP/)
+-----------
+
+### [< Back to MacBook BEST APP >](/posts/MACAPP/)

@@ -58,4 +58,6 @@ Preset의 개념으로 예전처럼 영상 코덱, 음악 코덱등을 전문가
 
 `결론은 SmartConverter에서 정말 빠르게 변환하는 이유가 그 것인거 같다` => 확장자가 달라도 같은 코덱을 쓰면... 그냥 변환이 된다. 5초 정도만에...
 
-[INDEX로 돌아가기](/posts/MACAPP/)
+---------
+
+### [< Back to MacBook BEST APP >](/posts/MACAPP/)

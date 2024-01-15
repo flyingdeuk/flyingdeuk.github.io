@@ -122,4 +122,6 @@ TMDB(The Movies DataBase)라는 전세계 영화 정보 사이트에서 긁어�
 
 **이상이 TheOath의 새로운 버전인 ThePromise의 사용법이 되겠다.**
 
-[INDEX로 돌아가기](/posts/KODI/)
+--------
+
+### [< Back to KODI INDEX >](/posts/KODI/)

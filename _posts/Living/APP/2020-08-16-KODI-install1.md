@@ -1,5 +1,5 @@
 ---
-title: KODI Setup - 코기 기본 설정법 (for Mac, Android, Windows, RaspberryPi)
+title: KODI Setup - 코디 기본 설정법 (for Mac, Android, Windows, RaspberryPi)
 author: FlyingDeuk
 date: 2020-08-16 20:55:00 +0800
 categories: [Living]
@@ -75,4 +75,6 @@ KODI Addon들은 대부분이 개인 프로그래머들의 작품이다. 즉 3rd
 #### Postscript
 이로써 가장 기본 설정은 완료했다. 하지만 너무 많은 기능을 갖고 있기 때문에 추후에도 많은 포스팅이 예정되어 있다.
 
-[INDEX로 돌아가기](/posts/KODI/)
+--------
+
+### [< Back to KODI INDEX >](/posts/KODI/)

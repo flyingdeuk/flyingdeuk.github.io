@@ -95,4 +95,6 @@ pin:
 예전에는 항상 USB 를 항상 가지고 다는 것이 유행이였다... <br>
 하지만 최근에는 클라우드에 저장하고 자신만의 파일을 관리하는 것이 대세인듯... Autosync는 자동 동기화를 통해서 사람의 노력을 줄여준다.
 
-[INDEX로 돌아가기](/posts/AndroidAPP/)
+----------
+
+### [< Back to ANDROID BEST APP >](/posts/AndroidAPP/)

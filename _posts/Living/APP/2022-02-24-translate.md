@@ -66,4 +66,4 @@ wifi를 연결해서 번역기로 메뉴판을 보던 중... 인터넷이 끊어
 
 차기 기술은 애플과 구글이 경쟁적으로 오프라인 보이스 인식 기술을 개발 중이라 한다.... 아이들에게 영어공부를 시켜야하나...
 
-[INDEX로 돌아가기](/posts/AndroidAPP/)
+### [< Back to ANDROID BEST APP >](/posts/AndroidAPP/)

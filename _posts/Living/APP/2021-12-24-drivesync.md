@@ -93,4 +93,6 @@ pin:
 
 `이렇게 사용한다...`
 
-[INDEX로 돌아가기](/posts/AndroidAPP/)
+---------
+
+### [< Back to ANDROID BEST APP >](/posts/AndroidAPP/)

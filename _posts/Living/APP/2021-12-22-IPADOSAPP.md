@@ -75,5 +75,5 @@ pin:
 
 -------------
 
-### [< iPad로 돌아가기 >](/posts/Ipad/) 
-### [< iPhone로 돌아가기 >](/posts/iphone/)
+### [< Back to iPad >](/posts/Ipad/) 
+### [< Back to iPhone >](/posts/iphone/)

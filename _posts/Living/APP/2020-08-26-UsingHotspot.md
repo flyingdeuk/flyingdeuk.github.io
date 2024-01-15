@@ -112,4 +112,6 @@ __폴더 형태로 핸드폰의 저장소에 접근해서 다운로드나 실행
 
 @ 바로가기 : [uTorrent 사용법(어플 소개)](/posts/UsingUTorrent/)
 
-[INDEX로 돌아가기](/posts/Android/)
+--------
+
+### [< Back to APP INDEX >](/categories/app/)

@@ -112,4 +112,6 @@ Documents 앱을 열면 자동으로 시작이 되나 중요한 경우... 비행
 
 애플을 쓰는 또 다른 하나의 이유가 된다.
 
-[INDEX로 돌아가기](/posts/IPADOSAPP/)
+----------
+
+### [< Back to IOS, iPadOS BEST APP >](/posts/IPADOSAPP/)

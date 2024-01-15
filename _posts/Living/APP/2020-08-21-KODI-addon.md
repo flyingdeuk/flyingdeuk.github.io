@@ -53,4 +53,6 @@ __여러개로 분산되어 있는 Repository나 zip화일들을 하나의 저�
 
 고마움의 마음을 전해본다.
 
-[INDEX로 돌아가기](/posts/KODI/)
+---------
+
+### [< Back to KODI INDEX >](/posts/KODI/)

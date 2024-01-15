@@ -82,4 +82,6 @@ pin:
 
 노트 필기해야 되니 패드도 필요하단다... 정말 빠르게 변화하는 시대이다.
 
-[INDEX로 돌아가기](/posts/IPADOSAPP/)
+---------
+
+### [< Back to IOS, iPadOS BEST APP >](/posts/IPADOSAPP/)

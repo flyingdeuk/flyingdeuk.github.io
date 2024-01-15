@@ -67,5 +67,6 @@ sudo pip install setuptools wheel pycryptodomex
 **전세계의 정말 많은 사람들이 적어놓은 것들이 많기 때문이다.**
 
 
+------
 
-[INDEX로 돌아가기](/posts/KODI/)
+### [< Back to KODI INDEX >](/posts/KODI/)

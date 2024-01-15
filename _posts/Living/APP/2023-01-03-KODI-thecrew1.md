@@ -123,4 +123,6 @@ TMDB(The Movies DataBase)라는 전세계 영화 정보 사이트에서 긁어�
 
 **새로운 버전인 TheCrew의 사용법이 되겠다. 우리같은 Crew를 위한 에드온... ㅎㅎㅎ**
 
-[INDEX로 돌아가기](/posts/KODI/)
+--------
+
+### [< Back to KODI INDEX >](/posts/KODI/)

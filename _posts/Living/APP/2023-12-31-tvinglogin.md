@@ -50,5 +50,8 @@ FIreTV의 경우 SILK Browser를 사용하면 되고 Xiaomi Stick의 경우도 �
 ### PostScript
 설명 내용에는 기기에 다운로드를 위해서는 등록을 해야 한다고 하지만 안되는 경우가 있다면 등록하는 것을 추천한다. 
 
+-----------
 
-[INDEX로 돌아가기](/categories/review/)
+### [< Back to REVIEW INDEX >](/categories/review/)
+
+### [< Back to KODI INDEX >](/posts/KODI/)

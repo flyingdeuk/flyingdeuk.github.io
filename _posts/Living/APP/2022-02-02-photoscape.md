@@ -91,4 +91,6 @@ pin:
 
 간단하게 여러 개의 파일을 일괄로 정리하는 데 좋은 어플인듯하다.
 
-[INDEX로 돌아가기](/posts/MACAPP/)
+----------
+
+### [< Back to MacBook BEST APP >](/posts/MACAPP/)

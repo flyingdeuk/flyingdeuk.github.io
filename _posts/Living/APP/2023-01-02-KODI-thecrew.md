@@ -124,4 +124,6 @@ KODI Addon 설치에 익숙한 경우는 어렵지않다.
 - ### [KODI 19.x TheCrew Addons Setup - ThePromise 대체 에드온 TheCrew 설정 및 사용법 (Feat. TheCrew, a4kSubtitles)](/posts/KODI-thecrew1/)
   - ThePromise의 대체 에드온 TheCrew의 설정 및 사용법
 
-[INDEX로 돌아가기](/posts/KODI/)
+-------
+
+### [< Back to KODI INDEX >](/posts/KODI/)

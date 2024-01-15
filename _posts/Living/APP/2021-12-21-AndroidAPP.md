@@ -90,4 +90,4 @@ pin:
 
 ----
 
-[INDEX로 돌아가기](/posts/Android/)
+### [< Back to ANDROID OS INDEX >](/posts/Android/)

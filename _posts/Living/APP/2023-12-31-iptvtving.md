@@ -98,5 +98,8 @@ pin:
 ### PostScript
 예전엔 WAVVE도 720p 무료가 되어 좋았으나 현재까지는 유료... TVING이라도 무료로 풀리게되어 TVN예능을 DIY 스탠바이미에서 볼 수 있게 되어있다. 
 
+--------
 
-[INDEX로 돌아가기](/categories/review/)
+### [< Back to REVIEW INDEX >](/categories/review/)
+
+### [< Back to KODI INDEX >](/posts/KODI/)
