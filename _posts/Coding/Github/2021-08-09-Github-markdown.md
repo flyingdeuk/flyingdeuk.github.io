@@ -53,3 +53,7 @@ md file을 작성하면서 스크롤하면 프리뷰 화면도 같이 자동으�
 #### PostScript
 기본적으로 ATOM은 Markdown Preview를 기본으로 제공한다. 하지만 일일이 눌러서 preview를 선택해줘야만하고 Auto Scroll 상상도 못했는 데... <br>
 누군가도 검색을 통하겠지만 너무 편하다. 모두가 알았으면 좋겠다...
+
+-----------
+
+### [< Back to Github Pages >](/posts/Github-Page/)

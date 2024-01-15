@@ -41,3 +41,10 @@ pin:
 - #### [Github Pages GIF - 깃허브 페이지 블로그에 동영상 삽입하기 (by cloudconvert)](/posts/Github-gif/)
 
 - #### [Github Pages - The page build failed for the `gh-pages` branch with the following error 해결법](/posts/Github-error/)
+
+- #### [DISQUS Comment Policy - DISQUS 소셜 로그인 문제 해결 (Feat. Github Pages, Jekyll)](/posts/comment/)
+
+
+--------
+
+### [< Back to Github INDEX >](/categories/github/)

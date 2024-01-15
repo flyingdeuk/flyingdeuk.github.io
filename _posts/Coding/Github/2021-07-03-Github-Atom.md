@@ -26,3 +26,8 @@ pin:
 
 #### - [Github Pages - Markdown Preview Enhanced 사용하기](/posts/Github-markdown/)
 블로그 작성과 미리 보기가 가능한 Plug-in
+
+
+---------
+
+### [< Back to Github Pages >](/posts/Github-Page/)

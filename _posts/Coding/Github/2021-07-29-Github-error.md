@@ -44,3 +44,7 @@ The primer theme is not currently supported on GitHub Pages. For more informatio
 ### PostScript
 
 Github에서는 몰라야 할 텐데...
+
+------
+
+### [< Back to Github Pages >](/posts/Github-Page/)
