@@ -16,3 +16,7 @@ pin:
 #### [SBKP(VCP) - 브라질 캄피나스(비라코푸스 공항)](/posts/SBKP-VCP/)
 
 #### [MMGL(GDL) - 멕시코 과달라하라(미겔 이달고 이 코스티야 공항)](/posts/MMGL-GDL/)
+
+----------
+
+### [< Back to Airport INDEX >](/categories/airport/)
