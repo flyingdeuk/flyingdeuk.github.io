@@ -89,4 +89,6 @@ pin:
 
 즐감하세요~~~
 
-[INDEX로 돌아가기](/posts/FireTV/)
+-------
+
+### [< Back to FireTV STick >](/posts/FireTV/)

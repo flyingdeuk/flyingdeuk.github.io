@@ -122,4 +122,6 @@ Downloader가 설치하기 전이라면 설치한다. 정식 Amazon Store에 있
 
 **대~~ 한민국!!!**
 
-[INDEX로 돌아가기](/posts/FireTV/)
+---------
+
+### [< Back to FireTV STick >](/posts/FireTV/)

@@ -46,3 +46,7 @@ pin:
 
 #### - [Xiaomi Mi TV Stick & ChromeCast with Google TV - 강력한 POPUP 차단 Silk Browser 설치 및 사용법 (Feat. Downloader, CX 파일탐색기)](/posts/Silk/)
 - 제일 강력한 FireTV 브라우져를 가져와 사용하기...
+
+----------------
+
+### [< Back to DEVICE INDEX >](/categories/device/)

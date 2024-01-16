@@ -112,4 +112,6 @@ BackGround에서 동작하는 것까지 완전히 종료해줘야 더이상 uTor
 
 @ 바로가기 : [안드로이드 핸드폰 wifi 저장소로 사용하기](/posts/UsingHotspot/)
 
-[INDEX로 돌아가기](/posts/Android/)
+-------
+
+### [< Back to ANDROID OS >](/posts/Android/)

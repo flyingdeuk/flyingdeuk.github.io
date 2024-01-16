@@ -35,5 +35,7 @@ FireTV는 특성상 화면이 나오지않으면 제어가 불가능하다. 리�
 
 좋은 내용을 검색으로 알려주신 기장님께 감사함을 전합니다.
 
+--------
 
-[INDEX로 돌아가기](/posts/FireTV/)
+
+### [< Back to FireTV STick >](/posts/FireTV/)

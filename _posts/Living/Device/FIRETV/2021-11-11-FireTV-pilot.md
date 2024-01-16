@@ -607,4 +607,6 @@ COVID-19으로 호텔방에만 있다가 보니... FireTV의 인기가 좋다. �
 
 많은 해외에서 고생하는 조종사들에게 조금이나마 도움이 되었으면 하는 맘으로 마무리한다.
 
-[INDEX로 돌아가기](/posts/FireTV/)
+---------
+
+### [< Back to FireTV STick >](/posts/FireTV/)

@@ -355,4 +355,6 @@ KODI를 실행하면 자동으로 무엇을 시작할 건지 설정할 수 있�
 FireTV 든 Google의 ChromeCast 든 둘다 안드로이드 베이스의 기기이다. 다만 TV 전용 기기이다보니 흔히 핸드폰이나 패드에서 사용하던 방법과는 다른 어플을 설치할 수 밖에는 없다.
 아직까지는 선두주자인 아마존이 더 발전된 어플을 선보이고 있으나.. KODI는 둘다 사용하는데는 문제가 없다...
 
-[INDEX로 돌아가기](/posts/ChromeCast/)
+---------
+
+### [< Back to ChromeCast >](/posts/ChromeCast/)

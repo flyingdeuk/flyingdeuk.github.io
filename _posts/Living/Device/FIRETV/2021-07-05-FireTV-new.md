@@ -42,5 +42,6 @@ Windows 나 Android 처럼 하나의 기기를 여러 사용자가 사용할 수
 FireTV는 전원이 연결된 상태로 장시간 사용하지않으면 자동으로 최신버전으로 주기적으로 Update한다. <br>
 수동으로 설치를 원하면 **설정** -> **My FireTV** -> **About** -> **Install Update** 에서 Update 가능하다.
 
+---------
 
-[INDEX로 돌아가기](/posts/FireTV/)
+### [< Back to FireTV STick >](/posts/FireTV/)

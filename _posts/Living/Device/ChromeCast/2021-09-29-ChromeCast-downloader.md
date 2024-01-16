@@ -61,5 +61,6 @@ FIRE TV와 유사하게 이제는 허용이 가능해 진다.
 <br>
 위와 같은 방법으로 KODI Old release를 설치해서 사용하는 방법만 알아도 활용도와 확장성은 높아 진다고 할 수 있겠다.
 
+---------
 
-[INDEX로 돌아가기](/posts/ChromeCast/)
+### [< Back to ChromeCast >](/posts/ChromeCast/)

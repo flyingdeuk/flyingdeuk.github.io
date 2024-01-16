@@ -81,4 +81,6 @@ ENJOY~~~ FREE ADS CITY!!!
 TV OS가 날로 발전하고 있는 느낌이다. 점점 더 많아지고 있으니 서로 경쟁을 할 것이고... 우린 그저 편하게 사용하면 된다.
 >예전 초기 FIRE TV Stick 1세대(지금도 가지고 있는..) 때는 인터넷하려고 블루투스 마우스를 들고 다녔다. -> 리모컨으로 포인터를 조절할 수 없었다....
 
-[INDEX로 돌아가기](/posts/ChromeCast/)
+---------
+
+### [< Back to ChromeCast >](/posts/ChromeCast/)
