@@ -98,4 +98,6 @@ L2TP 방식이라 비밀 키를 추가로 넣어야한다.
 
 
 
-[INDEX로 돌아가기](/posts/Iptime/)
+-----------
+
+### [< Back to IPTIME >](/posts/Iptime/)

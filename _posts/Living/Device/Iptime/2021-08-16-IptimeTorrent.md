@@ -196,4 +196,6 @@ Utorrent 포스팅에서 언급했듯이 Google에 한글로 **"토렌트"** 를
 다음 병기로 라즈베리파이를 구매하고 나서는 IPTIME은 더이상 쓰지않는다... Wifi에 집중해라. 서버는 다른 것을 쓸 테니...
 
 
-[INDEX로 돌아가기](/posts/Iptime/)
+-----------
+
+### [< Back to IPTIME >](/posts/Iptime/)

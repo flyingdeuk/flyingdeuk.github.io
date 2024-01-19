@@ -216,4 +216,6 @@ Chhatrapati Shivaji International Airport, IA Project Rd, Navpada, Vile Parle Ea
 ![premium](/img/living/info/premium27.jpg)
 > **TunnelBear**를 누르고 지역을 **India**로 설정후 **ON**을 하면 위의 Ipad와 동일한 인도 VPN 환경에서 YOUTUBE Premium을 가입할 수 있다.
 
-------
+-------------
+
+### [< Back to INFO INDEX >](/categories/info/)

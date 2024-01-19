@@ -33,3 +33,7 @@ Umask    Created Files       Created Directories
 077(63)  600 (rw-------)     700     (rwx------)
 277(191) 400 (r--------)     500     (r-x------)
 ```
+
+-------------
+
+### [< Back to LINUX INDEX >](/categories/linux/)

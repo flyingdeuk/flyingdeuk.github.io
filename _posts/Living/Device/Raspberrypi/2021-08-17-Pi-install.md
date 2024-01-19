@@ -85,4 +85,6 @@ SD 카드를 삽입하고 전원을 켜면 된다.
 
  그냥 데스크탑 버전에 KODI는 별도로 설치하고 NAS는 가벼운 ftp로만 사용하고 있다. 각자 본인의 용도에 맞는 OS를 설치하면 되겠다.
 
- [INDEX로 돌아가기](/posts/RaspberryPi/)
+-----------
+
+### [< Back to Raspberry Pi >](/posts/RaspberryPi/)

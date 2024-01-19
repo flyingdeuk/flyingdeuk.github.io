@@ -93,4 +93,6 @@ IPTIME의 경우 간단한 어플로도 접속이 가능하다. 한번 찾아보
 
 `The Beginning!!`
 
-[INDEX로 돌아가기](/posts/Iptime/)
+-----------
+
+### [< Back to IPTIME >](/posts/Iptime/)

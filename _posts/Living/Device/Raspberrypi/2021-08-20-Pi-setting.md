@@ -107,4 +107,6 @@ pi@deuktest:~ $
 간단하게 설정이 가능하다. wifi 이슈만 아니면 사용하는 데는 크게 문제가 없다.
 본인은 미디어서버로 wifi보다는 유선으로 사용할 목적으로 사용하기에 크게 문제점은 못 느낀다. 서버는 안보이는 곳에 두고 접속은 원격으로...
 
-[INDEX로 돌아가기](/posts/RaspberryPi/)
+-----------
+
+### [< Back to Raspberry Pi >](/posts/RaspberryPi/)

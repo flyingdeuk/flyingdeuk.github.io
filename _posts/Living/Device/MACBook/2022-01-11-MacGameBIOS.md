@@ -64,4 +64,6 @@ PlayStation SCPH-5502 (v3.0 Europe) BIOS
 
 [MAC Book Free Game Emulator OpenEmu CD Game - 맥북 OpenEmu 여러장의 CD 게임 돌리기 (Feat. FinalFantasy VIII)](/posts/MacGameCD/)
 
-[INDEX로 돌아가기](/posts/MacGame/)
+-----------
+
+### [< Back to MacGame >](/posts/MacGame/)

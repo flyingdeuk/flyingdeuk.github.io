@@ -110,4 +110,6 @@ pin:
 포케파이보다 데이터 가격은 조금 부담되지만 핸드폰만 들고다니면 되니 편하다...
 
 
-[INDEX로 돌아가기](/posts/iphone/)
+-----------
+
+### [< Back to iPhone >](/posts/iphone/)

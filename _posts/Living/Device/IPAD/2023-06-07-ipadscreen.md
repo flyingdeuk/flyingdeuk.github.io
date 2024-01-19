@@ -88,4 +88,6 @@ PDF, 전자책을 좌우로 넘기는 방식을 선호하는 사람에게 좋은
 
 - #### [MAC Book PDF 파일 만드는 두가지 방법 - 나만의 전자책 만들기 (Feat. PDF 내보내기, 프린트 도구) <2023.6.7 Updated>](/posts/MacPDF/)
 
-[INDEX로 돌아가기](/posts/Ipad/)
+-----------
+
+### [< Back to iPad >](/posts/Ipad/)

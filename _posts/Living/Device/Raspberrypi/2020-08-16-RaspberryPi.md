@@ -65,3 +65,8 @@ pin:
 - #### [Raspberry Pi KODI - KODI Media Center 설치법 (by Terminal)](/posts/Pi-kodi/)
 
   ##### - [Raspberry Pi KODI VNC Control - KODI VNC로 Control하는 법 (by Direct Capture Mode)](/posts/Pi-kodi-vnc/)
+
+
+-----------
+
+### [< Back to DEVICE INDEX >](/categories/device/)

@@ -126,4 +126,6 @@ FTP와 DLNA의 중간정도 인듯하다. 자동검색은 되나 모든 파일�
 
 간단하게 집에서 사용하기는 무난하다...
 
-[INDEX로 돌아가기](/posts/Iptime/)
+-----------
+
+### [< Back to IPTIME >](/posts/Iptime/)

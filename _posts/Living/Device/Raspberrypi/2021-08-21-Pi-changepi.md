@@ -89,4 +89,6 @@ usermod -m -d /home/deuktest deuktest
 
 
 
-[INDEX로 돌아가기](/posts/RaspberryPi/)
+-----------
+
+### [< Back to Raspberry Pi >](/posts/RaspberryPi/)

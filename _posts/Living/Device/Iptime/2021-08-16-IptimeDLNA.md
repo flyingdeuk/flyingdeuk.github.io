@@ -118,4 +118,6 @@ DLNA, UPnP의 경우 ID, Password의 요구가 없다. 같은 공유기를 사�
 **동영상, 음악, 사진의 형식이 아닌 파일은 아에 보이지 않는다...**
 >Wifi 연결 스피커의 경우 이 방식으로 음악재생을 지원한다.
 
-[INDEX로 돌아가기](/posts/Iptime/)
+-----------
+
+### [< Back to IPTIME >](/posts/Iptime/)

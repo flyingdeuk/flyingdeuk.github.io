@@ -59,3 +59,8 @@ $ pv 대상파일 > 복사위치
 ```
 $ rm test.txt
 ```
+
+
+-------------
+
+### [< Back to LINUX INDEX >](/categories/linux/)

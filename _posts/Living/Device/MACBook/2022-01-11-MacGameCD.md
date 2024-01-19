@@ -68,4 +68,6 @@ Final Fantasy VIII (USA) (Disc 4).cue
 
 [MAC Book Free Game Emulator OpenEmu BIOS Pack Update - 맥북 OpenEmu BIOS 팩 업데이트 법 (Feat. FinalFantasy VIII)](/posts/MacGameBIOS/)
 
-[INDEX로 돌아가기](/posts/MacGame/)
+-----------
+
+### [< Back to MacGame >](/posts/MacGame/)

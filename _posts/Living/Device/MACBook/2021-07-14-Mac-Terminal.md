@@ -90,4 +90,6 @@ sudo chmod 777 ~/.oh-my-zsh/tools/uninstall.sh
 무엇보다 GUI만 사용하다가 CLI의 매력을 조금씩 알아가는 듯하다.
 
 
-[INDEX로 돌아가기](/posts/Macbook/)
+-----------
+
+### [< Back to MacBook >](/posts/Macbook/)

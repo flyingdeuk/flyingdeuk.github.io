@@ -96,4 +96,6 @@ Picture In Picture 로 작은 창으로 띄우고 다른 것을 할 수 있다. 
 
 [Korean TV Movie Site - 한국 방송 영화 사이트 모음](/posts/KoreanTVSites/) - 여기 있는 사이트에서도 실시간 또는 다시보기가 가능하다.
 
-[INDEX로 돌아가기](/posts/Ipad/)
+-----------
+
+### [< Back to iPad >](/posts/Ipad/)

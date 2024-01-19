@@ -107,4 +107,6 @@ pin:
 #### PostScript
 가장 저렴한 방법으로 한때 유행이였던 포케파이 사용법과 TIP이 되겠다... 작지만 알아두면 좋은...
 
-[INDEX로 돌아가기](/posts/pokefi/)
+-----------
+
+### [< Back to PokeFi >](/posts/pokefi/)

@@ -93,4 +93,6 @@ $ sudo chmod -R 775 /home/deuktest
 
 나름 재미를 느낀다.
 
-[INDEX로 돌아가기](/posts/RaspberryPi/)
+-----------
+
+### [< Back to Raspberry Pi >](/posts/RaspberryPi/)

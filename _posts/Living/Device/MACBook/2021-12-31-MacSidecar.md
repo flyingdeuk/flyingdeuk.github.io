@@ -54,4 +54,6 @@ tags: [usefulapp, mac, sidecar]
 
 새로운 아이디어로 생겨나는 기능들은 필요에 의해서 생겨나는 경우가 많다. 알면 도움이 되지않을 까 생각한다. 
 
-[INDEX로 돌아가기](/posts/Macbook/)
+-----------
+
+### [< Back to MacBook >](/posts/Macbook/)

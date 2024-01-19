@@ -164,4 +164,6 @@ tags: [usefulapp, iphone, ringtone]
 
 위의 과정을 한번만 해보면 다음부터는 만들어놓은 단축어를 그냥 사용하면 되니... 좀 더 쉬어질 거라 생각한다.
 
-[INDEX로 돌아가기](/posts/Ipad/)
+-----------
+
+### [< Back to iPad >](/posts/Ipad/)

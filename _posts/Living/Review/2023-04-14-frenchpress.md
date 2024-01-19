@@ -118,4 +118,6 @@ pin:
 [Breville 870 Coffee Machine - 호주 브레빌 870 반자동 커피머신 직구로 사용하기 (Feat. 한글 사용설명서, 펌프, 전원선 교체)](/posts/breville/)
 
 
-[INDEX로 돌아가기](/categories/review/)
+-------------
+
+### [< Back to REVIEW INDEX >](/categories/review/)

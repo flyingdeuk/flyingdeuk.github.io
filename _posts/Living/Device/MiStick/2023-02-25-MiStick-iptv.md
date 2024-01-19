@@ -64,4 +64,6 @@ pin:
 결국은 KODI라는 막강한 놈이 제일이라는 결론에 이르게 된다. 
 
 
-[INDEX로 돌아가기](/posts/MiStick/)
+-----------
+
+### [< Back to MiStick >](/posts/MiStick/)

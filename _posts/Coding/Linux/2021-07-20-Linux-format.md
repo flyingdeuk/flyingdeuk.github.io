@@ -103,3 +103,7 @@ $ sudo chown -R deuktest:deuktest /home/DeukTest
 ```
 $ sudo chmod -R 755 /home/DeukTest
 ```
+
+-------------
+
+### [< Back to LINUX INDEX >](/categories/linux/)

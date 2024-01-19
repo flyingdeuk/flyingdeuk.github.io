@@ -99,4 +99,6 @@ and check to make sure that only the key(s) you wanted were added.
 노트북은 통상 자신만의 PC이고 자신만의 세계라는 개념이 강한 것 같다. 내 노트북엔 이와 같은 방식으로 key를 저장하여 사용하는 것도 나쁘진 않은 것같다.
 
 
-[INDEX로 돌아가기](/posts/RaspberryPi/)
+-----------
+
+### [< Back to Raspberry Pi >](/posts/RaspberryPi/)

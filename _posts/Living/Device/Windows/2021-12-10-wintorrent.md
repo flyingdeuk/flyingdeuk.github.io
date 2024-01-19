@@ -133,4 +133,6 @@ __Streaming을 지원하기 때문에 보면서 다운로드가 가능.__ --> �
 
 @ 바로가기 : [안드로이드 핸드폰 wifi 저장소로 사용하기](/posts/UsingHotspot/)
 
-[INDEX로 돌아가기](/posts/windows/)
+----------
+
+### [< Back to Windows >](/posts/windows/)

@@ -84,3 +84,7 @@ pin:
 처음에는 직관적으로 리모컨으로 거실의 조명을 한 곳에서 켜고 끄는 목적으로 해당 제품을 구매했다. <br>
 여기에다가 RF/적외선 공용 Smart Remote Control을 추가하면 "OK Google"과 찰떡 궁합이 된다.
 >다음 포스팅 참조
+
+-------------
+
+### [< Back to REVIEW INDEX >](/categories/review/)

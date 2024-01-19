@@ -77,3 +77,7 @@ OpenSource에 반해서 이 블로그를 시작하게 되었다. 다른 어떤 �
 대표적인 것이 Wikipedia, Opensubtitles, KODI, Linux등등...
 
 그래서 오늘도 이와 유사한 필요를 느끼는 사람들을 위해서... 글을 쓴다.
+
+-------------
+
+### [< Back to SITES INDEX >](/categories/site/)

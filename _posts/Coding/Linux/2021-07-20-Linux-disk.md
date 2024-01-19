@@ -107,3 +107,8 @@ Disk identifier: 0xbbb5899b
 Device     Boot Start       End   Sectors   Size Id Type
 /dev/sda1  *       64 250068991 250068928 119.2G  7 HPFS/NTFS/exFAT
 ```
+
+
+-------------
+
+### [< Back to LINUX INDEX >](/categories/linux/)

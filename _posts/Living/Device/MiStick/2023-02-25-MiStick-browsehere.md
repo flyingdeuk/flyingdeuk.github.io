@@ -82,4 +82,6 @@ FIRETV의 Silk Browser, Chrome Cast의 Puffin과는 다른 방법의 광고차�
 광고의 방법도 발전하고 차단의 방법도 발전한다. 가능하면 불 필요한 광고는 차단하는 것이 개인의 시간을 아끼는 방법의 하나가 아닐까... 잘만 활용하면... 좋을 듯하다. 
 
 
-[INDEX로 돌아가기](/posts/MiStick/)
+-----------
+
+### [< Back to MiStick >](/posts/MiStick/)
