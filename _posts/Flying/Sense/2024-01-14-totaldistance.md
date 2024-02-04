@@ -22,6 +22,7 @@ pin:
 ------------
 
 # 총 거리 검증 (Total Distance)
+> 이는 기본적인 RTE Page의 항로와 Fix를 일일이 확인하고 LEG Page의 모든 Fix들을 확인하고 나서 이루어지는 절차이다. 
 
 Flight Plan의 총 거리는 크게 3개로 나눠 생각할 수 있다. 
 - SID : 제일 먼 거리를 기준으로 작성됨.
