@@ -17,7 +17,7 @@ pin:
 # WheelofNames
 ![spinwheel](/img/living/site/spinwheel.jpg)
 
-## https://wheelofnames.com
+## <https://wheelofnames.com>
 - 그래픽과 인터페이스가 깔끔해서 선정하려다가 광고가 나오는 것 때문에 선정이 되지는 않았지만 괜찮은 사이트이다. 
 - 개인 이미지 업로드와 명단의 개별 저장이 가능한 것이 장점
 
@@ -26,7 +26,7 @@ pin:
 # RandomNamePicker for Lucky Draw
 ![spinwheel](/img/living/site/lucky.jpg)
 
-## https://pinkylam.me/playground/random-name-picker/
+## <https://pinkylam.me/playground/random-name-picker/>
 - 사용이 간단하고 광고가 없으며 마치 카지노같은 디자인에 괜찮은 사이트
 - 명단의 사전 저장이 안되어 매번 해줘야하는 것이 단점
 
@@ -36,7 +36,7 @@ pin:
 
 ![spinwheel](/img/living/site/spinwheel11.jpg)
 
-## https://spinthewheel.io
+## <https://spinthewheel.io>
 - 광고가 나오지않게 설정이 가능해서 최종 선정된 사이트이다. 
 - 배경등의 이미지를 변경이 가능하나 Unsplash의 저작권 Free 이미지만 사용이 가능한 것은 단점이며 구글로 로그인해서 서버에 명단을 저장하는 것은 편하기도 하고 한편으로는 로그인을 해야하는 단점이 존재한다. 
 
