@@ -1,7 +1,7 @@
 ---
-title: Flight Plan - FMS DATA 검증 Part 2. (WIND DATA 입력법) <2024.2.4 Updated>
+title: Flight Plan - FMS DATA 검증 Part 2. (WIND DATA 입력법) <2024.3.24 Updated>
 author: FlyingDeuk
-date: 2024-02-4
+date: 2024-03-24
 categories: [Flying, FlyingSense]
 tags: [flyingsense, flightplan, fms, wind]
 pin:
