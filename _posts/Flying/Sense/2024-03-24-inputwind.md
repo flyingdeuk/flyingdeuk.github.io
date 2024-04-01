@@ -69,7 +69,7 @@ B737의 절차를 알아본다.
 - FMS에 Performance에 TOC(Top of Climb)의 바람과 온도를 넣어준다. (이는 추가 바람을 입력하지 않더라도 모든 LEG WIND의 Initial 값을 넣어주는 효과가 있다. 즉 모든 LEG가 같은 값으로 다 복사된다.)
 
 ![inputwind](/img/flying/sense/inputwind5.jpg)
-- 상기의 입력된 바람이 Default와 같이 입력이 Small Font로 되고 이후는 다시 넣어주는 값이 Large Font로 들어가게된다. (PERF INT에 TOC 바람을 넣지않으면 모두가 000/00으로 표시된다. 
+- 상기의 입력된 바람이 Default와 같이 입력이 Small Font로 되고 이후는 다시 넣어주는 값이 Large Font로 들어가게된다. (PERF INT에 TOC 바람을 넣지않으면 모두가 000/00으로 표시된다.)
 
 `위에서 언급한데로 Flight Plan의 연료와 시간은 결국은 해당 고도의 온도와 바람을 기준으로 같은 로직으로 계산된 것이므로 조종사는 Flight Plan과 FMS의 데이터를 동일하게 맞춰 오류가 있는 지 동일하게 계산되는 지 확인하는 것이 결국은 조종사에 의해서 이루어지는 검증 절차의 이유이다... Part 2.`
 
