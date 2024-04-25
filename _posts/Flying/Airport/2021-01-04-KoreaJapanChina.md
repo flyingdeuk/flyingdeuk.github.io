@@ -41,6 +41,8 @@ pin:
 
 #### [RJCC(CTS) - 일본 삿포로(뉴 치토세 공항)](/posts/RJCC-CTS/)
 
+#### [RJSA(AOJ) - 일본 아오모리(아모모리 공항)](/posts/RJSA-AOJ/)
+
 --------
 
 ## China
@@ -72,6 +74,8 @@ pin:
 #### [ZLXY(WEH) - 중국 웨이하이(따쉐이푸오 공항)](/posts/ZSWH-WEH/)
 
 #### [ZGHA(CSX) - 중국 창사(후앙후아 공항)](/posts/ZGHA-CSX/)
+
+#### [ZGDY(DYG) - 중국 장자제(허화 공항)](/posts/ZGDY-DYG/)
 
 --------
 
