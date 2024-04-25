@@ -14,7 +14,7 @@ pin:
 
 - #### [RCTP(TPE) - 타이완 (타이페이 타오유엔 공항)](/posts/RCTP-TPE/)
 
-- #### [RCTP(TPE) - 타이완 (타이중 친찬강 공항)](/posts/RCMQ-RMQ/)
+- #### [RCTP(TPE) - 타이완 (타이중 칭찬강 공항)](/posts/RCMQ-RMQ/)
 
 ### 싱가포르
 
