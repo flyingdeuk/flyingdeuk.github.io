@@ -1,5 +1,5 @@
 ---
-title: Korean TV Movie Site - 한국 방송 영화 사이트 모음 <2024.4.1 Updated>
+title: Korean TV Movie Site - 한국 방송 영화 사이트 모음 <2024.6.1 Updated>
 author: FlyingDeuk
 date: 2020-08-16
 categories: [Living, Site]
@@ -35,10 +35,17 @@ pin:
 
 # 추천 재방송 사이트
 
-## 솜사탕 TV <https://www.somsatangv.net>
+## 솜사탕 TV <https://www.somsatangv.xyz>
 ![site](/img/living/site/site4.jpg)
 
 > 여러 소스를 선택하지 않고 간단하게 한번에 연결되는 게 장점임. 성인 광고가 없어서 현재는 한국 방송 재방송 보는 데 가장 많이 이용하는 사이트 (단점은 화질이 좋지는 않다.)
+
+## 타조 TV <https://tajotv.com>
+
+![site](/img/living/site/tajo.jpg)
+
+> 솜사탕 TV에서 연결되는 사이트로 회차별 정리가 잘 되어있고 최신 영화도 많이 올라와 있는 사이트. 성인광고가 없는 것도 장점임. 
+
 
 ## 노루티비 TV <https://www.norutv.com>
 
