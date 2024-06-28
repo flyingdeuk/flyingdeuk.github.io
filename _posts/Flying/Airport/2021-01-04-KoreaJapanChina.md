@@ -23,6 +23,8 @@ pin:
 
 #### [RKTU(CJJ) - 한국 청주(청주 국제공항)](/posts/RKTU-CJJ/)
 
+#### [RKTN(TAE) - 한국 대구(대구 국제공항)](/posts/RKTN-TAE/)
+
 -------
 
 ## Japan
