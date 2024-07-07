@@ -1,0 +1,217 @@
+Last login: Mon Jun 24 01:05:22 on ttys000
+flyingdeuk@FlyingDeukui-MacBook-Air ~ % ls -al
+total 72
+drwxr-xr-x+ 27 flyingdeuk  staff    864  6 24 19:10 .
+drwxr-xr-x   6 root        admin    192  5  2 18:37 ..
+-r--------   1 flyingdeuk  staff      8  5  4 12:43 .CFUserTextEncoding
+-rw-r--r--@  1 flyingdeuk  staff  12292  6  3 01:43 .DS_Store
+drwx------+  7 flyingdeuk  staff    224  6 24 19:08 .Trash
+-rw-------   1 flyingdeuk  staff    166  5  8 18:05 .bash_history
+drwx------   3 flyingdeuk  staff     96  5  4 13:44 .bash_sessions
+drwx------   3 flyingdeuk  staff     96  5  8 18:34 .cups
+-rw-r--r--   1 flyingdeuk  staff     54  5  6 13:14 .gitconfig
+drwxr-xr-x   3 flyingdeuk  staff     96  5  4 23:18 .kodi
+drwx------   4 flyingdeuk  staff    128  5  6 20:08 .ssh
+-rw-------   1 root        staff   1163  5  8 04:03 .viminfo
+drwx------   7 flyingdeuk  staff    224  5 17 16:22 .vnc
+drwxr-xr-x   5 flyingdeuk  staff    160  5  4 13:55 .vscode
+-rw-------   1 flyingdeuk  staff   1516  6 24 01:07 .zsh_history
+drwx------   6 flyingdeuk  staff    192  6 24 19:10 .zsh_sessions
+drwx------@  5 flyingdeuk  staff    160  5  4 22:04 Applications
+drwx------+  6 flyingdeuk  staff    192  5  6 12:19 Desktop
+drwx------+  3 flyingdeuk  staff     96  5  4 04:21 Documents
+drwx------@ 14 flyingdeuk  staff    448  6 24 19:10 Downloads
+drwx------@ 89 flyingdeuk  staff   2848  5 17 16:22 Library
+drwx------+  6 flyingdeuk  staff    192  5  5 00:01 Movies
+drwx------+  8 flyingdeuk  staff    256  5 19 09:53 Music
+drwx------+  6 flyingdeuk  staff    192  5 17 16:22 Pictures
+drwxr-xr-x+  5 flyingdeuk  staff    160  5  4 04:21 Public
+lrwx------   1 flyingdeuk  staff     69  6 22 20:56 deukhcho@gmail.com - Google Drive -> /Users/flyingdeuk/Library/CloudStorage/GoogleDrive-deukhcho@gmail.com
+lrwx------   1 flyingdeuk  staff     69  6 24 15:34 deukhome@gmail.com - Google Drive -> /Users/flyingdeuk/Library/CloudStorage/GoogleDrive-deukhome@gmail.com
+flyingdeuk@FlyingDeukui-MacBook-Air ~ % cd Downloads 
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % ls -al
+total 4272
+drwx------@ 14 flyingdeuk  staff     448  6 24 19:10 .
+drwxr-xr-x+ 27 flyingdeuk  staff     864  6 24 19:10 ..
+-rw-r--r--@  1 flyingdeuk  staff    6148  6 24 19:07 .DS_Store
+-rw-------   1 flyingdeuk  staff       0  5  4 04:21 .localized
+-rw-r--r--@  1 flyingdeuk  staff   12835  4 16 10:25 NFAuthenticationKey.py
+drwxr-xr-x  16 flyingdeuk  staff     512  6  7 17:22 STEP CLIMB
+-rw-r--r--@  1 flyingdeuk  staff  594871  6  7 17:46 스크린샷 2024-06-07 오후 4.46.11.png
+-rw-r--r--@  1 flyingdeuk  staff  349423  6 24 19:07 스크린샷 2024-06-24 오후 7.07.27.png
+-rw-r--r--@  1 flyingdeuk  staff   44204  6 24 19:08 스크린샷 2024-06-24 오후 7.08.25.png
+-rw-r--r--@  1 flyingdeuk  staff  222901  6 24 19:08 스크린샷 2024-06-24 오후 7.08.29.png
+-rw-r--r--@  1 flyingdeuk  staff  273994  6 24 19:08 스크린샷 2024-06-24 오후 7.08.47.png
+-rw-r--r--@  1 flyingdeuk  staff  211329  6 24 19:09 스크린샷 2024-06-24 오후 7.09.04.png
+-rw-r--r--@  1 flyingdeuk  staff  221692  6 24 19:09 스크린샷 2024-06-24 오후 7.09.10.png
+-rw-r--r--@  1 flyingdeuk  staff  226635  6 24 19:10 스크린샷 2024-06-24 오후 7.10.41.png
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % 
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % 
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % 
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % cd/
+zsh: no such file or directory: cd/
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % cd~
+zsh: command not found: cd~
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % cd ~
+flyingdeuk@FlyingDeukui-MacBook-Air ~ % ls -a
+.					.zsh_history
+..					.zsh_sessions
+.CFUserTextEncoding			Applications
+.DS_Store				Desktop
+.Trash					Documents
+.bash_history				Downloads
+.bash_sessions				Library
+.cups					Movies
+.gitconfig				Music
+.kodi					Pictures
+.ssh					Public
+.viminfo				deukhcho@gmail.com - Google Drive
+.vnc					deukhome@gmail.com - Google Drive
+.vscode
+flyingdeuk@FlyingDeukui-MacBook-Air ~ % ls -al
+total 72
+drwxr-xr-x+ 27 flyingdeuk  staff    864  6 24 19:10 .
+drwxr-xr-x   6 root        admin    192  5  2 18:37 ..
+-r--------   1 flyingdeuk  staff      8  5  4 12:43 .CFUserTextEncoding
+-rw-r--r--@  1 flyingdeuk  staff  12292  6  3 01:43 .DS_Store
+drwx------+  7 flyingdeuk  staff    224  6 24 19:08 .Trash
+-rw-------   1 flyingdeuk  staff    166  5  8 18:05 .bash_history
+drwx------   3 flyingdeuk  staff     96  5  4 13:44 .bash_sessions
+drwx------   3 flyingdeuk  staff     96  5  8 18:34 .cups
+-rw-r--r--   1 flyingdeuk  staff     54  5  6 13:14 .gitconfig
+drwxr-xr-x   3 flyingdeuk  staff     96  5  4 23:18 .kodi
+drwx------   4 flyingdeuk  staff    128  5  6 20:08 .ssh
+-rw-------   1 root        staff   1163  5  8 04:03 .viminfo
+drwx------   7 flyingdeuk  staff    224  5 17 16:22 .vnc
+drwxr-xr-x   5 flyingdeuk  staff    160  5  4 13:55 .vscode
+-rw-------   1 flyingdeuk  staff   1516  6 24 01:07 .zsh_history
+drwx------   6 flyingdeuk  staff    192  6 24 19:10 .zsh_sessions
+drwx------@  5 flyingdeuk  staff    160  5  4 22:04 Applications
+drwx------+  6 flyingdeuk  staff    192  5  6 12:19 Desktop
+drwx------+  3 flyingdeuk  staff     96  5  4 04:21 Documents
+drwx------@ 14 flyingdeuk  staff    448  6 24 19:10 Downloads
+drwx------@ 89 flyingdeuk  staff   2848  5 17 16:22 Library
+drwx------+  6 flyingdeuk  staff    192  5  5 00:01 Movies
+drwx------+  8 flyingdeuk  staff    256  5 19 09:53 Music
+drwx------+  6 flyingdeuk  staff    192  5 17 16:22 Pictures
+drwxr-xr-x+  5 flyingdeuk  staff    160  5  4 04:21 Public
+lrwx------   1 flyingdeuk  staff     69  6 22 20:56 deukhcho@gmail.com - Google Drive -> /Users/flyingdeuk/Library/CloudStorage/GoogleDrive-deukhcho@gmail.com
+lrwx------   1 flyingdeuk  staff     69  6 24 15:34 deukhome@gmail.com - Google Drive -> /Users/flyingdeuk/Library/CloudStorage/GoogleDrive-deukhome@gmail.com
+flyingdeuk@FlyingDeukui-MacBook-Air ~ % cd Downloads 
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % ls -al
+total 4272
+drwx------@ 14 flyingdeuk  staff     448  6 24 19:10 .
+drwxr-xr-x+ 27 flyingdeuk  staff     864  6 24 19:10 ..
+-rw-r--r--@  1 flyingdeuk  staff    6148  6 24 19:07 .DS_Store
+-rw-------   1 flyingdeuk  staff       0  5  4 04:21 .localized
+-rw-r--r--@  1 flyingdeuk  staff   12835  4 16 10:25 NFAuthenticationKey.py
+drwxr-xr-x  16 flyingdeuk  staff     512  6  7 17:22 STEP CLIMB
+-rw-r--r--@  1 flyingdeuk  staff  594871  6  7 17:46 스크린샷 2024-06-07 오후 4.46.11.png
+-rw-r--r--@  1 flyingdeuk  staff  349423  6 24 19:07 스크린샷 2024-06-24 오후 7.07.27.png
+-rw-r--r--@  1 flyingdeuk  staff   44204  6 24 19:08 스크린샷 2024-06-24 오후 7.08.25.png
+-rw-r--r--@  1 flyingdeuk  staff  222901  6 24 19:08 스크린샷 2024-06-24 오후 7.08.29.png
+-rw-r--r--@  1 flyingdeuk  staff  273994  6 24 19:08 스크린샷 2024-06-24 오후 7.08.47.png
+-rw-r--r--@  1 flyingdeuk  staff  211329  6 24 19:09 스크린샷 2024-06-24 오후 7.09.04.png
+-rw-r--r--@  1 flyingdeuk  staff  221692  6 24 19:09 스크린샷 2024-06-24 오후 7.09.10.png
+-rw-r--r--@  1 flyingdeuk  staff  226635  6 24 19:10 스크린샷 2024-06-24 오후 7.10.41.png
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % cd/~    
+zsh: no such file or directory: cd/~
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % ls -al
+total 4272
+drwx------@ 14 flyingdeuk  staff     448  6 24 19:10 .
+drwxr-xr-x+ 27 flyingdeuk  staff     864  6 24 19:10 ..
+-rw-r--r--@  1 flyingdeuk  staff    6148  6 24 19:07 .DS_Store
+-rw-------   1 flyingdeuk  staff       0  5  4 04:21 .localized
+-rw-r--r--@  1 flyingdeuk  staff   12835  4 16 10:25 NFAuthenticationKey.py
+drwxr-xr-x  16 flyingdeuk  staff     512  6  7 17:22 STEP CLIMB
+-rw-r--r--@  1 flyingdeuk  staff  594871  6  7 17:46 스크린샷 2024-06-07 오후 4.46.11.png
+-rw-r--r--@  1 flyingdeuk  staff  349423  6 24 19:07 스크린샷 2024-06-24 오후 7.07.27.png
+-rw-r--r--@  1 flyingdeuk  staff   44204  6 24 19:08 스크린샷 2024-06-24 오후 7.08.25.png
+-rw-r--r--@  1 flyingdeuk  staff  222901  6 24 19:08 스크린샷 2024-06-24 오후 7.08.29.png
+-rw-r--r--@  1 flyingdeuk  staff  273994  6 24 19:08 스크린샷 2024-06-24 오후 7.08.47.png
+-rw-r--r--@  1 flyingdeuk  staff  211329  6 24 19:09 스크린샷 2024-06-24 오후 7.09.04.png
+-rw-r--r--@  1 flyingdeuk  staff  221692  6 24 19:09 스크린샷 2024-06-24 오후 7.09.10.png
+-rw-r--r--@  1 flyingdeuk  staff  226635  6 24 19:10 스크린샷 2024-06-24 오후 7.10.41.png
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % cd ~/Downloads 
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % ls -al
+total 4272
+drwx------@ 14 flyingdeuk  staff     448  6 24 19:10 .
+drwxr-xr-x+ 27 flyingdeuk  staff     864  6 24 19:10 ..
+-rw-r--r--@  1 flyingdeuk  staff    6148  6 24 19:07 .DS_Store
+-rw-------   1 flyingdeuk  staff       0  5  4 04:21 .localized
+-rw-r--r--@  1 flyingdeuk  staff   12835  4 16 10:25 NFAuthenticationKey.py
+drwxr-xr-x  16 flyingdeuk  staff     512  6  7 17:22 STEP CLIMB
+-rw-r--r--@  1 flyingdeuk  staff  594871  6  7 17:46 스크린샷 2024-06-07 오후 4.46.11.png
+-rw-r--r--@  1 flyingdeuk  staff  349423  6 24 19:07 스크린샷 2024-06-24 오후 7.07.27.png
+-rw-r--r--@  1 flyingdeuk  staff   44204  6 24 19:08 스크린샷 2024-06-24 오후 7.08.25.png
+-rw-r--r--@  1 flyingdeuk  staff  222901  6 24 19:08 스크린샷 2024-06-24 오후 7.08.29.png
+-rw-r--r--@  1 flyingdeuk  staff  273994  6 24 19:08 스크린샷 2024-06-24 오후 7.08.47.png
+-rw-r--r--@  1 flyingdeuk  staff  211329  6 24 19:09 스크린샷 2024-06-24 오후 7.09.04.png
+-rw-r--r--@  1 flyingdeuk  staff  221692  6 24 19:09 스크린샷 2024-06-24 오후 7.09.10.png
+-rw-r--r--@  1 flyingdeuk  staff  226635  6 24 19:10 스크린샷 2024-06-24 오후 7.10.41.png
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % pip install pycryptodomex
+zsh: command not found: pip
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % pip install pip3
+zsh: command not found: pip
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % pip 
+zsh: command not found: pip
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % pip3 install pycryptodomex
+Defaulting to user installation because normal site-packages is not writeable
+Collecting pycryptodomex
+  Downloading pycryptodomex-3.20.0-cp35-abi3-macosx_10_9_x86_64.whl (1.6 MB)
+     |████████████████████████████████| 1.6 MB 3.8 MB/s 
+Installing collected packages: pycryptodomex
+Successfully installed pycryptodomex-3.20.0
+WARNING: You are using pip version 21.2.4; however, version 24.1 is available.
+You should consider upgrading via the '/Library/Developer/CommandLineTools/usr/bin/python3 -m pip install --upgrade pip' command.
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % python3 -m pip install --upgrade pip
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pip in /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/site-packages (21.2.4)
+Collecting pip
+  Downloading pip-24.1-py3-none-any.whl (1.8 MB)
+     |████████████████████████████████| 1.8 MB 3.8 MB/s 
+Installing collected packages: pip
+  WARNING: The scripts pip, pip3 and pip3.9 are installed in '/Users/flyingdeuk/Library/Python/3.9/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed pip-24.1
+WARNING: You are using pip version 21.2.4; however, version 24.1 is available.
+You should consider upgrading via the '/Library/Developer/CommandLineTools/usr/bin/python3 -m pip install --upgrade pip' command.
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % 
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % /Library/Developer/CommandLineTools/usr/bin/python3 -m pip install --upgrade pip
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pip in /Users/flyingdeuk/Library/Python/3.9/lib/python/site-packages (24.1)
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % python3 -m pip install --upgrade pip
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pip in /Users/flyingdeuk/Library/Python/3.9/lib/python/site-packages (24.1)
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % pip3 install websocket-client
+Defaulting to user installation because normal site-packages is not writeable
+Collecting websocket-client
+  Downloading websocket_client-1.8.0-py3-none-any.whl.metadata (8.0 kB)
+Downloading websocket_client-1.8.0-py3-none-any.whl (58 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 58.8/58.8 kB 1.1 MB/s eta 0:00:00
+Installing collected packages: websocket-client
+  WARNING: The script wsdump is installed in '/Users/flyingdeuk/Library/Python/3.9/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed websocket-client-1.8.0
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % python NFAuthenticationKey.py 
+zsh: command not found: python
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % python3 NFAuthenticationKey.py
+
+NFAuthentication Key for Linux/MacOS (Version 1.1.8)
+
+Disclaimer:
+This script and source code available on GitHub are provided "as is" without warranty of any kind, either express or implied. Use at your own risk. The use of the software is done at your own discretion and risk with the agreement that you will be solely responsible for any damage resulting from such activities and you are solely responsible for adequate data protection.
+
+Press "ENTER" key to accept the disclaimer and start, or "CTRL+C" to cancel
+Browser startup... (/Applications/Google Chrome.app/Contents/MacOS/Google Chrome) please wait
+Establish connection with the browser... please wait
+Opening login webpage... please wait
+Please login in to website now ...waiting for you to finish...
+Verification of data in progress... please wait
+/Users/flyingdeuk/Downloads/NFAuthenticationKey.py:274: DeprecationWarning: invalid escape sequence '\/'
+  json_str_replace = json_str_replace.encode().decode('unicode_escape')  # Decode the string as unicode
+File creation in progress... please wait
+Operations completed!
+The "NFAuthentication.key" file has been saved in current folder.
+Your PIN protection is: 5604
+flyingdeuk@FlyingDeukui-MacBook-Air Downloads % 
