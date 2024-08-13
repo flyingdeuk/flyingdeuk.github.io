@@ -45,6 +45,8 @@ pin:
 
 #### [RJSA(AOJ) - 일본 아오모리(아모모리 공항)](/posts/RJSA-AOJ/)
 
+#### [RJSN(KIJ) - 일본 니가타(니가타 공항)](/posts/RJSN-KIJ/)
+
 --------
 
 ## China
