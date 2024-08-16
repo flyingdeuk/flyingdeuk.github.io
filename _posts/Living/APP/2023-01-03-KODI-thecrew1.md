@@ -9,6 +9,9 @@ pin:
 
 ![thecrew](/img/living/kodi/thecrew12.jpg)
 
+- ### Revision : [KODI Scrubs V2 Addons Install & Setup - TheCrew 대체 애드온 Scrubs V2 설치 및 사용법 (Feat. Scrubs V2, a4kSubtitles, SUBDL, Opensubtitles)](/posts/KODI-scrubs/)
+  - 최신 애드온 (2024.8)
+  
 `FlyingDeuk's`
 > 이전 포스팅에서 설치한 TheCrew를 설정하고 사용하는 방법이다. a4kSubtiles은 특별한 설정이 필요없다. 역시 사용법은 ThePromise와 동일하다.
 

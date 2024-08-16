@@ -7,6 +7,10 @@ tags: [usefulapp, mac, android, windows, linux, kodi]
 pin:
 ---
 
+- ### Revision : [KODI Scrubs V2 Addons Install & Setup - TheCrew 대체 애드온 Scrubs V2 설치 및 사용법 (Feat. Scrubs V2, a4kSubtitles, SUBDL, Opensubtitles)](/posts/KODI-scrubs/)
+  - 최신 애드온 (2024.8)
+
+  
 ## 긴급 다른 경로를 지인분이 찾아주어 다시 UPDATE함. 아직까지는 설치가능함.
 
 ![oath](/img/living/kodi/promise5.jpg)

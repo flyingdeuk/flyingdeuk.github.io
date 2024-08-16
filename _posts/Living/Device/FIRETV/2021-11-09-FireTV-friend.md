@@ -9,7 +9,9 @@ pin:
 
 ![fire](/img/living/fire/stick.jpg)
 
-
+- ### Revision : [KODI Scrubs V2 Addons Install & Setup - TheCrew 대체 애드온 Scrubs V2 설치 및 사용법 (Feat. Scrubs V2, a4kSubtitles, SUBDL, Opensubtitles)](/posts/KODI-scrubs/)
+  - 최신 애드온 (2024.8)
+  
 `FlyingDeuk's`
 > 친구 몇몇에게 파이어 티비를 setting해서 선물했다. <br>
 그에 대한 사용법이다.  

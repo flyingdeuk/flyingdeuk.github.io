@@ -9,6 +9,9 @@ pin:
 
 ![thecrew](/img/living/kodi/thecrew12.jpg)
 
+- ### Revision : [KODI Scrubs V2 Addons Install & Setup - TheCrew 대체 애드온 Scrubs V2 설치 및 사용법 (Feat. Scrubs V2, a4kSubtitles, SUBDL, Opensubtitles)](/posts/KODI-scrubs/)
+  - 최신 애드온 (2024.8)
+  
 `FlyingDeuk's`
 > KODI 베스트 에드온의 역사는 이 블로그의 흔적으로도 알 수 있다. 어떤 이유인지는 모르겠으나 가끔씩 막히는 Repository의 영향으로 새롭게 설치가 안되니 말이다.
 가장 최근에 찾아본 괜찮은 에드온인 TheCrew를 소개한다.

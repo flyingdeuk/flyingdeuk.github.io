@@ -9,6 +9,10 @@ pin:
 
 ![chrome](/img/living/chromecast/chromecast0.jpg)
 
+- ### Revision : [KODI Scrubs V2 Addons Install & Setup - TheCrew 대체 애드온 Scrubs V2 설치 및 사용법 (Feat. Scrubs V2, a4kSubtitles, SUBDL, Opensubtitles)](/posts/KODI-scrubs/)
+  - 최신 애드온 (2024.8)
+
+
 `FlyingDeuk's`
 > 여러 기기에 설치가 가능한 활용도 높은 미디어 센터 APP KODI의 구글 ChromeCast 설치 방법이다.
 

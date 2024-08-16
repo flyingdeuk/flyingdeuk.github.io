@@ -7,7 +7,10 @@ tags: [usefulapp, android, firetv]
 pin:
 ---
 
-`Revision : TheCrew Addon 으로 대체(2023.1)`
+- ### Revision : [KODI Scrubs V2 Addons Install & Setup - TheCrew 대체 애드온 Scrubs V2 설치 및 사용법 (Feat. Scrubs V2, a4kSubtitles, SUBDL, Opensubtitles)](/posts/KODI-scrubs/)
+  - 최신 애드온 (2024.8)
+
+  
 
 ![pilot](/img/living/fire/firetvpilot.jpg)
 

@@ -9,6 +9,9 @@ pin:
 
 ![fire](/img/living/fire/stick.jpg)
 
+- ### Revision : [KODI Scrubs V2 Addons Install & Setup - TheCrew 대체 애드온 Scrubs V2 설치 및 사용법 (Feat. Scrubs V2, a4kSubtitles, SUBDL, Opensubtitles)](/posts/KODI-scrubs/)
+  - 최신 애드온 (2024.8)
+  
 
 `FlyingDeuk's`
 > 8년간 열심히 기장님들께 FireTV를 세팅해 드렸다. 세팅한 어플들을 기준으로 사용법을 설명하고자 포스팅해본다.
