@@ -23,7 +23,7 @@ pin:
 - 회원가입하면 24시간 동안 5개의 자막은 무료란다. VIP회원은 1년에 15불... 일단은 무료로 그냥 사용하는 것이...
 
 ![scrubs](/img/living/kodi/scrub02.jpg)
-### https://www.opensubtitles.com
+### <https://www.opensubtitles.com>
 
 - 두개의 사이트가 존재한다. Opensubtitles.org 와 Opensubtitles.com
 - org는 과거의 사이트이고 com은 리뉴얼되는 사이트인듯한데... a4ksubtitle에는 .com 의 회원이 필요하니 .com 회원가입후 사용하는 것이 추천된다. 
@@ -34,7 +34,7 @@ pin:
 - 최근 새롭게 추가된 자막사이트이다. 역시 회원가입한다. 역시 이메일 인증이 필요하다. 
 
 ![scrubs](/img/living/kodi/scrub01.jpg)
-### https://subdl.com
+### <https://subdl.com>
 
 - 회원가입후 로그인한다. 
 
