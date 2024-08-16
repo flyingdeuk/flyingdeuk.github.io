@@ -1,5 +1,5 @@
 ---
-title: KODI Scrubs V2 Addons Install & Setup - TheCrew 대체 애드온 Scrubs V2 설치 및 사용법 (Feat. Scrubs V2, a4kSubtitles, SUBDL, Opensubtitles)
+title: KODI Scrubs V2 Addons Install & Setup - TheCrew 대체 애드온 Scrubs V2 설치 및 사용법 (Feat. Scrubs V2, a4kSubtitles, SUBDL, Opensubtitles) <2024.8.15 Updated>
 author: FlyingDeuk
 date: 2024-08-15 
 categories: [Living]
