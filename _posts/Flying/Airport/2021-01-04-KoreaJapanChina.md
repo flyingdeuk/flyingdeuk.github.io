@@ -81,6 +81,8 @@ pin:
 
 #### [ZGDY(DYG) - 중국 장자제(허화 공항)](/posts/ZGDY-DYG/)
 
+#### [ZSOF(HFE) - 중국 허페이(신치아오 공항)](/posts/ZSOF-HFE/)
+
 --------
 
 ### [< Back to Airport INDEX >](/categories/airport/)
