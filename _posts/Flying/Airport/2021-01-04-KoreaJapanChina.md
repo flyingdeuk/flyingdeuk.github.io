@@ -87,6 +87,8 @@ pin:
 
 ### [ZPPP(KMG) - 중국 쿤밍(창쉐이 공항)](/posts/ZPPP-KMG/)
 
+### [ZYMD(MDG) - 중국 무단장(하이랑 공항)](/posts/ZYMD-MDG/)
+
 --------
 
 ## [< Back to Airport INDEX >](/categories/airport/)
