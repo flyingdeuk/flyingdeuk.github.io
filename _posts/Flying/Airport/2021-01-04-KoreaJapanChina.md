@@ -89,6 +89,8 @@ pin:
 
 ### [ZYMD(MDG) - 중국 무단장(하이랑 공항)](/posts/ZYMD-MDG/)
 
+### [VMMC(MFM) - 중국 마카오(마카오 공항)](/posts/VMMC-MFM/)
+
 --------
 
 ## [< Back to Airport INDEX >](/categories/airport/)
