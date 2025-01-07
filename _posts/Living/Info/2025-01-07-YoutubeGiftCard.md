@@ -118,6 +118,7 @@ Gift Card를 사용하기 위해서 인도계정으로 APP STORE에 로그인한
 ## 드디어 성공!!!
 ![premium](/img/living/info/gift10.jpg)
 
+## 이후 APP STORE 다시 로그아웃이후 이전 계정으로 로그인하면 YOUTUBE만 인도 계정으로 설치가 되게 됨. 
 
 ------
 
