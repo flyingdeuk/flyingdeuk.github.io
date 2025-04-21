@@ -17,4 +17,4 @@ pin:
 
 # Boeing vs Airbus 차이점
 
-### [< Back to Boeing vs Airbus>](/categories/Boeing vs Airbus/)
+### [< Back to Boeing vs Airbus>](/categories/boeingvsairbus/)
