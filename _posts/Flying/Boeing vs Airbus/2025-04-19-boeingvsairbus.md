@@ -1,5 +1,5 @@
 ---
-title: BOEING vs AIRBUS (미국 보잉과 프랑스 에어버스의 차이점) <2025.4.19 Updated>
+title: BOEING vs AIRBUS (보잉 조종사에서 에어버스 조종사로 아님 반대로...) <2025.4.19 Updated>
 date: 2025-04-19
 categories: [Flying, BoeingvsAirbus]
 tags: [airbus, boeing]
