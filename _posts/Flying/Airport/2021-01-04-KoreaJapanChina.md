@@ -91,6 +91,8 @@ pin:
 
 ### [VMMC(MFM) - 중국 마카오(마카오 공항)](/posts/VMMC-MFM/)
 
+### [ZHHH(WUH) - 중국 우한(톈허 공항)](/posts/ZHHH-WUH/)
+
 --------
 
 ## [< Back to Airport INDEX >](/categories/airport/)
