@@ -6,7 +6,7 @@ tags: [airbus, boeing]
 pin:
 ---
 
-![abdiff](/img/flying/a330/abdiff1.jpg)
+![abdiff](/img/flying/a330/airbus_boeing.png)
 
 `FlyingDeuk's`
 > 대한항공에 입사해 처음 B737을 시작으로 B777이후 다시 B737 기장으로 다시 새로운 시작을.... 그러나 다시 장거리 기장으로의 전환을 마지막으로 기다리는 중... Airbus를.... (군에서 10년 민항에서 보잉만 14년 정도... 에어버스로 다시 시작...) -> 너무나도 낯설고 새롭고... 버겁다... 
