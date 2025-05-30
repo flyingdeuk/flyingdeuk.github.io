@@ -1,5 +1,5 @@
 ---
-title: Korean TV Movie Site - 한국 방송 영화 사이트 모음 <2025.5.30 Updated>
+title: Korean TV Movie Site - 한국 방송 영화 사이트 모음(Feat. FIRE TV, Xiaomi MiStick, Google Chrome Cast) <2025.5.30 Updated>
 author: FlyingDeuk
 date: 2020-08-16
 categories: [Living, Site]
@@ -32,15 +32,14 @@ pin:
 
 ![site](/img/living/site/ani114.jpg)
 
-> 솜사탕 TV에서 연결되는 사이트로 회차별 정리가 잘 되어있고 최신 영화도 많이 올라와 있는 사이트. 성인광고가 없는 것도 장점임. 
+> 에니메이션에 특화된 사이트. 다른 방송도 있음.
 
 
 ## TVMON <https://tvmon16.org>
 
 ![site](/img/living/site/tvmon.jpg)
 
-> 솜사탕 TV에서 연결되는 사이트로 썸네일로 정리가 잘 되어있어 정주행이 가능한 사이트(장점은 성인광고가 없고 단점은 화질이 좋지는 않다.)
-
+> 깔끔하게 잘 정리된 사이트
 
 
 ## 링크 천국  <https://www.hotword.site>
