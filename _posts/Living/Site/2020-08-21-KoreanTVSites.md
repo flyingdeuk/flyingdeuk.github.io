@@ -1,5 +1,5 @@
 ---
-title: Korean TV Movie Site - 한국 방송 영화 사이트 모음 <2024.6.1 Updated>
+title: Korean TV Movie Site - 한국 방송 영화 사이트 모음 <2025.5.30 Updated>
 author: FlyingDeuk
 date: 2020-08-16
 categories: [Living, Site]
@@ -13,15 +13,45 @@ pin:
 
 기본적으로 모든 사이트에서 드라마, 예능, 영화의 재방송을 모두 제공한다. 어느 서버에 연결이 되어있느냐 전체 화면을 자동으로 지원하느냐등 본인에게 맞는 사이트를 이용하면됨.
 
-# 추천 영화 사이트
+# 추천 방송 영화 사이트
 
-## 보자요넷 <https://k17.bozayo.net/>
+## 솜사탕 TV <https://www.somsatangv.xyz>
+![site](/img/living/site/site4.jpg)
+
+> 여러 소스를 선택하지 않고 간단하게 한번에 연결되는 게 장점임. 성인 광고가 없어서 현재는 한국 방송 재방송 보는 데 가장 많이 이용하는 사이트 (단점은 화질이 좋지는 않다.)
+
+
+## 보자요넷 <https://k59.bozayo.net/>
 ![site](/img/living/site/site6.jpg)
 - 다른 사이트가 그러하듯이 숫자를 증가시키면서 계속 사이트 주소가 바뀐다. 
 - 여러 사이트중 가장 최신작이 많이 올라오는 사이트
 - 광고 몇 개만 넘기고 나면 시청이 가능하다. 
 - 일부 링크는 다운로드가 가능하다. 
 
+## 얘니114 <https://a11.ani114.com>
+
+![site](/img/living/site/ani114.jpg)
+
+> 솜사탕 TV에서 연결되는 사이트로 회차별 정리가 잘 되어있고 최신 영화도 많이 올라와 있는 사이트. 성인광고가 없는 것도 장점임. 
+
+
+## TVMON <https://tvmon16.org>
+
+![site](/img/living/site/tvmon.jpg)
+
+> 솜사탕 TV에서 연결되는 사이트로 썸네일로 정리가 잘 되어있어 정주행이 가능한 사이트(장점은 성인광고가 없고 단점은 화질이 좋지는 않다.)
+
+
+
+## 링크 천국  <https://www.hotword.site>
+![site](/img/living/site/site3.jpg)
+
+> 여러 가지 다시 보기 사이트들을 모아놓은 사이트이다. 여기에서 본인에게 맞는 사이트로 들어가서 북마크 하면 되겠다.
+
+
+-------
+
+# 서비스 종료 재방송 사이트
 
 ## ~~코리안즈 <https://koreanz25.fun/>~~ -> 최근에 막혔다.
 ![site](/img/living/site/site1.jpg)
@@ -31,49 +61,10 @@ pin:
 - ~~최근 토렌트 서비스도 추가되었다.~~
 - ~~한국 TV 재방송도 서비스 된다.~~ 
 
-------------
-
-# 추천 재방송 사이트
-
-## 솜사탕 TV <https://www.somsatangv.xyz>
-![site](/img/living/site/site4.jpg)
-
-> 여러 소스를 선택하지 않고 간단하게 한번에 연결되는 게 장점임. 성인 광고가 없어서 현재는 한국 방송 재방송 보는 데 가장 많이 이용하는 사이트 (단점은 화질이 좋지는 않다.)
-
-## 타조 TV <https://tajotv.com>
-
-![site](/img/living/site/tajo.jpg)
-
-> 솜사탕 TV에서 연결되는 사이트로 회차별 정리가 잘 되어있고 최신 영화도 많이 올라와 있는 사이트. 성인광고가 없는 것도 장점임. 
-
-
-## 노루티비 TV <https://www.norutv.com>
-
-![site](/img/living/site/site5.jpg)
-
-> 솜사탕 TV에서 연결되는 사이트로 썸네일로 정리가 잘 되어있어 정주행이 가능한 사이트(장점은 성인광고가 없고 단점은 화질이 좋지는 않다.)
-
-
-## 링크 천국  <https://www.hotword.site>
-![site](/img/living/site/site3.jpg)
-
-> 여러 가지 다시 보기 사이트들을 모아놓은 사이트이다. 여기에서 본인에게 맞는 사이트로 들어가서 북마크 하면 되겠다.
-
-
-
-### ~~타키 TV <https://t1.takitv.net/>~~
-![site](/img/living/site/site2.jpg)
-
-> ~~간단하게 정리가 잘 되어 있고 소스의 이름을 표시해둔 사이트.~~
-
-# 한국 실시간 사이트
-
 ### ~~리얼타임 TV <https://www.realttv.com>~~
 현재 운영이 중단된 상태인듯하다.
 > ~~전세계에서 실시간 방송을 볼 수 있는 사이트.<br>
 상단의 다시보기를 클릭하면 다시보기 최신 사이트로 연결됨. <br> 화질은 조금 떨어져도 광고가 적어 속도가 느린 곳에서는 괜찮은 사이트.~~
-
-# 서비스 종료 재방송 사이트
 
 ### ~~다시보기 <https://n1.etvlink.com>~~
 >위 리얼타임 TV에서 다시보기 누르면 연결되는 사이트<br>
