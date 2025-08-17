@@ -54,6 +54,8 @@ pin:
 ### 인도네시아
 - #### [WIII(CGK) - 인도네시아 자카르타(수카르노 하타 공항)](/posts/WIII-CGK/)
 
+- #### [WADD(DPS) - 인도네시아 덴파사르 발리 (웅우라라이 공항)](/posts/WADD-DPS/)
+
 ### 캄보디아
 
 - #### [VDPP(PNH) - 캄보디아 프놈펜(프놈펜 공항)](/posts/VDPP-PNH/)
