@@ -93,6 +93,8 @@ pin:
 
 ### [ZHHH(WUH) - 중국 우한(톈허 공항)](/posts/ZHHH-WUH/)
 
+### [ZGSZ(SZX) - 중국 선전(바오안 공항)](/posts/ZGSZ-SZX/)
+
 --------
 
 ## [< Back to Airport INDEX >](/categories/airport/)
