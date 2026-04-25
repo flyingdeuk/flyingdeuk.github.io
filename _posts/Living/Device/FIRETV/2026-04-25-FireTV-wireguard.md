@@ -32,26 +32,26 @@ pin:
 
 ------------
 
-![fire](/img/living/fire/wire14.png)
+![fire](/img/living/fire/wire14.PNG)
 - 편의상 핸드폰 어플을 이용하는 방법을 소개한다. 
 - 관리도구 - 전체 설정 - VPN 설정 - WireGuard 서버 설정
 
 -------
 
-![fire](/img/living/fire/wire19.png)
+![fire](/img/living/fire/wire19.PNG)
 - 일단 실행을 눌러주고 나머지는 건드리지 않아도 됨. 
 - 아래로 내려서 더하기(추가) 버튼을 눌러준다. 
 - 피어 추가 자동으로 그냥 두고 이름은 알아서 입력
 
 ------
 
-![fire](/img/living/fire/wire15.png)
+![fire](/img/living/fire/wire15.PNG)
 - QR이 나오지만 파일을 이용할 거라 아래의 피어설정 다운로드를 누른다. 
 - 핸드폰에 따라 다르겠지만 아이폰의 경우는 해당 폴더에 저장된다. 
 
 ----------
 
-![fire](/img/living/fire/wire16.png)
+![fire](/img/living/fire/wire16.PNG)
 - 파일 어플에서 해당 위치에 가보면 잘 저장이 되어있다. 
 - 확장자는 .conf 파일이다. 
 
@@ -65,12 +65,12 @@ Fire TV에 파일 전송을 하는 방법중 어디서나 가능한 방법을 �
 
 -----------
 
-![fire](/img/living/fire/wire17.png)
+![fire](/img/living/fire/wire17.PNG)
 - 드라이브 어플을 열고 아래의 더하기를 눌러준다. 다음 파일 업로드 - 탐색
 
 -------
 
-![fire](/img/living/fire/wire18.png)
+![fire](/img/living/fire/wire18.PNG)
 - 폴더 위치를 찾아도 되나 conf 파일은 거의 없으므로 conf로 검색하면 바로 내 폰에 있는 파일을 빠르게 찾을 수 있다. 
 - 업로드할 본인 드라이브의 폴더를 정하고 업로드 후 확인!!!
 
