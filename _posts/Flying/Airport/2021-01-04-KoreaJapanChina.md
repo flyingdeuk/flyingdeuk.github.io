@@ -49,6 +49,8 @@ pin:
 
 ### [RJSN(KIJ) - 일본 니가타(니가타 공항)](/posts/RJSN-KIJ/)
 
+### [RJFK(KOJ) - 일본 가고시마(가고시마 공항)](/posts/RJFK-KOJ/)
+
 --------
 
 # China
