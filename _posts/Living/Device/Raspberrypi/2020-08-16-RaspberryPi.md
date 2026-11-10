@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi 4B(4GB) - 라즈베리파이 작지만 강력한 성능의 미니 컴퓨터 <2026.11 Updated>
+title: Raspberry Pi 4B(4GB) Season 1 - 라즈베리파이 작지만 강력한 성능의 미니 컴퓨터 <2026.11 Updated>
 author: FlyingDeuk
 date: 2020-08-16 20:55:00 +0800
 categories: [Living, Device]
@@ -7,7 +7,7 @@ tags: [usefulthing, linux, raspberrypi]
 pin:
 ---
 
-# `64bit 버전 업데이트 재설치 편` -> Click
+## [`새로운 도전 라즈베리파이 OS 64bit 재설치 with OpenMediaVault Season 2`]() -> Click
 
 
 ![pi](/img/living/pi/pi.jpg)

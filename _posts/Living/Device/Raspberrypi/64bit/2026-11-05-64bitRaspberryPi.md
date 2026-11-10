@@ -7,30 +7,24 @@ tags: [usefulthing, linux, raspberrypi]
 pin:
 ---
 
-# `64bit 버전 업데이트 재설치 편` -> Click
-
-
 ![pi](/img/living/pi/pi.jpg)
 
 
 `FlyingDeuk's`
-> 영국에서 개발도상국에 배포하기 위한 미니 컴퓨터를 개발하게 되었고 저렴한 가격에 최소의 성능으로 모두가 컴퓨터를 접하고 경험하게 하기위해 판매되기 시작함.<br>
-초기 USD 30 정도의 가격으로 시작해서 현재는 USD 50 정도로 성능과 함께 가격도 상승됨.
+> 2021년 당시 설치 환경과 많이 바뀐거 같다. 라즈베리파이의 업데이트도 끝난거 같고 Home Assistance를 알아보다가 32Bit에는 한계가 있다는 것을 느끼고 다시 도전해 보기로...
+> 64Bit Light 버전(No Desktop)에 OpenMediaVault를 올려보기로...
+> 최종은 Home Assistance로 애플 홈 서버를 만드는 것임....
 
-`Wiki's`
->라즈베리 파이(영어: Raspberry Pi)는 영국 잉글랜드의 라즈베리 파이 재단이 학교와 개발도상국에서 기초 컴퓨터 과학의 교육을 증진시키기 위해 개발한 신용카드 크기의 싱글 보드 컴퓨터이다.
+--------
 
-# 내가 쓰는 라즈베리파이
-작년에 라즈베리파이 4B를 구매해서 사용하고 있다. (중고나라 4만원)
-- OS : raspberry OS (가장 가볍고 최적화되어 있는 정식 OS) <br>
-- SSH : 원격제어(CLI)로 기기를 제어할 때 사용
-- VNC : 원격제어(GUI)로 모니터 키보드 마우스 없이 사용 <br>
-- KODI : 영화보는 용도로 사용 <br>
-- Transmission-Daemon : 토렌트 다운로드용으로 사용 <br>
-- vsftpd : ftp server로 사용 <br>
-- minidlna : TV에 영화를 바로 공유하는 데 사용 <br>
-
-새롭게 도전하는 것들... (64bit)
+# 새롭게 도전하는 것들
+- 라즈베리파이 OS 32Bit -> 64Bit (Light Version)
+  - 가능하면 데스크탑 도움없이 CLI로 모든 것을 해보고 싶음. 
+- OpenMediaVault : 파일 관리를 조금 더 고급스럽게 NAS 처럼 사용해보기
+- DOCKER : DOCKER 설치해서 새로운 어플들 운영해보기
+  - Transmisstion
+  - Photo Backup
+  - 영화 스트리밍 
 
 ----------------
 
